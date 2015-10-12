@@ -62,15 +62,20 @@ import colorama
 colorama.init()
 
 # Path to the documentation directory in the local OF site copy :
-docSourcesRootPath = 'C:\Users\username\Documents\of\ofSite\_documentation'
+# Example:
+# docSourcesRootPath = 'C:\Users\username\Documents\of\ofSite\_documentation'
+docSourcesRootPath = os.path.expanduser('~/Documents/of/ofSite/_documentation')
 
 # Path to the directory which will receive the index files.
 # You can define it or leave it to create an 'index' directory within the current working directory.
-# Custom directory example for Windows: indexPath = 'C:\Users\username\Documents\of\documentation\shortcut-script\index'
+# Custom directory example for Windows:
+# indexPath = 'C:\Users\username\Documents\of\documentation\shortcut-script\index'
 indexPath = os.path.join( os.getcwd(), 'index' );
 
 # Path to the Pandoc executable. If Pandoc is in your path you can do pandocExe = 'pandoc'
-pandocExe = '"C:\Users\username\AppData\Local\Pandoc\pandoc.exe"'
+# Example:
+# pandocExe = 'C:\Users\username\AppData\Local\Pandoc\pandoc.exe'
+pandocExe = os.path.expanduser('~/AppData/Local/Pandoc/pandoc.exe')
 
 # If this 3 paths are set, no need to read further, you can run the script
 
@@ -95,7 +100,7 @@ def convertMarkDownToHTML( filePath, fileRelPath, dirRelPath ):
         if( not os.path.exists( htmlDir ) ):
             os.makedirs( htmlDir )
         print 'Convert "' + fileRelPath + '" to HTML'
-        command = pandocExe + ' "' + filePath + '" -s --toc -o "' + htmlPath
+        command = '"' + pandocExe + '" "' + filePath + '" -s --toc -o "' + htmlPath
         sys.stdout.flush()
         subprocess.call( command, shell=True )
         
