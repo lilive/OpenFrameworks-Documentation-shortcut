@@ -1,0 +1,2 @@
+ofMatrix4x4 math/ofMatrix4x4.html#show_operator
+ExtensionComparator utils/ExtensionComparator.html#show_operator

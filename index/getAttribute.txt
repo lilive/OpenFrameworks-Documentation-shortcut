@@ -1,0 +1,2 @@
+ofxXmlSettings ofxXmlSettings/ofxXmlSettings.html#show_getAttribute
+ofXml utils/ofXml.html#show_getAttribute

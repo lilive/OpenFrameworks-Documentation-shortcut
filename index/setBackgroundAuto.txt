@@ -1,0 +1,6 @@
+ofNoopRenderer application/ofNoopRenderer.html#show_setBackgroundAuto
+ofGLProgrammableRenderer gl/ofGLProgrammableRenderer.html#show_setBackgroundAuto
+ofGLRenderer gl/ofGLRenderer.html#show_setBackgroundAuto
+ofCairoRenderer graphics/ofCairoRenderer.html#show_setBackgroundAuto
+ofRendererCollection graphics/ofRendererCollection.html#show_setBackgroundAuto
+ofBaseRenderer types/ofBaseRenderer.html#show_setBackgroundAuto

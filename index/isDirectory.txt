@@ -1,0 +1,2 @@
+ofDirectory utils/ofDirectory.html#show_isDirectory
+ofFile utils/ofFile.html#show_isDirectory

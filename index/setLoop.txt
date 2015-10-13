@@ -1,0 +1,7 @@
+ofxAndroidSoundPlayer ofxAndroid/ofxAndroidSoundPlayer.html#show_setLoop
+ofxiOSSoundPlayer ofxiOS/ofxiOSSoundPlayer.html#show_setLoop
+ofxOpenALSoundPlayer ofxiOS/ofxOpenALSoundPlayer.html#show_setLoop
+ofFmodSoundPlayer sound/ofFmodSoundPlayer.html#show_setLoop
+ofOpenALSoundPlayer sound/ofOpenALSoundPlayer.html#show_setLoop
+ofSoundPlayer sound/ofSoundPlayer.html#show_setLoop
+ofBaseSoundPlayer types/ofBaseSoundPlayer.html#show_setLoop

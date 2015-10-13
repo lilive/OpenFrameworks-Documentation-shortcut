@@ -1,0 +1,7 @@
+ofAppAndroidWindow ofxAndroid/ofAppAndroidWindow.html#show_getScreenSize
+ofAppiOSWindow ofxiOS/ofAppiOSWindow.html#show_getScreenSize
+ofAppBaseWindow application/ofAppBaseWindow.html#show_getScreenSize
+ofAppEGLWindow application/ofAppEGLWindow.html#show_getScreenSize
+ofAppGLFWWindow application/ofAppGLFWWindow.html#show_getScreenSize
+ofAppGlutWindow application/ofAppGlutWindow.html#show_getScreenSize
+ofAppNoWindow application/ofAppNoWindow.html#show_getScreenSize

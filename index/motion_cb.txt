@@ -1,0 +1,2 @@
+ofAppGLFWWindow application/ofAppGLFWWindow.html#show_motion_cb
+ofAppGlutWindow application/ofAppGlutWindow.html#show_motion_cb

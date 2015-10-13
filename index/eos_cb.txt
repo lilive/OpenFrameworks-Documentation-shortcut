@@ -1,0 +1,2 @@
+ofGstUtils video/ofGstUtils.html#show_eos_cb
+ofGstVideoUtils video/ofGstVideoUtils.html#show_eos_cb

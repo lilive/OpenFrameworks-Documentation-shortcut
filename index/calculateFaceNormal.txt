@@ -1,0 +1,1 @@
+ofMeshFace 3d/ofMeshFace.html#show_calculateFaceNormal

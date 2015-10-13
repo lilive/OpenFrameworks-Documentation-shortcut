@@ -1,0 +1,5 @@
+ofCamera 3d/ofCamera.html#show_isVFlipped
+ofGLProgrammableRenderer gl/ofGLProgrammableRenderer.html#show_isVFlipped
+ofGLRenderer gl/ofGLRenderer.html#show_isVFlipped
+ofBaseRenderer types/ofBaseRenderer.html#show_isVFlipped
+ofMatrixStack utils/ofMatrixStack.html#show_isVFlipped

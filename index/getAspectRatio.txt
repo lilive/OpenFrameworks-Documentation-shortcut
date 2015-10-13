@@ -1,0 +1,2 @@
+ofCamera 3d/ofCamera.html#show_getAspectRatio
+ofRectangle types/ofRectangle.html#show_getAspectRatio

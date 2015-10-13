@@ -1,0 +1,2 @@
+ofxBase3DVideo ofxKinect/ofxBase3DVideo.html#show_getDistancePixels
+ofxKinect ofxKinect/ofxKinect.html#show_getDistancePixels

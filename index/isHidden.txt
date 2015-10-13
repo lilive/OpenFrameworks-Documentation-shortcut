@@ -1,0 +1,2 @@
+ofDirectory utils/ofDirectory.html#show_isHidden
+ofFile utils/ofFile.html#show_isHidden

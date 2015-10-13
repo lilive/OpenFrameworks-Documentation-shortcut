@@ -1,0 +1,2 @@
+ofxTCPManager ofxNetwork/ofxTCPManager.html#show_SendAll
+ofxUDPManager ofxNetwork/ofxUDPManager.html#show_SendAll

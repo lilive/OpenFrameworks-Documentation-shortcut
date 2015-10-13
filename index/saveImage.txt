@@ -1,0 +1,2 @@
+ofxiOSImagePicker ofxiOS/ofxiOSImagePicker.html#show_saveImage
+ofImage_ graphics/ofImage.html#show_saveImage

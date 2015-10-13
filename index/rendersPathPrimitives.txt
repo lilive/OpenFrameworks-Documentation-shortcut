@@ -1,0 +1,6 @@
+ofNoopRenderer application/ofNoopRenderer.html#show_rendersPathPrimitives
+ofGLProgrammableRenderer gl/ofGLProgrammableRenderer.html#show_rendersPathPrimitives
+ofGLRenderer gl/ofGLRenderer.html#show_rendersPathPrimitives
+ofCairoRenderer graphics/ofCairoRenderer.html#show_rendersPathPrimitives
+ofRendererCollection graphics/ofRendererCollection.html#show_rendersPathPrimitives
+ofBaseRenderer types/ofBaseRenderer.html#show_rendersPathPrimitives

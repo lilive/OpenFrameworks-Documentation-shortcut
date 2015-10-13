@@ -1,0 +1,2 @@
+ofMatrix4x4 math/ofMatrix4x4.html#show_getRotate
+ofQuaternion math/ofQuaternion.html#show_getRotate

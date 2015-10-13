@@ -1,0 +1,2 @@
+ofxiOSKeyboard ofxiOS/ofxiOSKeyboard.html#show_getText
+ofBuffer utils/ofBuffer.html#show_getText

@@ -1,0 +1,6 @@
+ofNoopRenderer application/ofNoopRenderer.html#show_setupScreenOrtho
+ofGLProgrammableRenderer gl/ofGLProgrammableRenderer.html#show_setupScreenOrtho
+ofGLRenderer gl/ofGLRenderer.html#show_setupScreenOrtho
+ofCairoRenderer graphics/ofCairoRenderer.html#show_setupScreenOrtho
+ofRendererCollection graphics/ofRendererCollection.html#show_setupScreenOrtho
+ofBaseRenderer types/ofBaseRenderer.html#show_setupScreenOrtho

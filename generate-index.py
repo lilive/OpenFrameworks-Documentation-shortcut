@@ -40,15 +40,6 @@ To parse them, the script first convert them to html using Pandoc. This create h
 indexPath\html. You can delete this folder after usage, or leave it to speed up the next update (only
 the .markdown files more recents than the .html files will be reconverted by Pandoc).
 
-TODO
-====
-
-Classes are recognized, and global functions.
-But classes methods are not.
-Idea: Index classes methods and when a class method if search with open-documentation.py, open
-a window which display all the matches for this method name (because many classes have
-common methods names).
-
 """
 
 import sys
@@ -130,6 +121,38 @@ def splitDirPath( path ):
 
 ###################################################################################################
 
+def parseFunctionLink( a, fileRelPath ):
+    
+    """Extract the function name, the function signature, and the anchor from a link HTML tag <a>.
+    Return ( success, name, signature, anchor ) where success is True or False."""
+    
+    content = a.string
+    if content is None :
+        m = re.search( '.*?>([^\(]+(\w+)\(.*)<', str(a) )
+        if m is None:
+            print colorama.Fore.RED
+            print 'Unable to read function name in file ' + fileRelPath
+            print 'Tag:'
+            print a
+            print colorama.Style.RESET_ALL
+            return ( False, '', '' ) 
+        else:
+            functionSignature = m.group(1)
+            functionName = m.group(2)
+            print colorama.Fore.BLUE + 'Verify this function name from ' + fileRelPath
+            print functionName + '()' + colorama.Style.RESET_ALL
+            return ( True, functionName, functionSignature )
+    else:
+        m = re.search( '^.*?\s(\w+)\(.*\)$', content )
+        if m is None:
+            return ( False, '', '' )
+        else:
+            functionName = m.group(1)
+            return ( True, functionName, content )
+                
+
+###################################################################################################
+
 def createFunctionsIndex( htmlPath, fileRelPath ) :
     
     """Add index entries for a set of of functions""" 
@@ -143,7 +166,7 @@ def createFunctionsIndex( htmlPath, fileRelPath ) :
     # Find all the functions
     functionsList = toc.ul.li.ul.li.ul
     if functionsList is None:
-        print colorama.Fore.RED + 'No function list found in ' + fileRelPath + colorama.Style.RESET_ALL
+        print colorama.Fore.YELLOW + 'No function list found in ' + fileRelPath + colorama.Style.RESET_ALL
         return
         
     functions = functionsList.find_all('li')
@@ -151,34 +174,12 @@ def createFunctionsIndex( htmlPath, fileRelPath ) :
     for function in functions:
     
         # Find function name
-        functionName = ''
-        line = function.a.string
-        if line is None :
-            # print 'File:' + fileRelPath
-            # print str(function.a)
-            m = re.search( '.*?>[^\(]+\s(\w+)\(', str(function.a) )
-            if m is None:
-                print colorama.Fore.RED
-                print 'Unable to read function name in file ' + fileRelPath
-                print 'Tag:'
-                print function
-                print colorama.Style.RESET_ALL
-                continue
-            else:
-                functionName = m.group(1)
-                if functionName in ofFunctionsList:
-                    continue
-                print colorama.Fore.BLUE + 'Verify this function name from ' + fileRelPath
-                print functionName + '()' + colorama.Style.RESET_ALL
-        else:
-            m = re.search( '^.*\s(\w+)\(.*\)$', line )
-            if m is None:
-                continue
-            else:
-                functionName = m.group(1)
-                if functionName in ofFunctionsList:
-                    continue
-                print "Function found: " + functionName
+        ( success, functionName, functionSignature ) = parseFunctionLink( function.a, fileRelPath )
+        if not success:
+            continue
+        if functionName in ofFunctionsList:
+            continue
+        print "Function found: " + functionName
             
         ofFunctionsList.append( functionName )
         
@@ -209,33 +210,68 @@ def createClassIndex( htmlPath, fileRelPath ) :
         
     # Find table of content
     toc = soup.find(id='TOC')
-    
-    # Find title
-    li = toc.ul.li
-    title = li.a.string
+    tocLi = toc.ul.li
+    if toc is None or tocLi is None:
+        print colorama.Fore.RED + 'No TOC found in ' + fileRelPath + colorama.Style.RESET_ALL
+        return
     
     # Find class name
+    title = tocLi.a.string
     m = re.search( '^class\s+(\w+)_?', title )
-    if not m is None:
-        className = m.group(1)
-        print "Class found: " + className
+    if m is None:
+        return
         
-        # Create path to this class.
-        # This path will allow to open the right html page for this class in the documentation.
-        ( fileRelPathWithoutExt, _ ) = os.path.splitext( fileRelPath )
-        # We must remove the addons/ part at the beginning ot the path, if any
-        parts = splitDirPath( fileRelPathWithoutExt )
-        if parts[0] == 'addons' :
-            fileRelPathWithoutExt = '/'.join( parts[ 1: ] )
+    className = m.group(1)
+    print "Class found: " + className
+    
+    # Create path to this class.
+    # This path will allow to open the right html page for this class in the documentation.
+    ( fileRelPathWithoutExt, _ ) = os.path.splitext( fileRelPath )
+    # We must remove the addons/ part at the beginning ot the path, if any
+    parts = splitDirPath( fileRelPathWithoutExt )
+    if parts[0] == 'addons' :
+        fileRelPathWithoutExt = '/'.join( parts[ 1: ] )
+    else:
+        fileRelPathWithoutExt = '/'.join( parts )
+    
+    # Trailing underscores must be ignored
+    if fileRelPathWithoutExt.endswith( '_' ) :
+        fileRelPathWithoutExt = fileRelPathWithoutExt[ 0 : -1 ]
+    
+    # Ready to write this entry to the index
+    indexFile.write( className + ' ' + fileRelPathWithoutExt + '\n' )
+    
+    # Find methods list for this class
+    
+    if tocLi.ul is None:
+        return
+        
+    methods = None
+    for li in tocLi.ul.find_all('li'):
+        if li.a is None:
+            continue
+        if li.a.string == 'Methods':
+            if li.ul is None:
+                continue
+            methods = li.ul.find_all('li')
+            
+    if methods is None:
+        return
+    
+    # Memorize the names and the links to these methods
+    
+    for method in methods:
+        ( success, functionName, functionSignature ) = parseFunctionLink( method.a, fileRelPath )
+        if not success:
+            continue
+        print 'Method found: ' + className + '::' + functionName + '()'
+        entry = ( className, fileRelPathWithoutExt )
+        if functionName in classesMethods:
+            if not entry in classesMethods[ functionName ]:
+                classesMethods[ functionName ].append( entry );
         else:
-            fileRelPathWithoutExt = '/'.join( parts )
-        
-        # Trailing underscores must be ignored
-        if fileRelPathWithoutExt.endswith( '_' ) :
-            fileRelPathWithoutExt = fileRelPathWithoutExt[ 0 : -1 ]
-        
-        # Ready to write this entry to the index
-        indexFile.write( className + ' ' + fileRelPathWithoutExt + '\n' )
+            classesMethods[ functionName ] = [ entry ];
+    
 
 
 ###################################################################################################
@@ -250,9 +286,20 @@ htmlRootDirPath = os.path.join( indexPath, 'html' )
 if( not os.path.exists( htmlRootDirPath )):
     os.makedirs( htmlRootDirPath )
 
+# List of all the OF global functions. Used to memorize the OF global functions and avoid multiple
+# identicals entries in the index (because these functions may be overloaded).
+# createFunctionsIndex() will populate this list.
 ofFunctionsList = []
 
-# Traverse the documentation to find OF keywords
+# All the classes methods.
+# Keys of the dictionnary are the functions names.
+# The value are list. Each list contains pairs in the form ( className, fileRelPathWithoutExt ).
+# createClassIndex() will populate this dictionnary.
+classesMethods = dict()
+
+# Traverse the documentation to find OF keywords,
+# and write the index for all the classes and the globalMethods
+
 for dirPath, dirNames, fileNames in os.walk( docSourcesRootPath ):
     for fileName in fileNames:
         
@@ -277,3 +324,12 @@ for dirPath, dirNames, fileNames in os.walk( docSourcesRootPath ):
             createClassIndex( htmlPath, fileRelPath )
             
 indexFile.close()
+
+# Create the index for each classes method found, because a same method name can be use in several different classes
+
+for functionName, entries in classesMethods.iteritems():
+    indexFile = open( os.path.join( indexPath, functionName + '.txt' ), 'w' )
+    for ( className, fileRelPathWithoutExt ) in entries:
+        print functionName, className, fileRelPathWithoutExt
+        indexFile.write( className + ' ' + fileRelPathWithoutExt + '.html#show_' + functionName + '\n' )
+    indexFile.close()

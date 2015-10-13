@@ -1,0 +1,2 @@
+ofGstAppSink video/ofGstAppSink.html#show_on_message
+ofGstVideoPlayer video/ofGstVideoPlayer.html#show_on_message

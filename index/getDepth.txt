@@ -1,0 +1,1 @@
+ofBoxPrimitive 3d/ofBoxPrimitive.html#show_getDepth

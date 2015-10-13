@@ -1,0 +1,3 @@
+ofMatrix4x4 math/ofMatrix4x4.html#show_rotateRad
+ofVec2f math/ofVec2f.html#show_rotateRad
+ofVec3f math/ofVec3f.html#show_rotateRad

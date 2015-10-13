@@ -1,0 +1,2 @@
+ofxColorSlider_ ofxGui/ofxColorSlider.html#show_changeSlider
+ofxVecSlider_ ofxGui/ofxVecSlider.html#show_changeSlider

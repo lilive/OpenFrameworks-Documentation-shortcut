@@ -1,0 +1,6 @@
+ofAppAndroidWindow ofxAndroid/ofAppAndroidWindow.html#show_enableSetupScreen
+ofAppiOSWindow ofxiOS/ofAppiOSWindow.html#show_enableSetupScreen
+ofAppBaseWindow application/ofAppBaseWindow.html#show_enableSetupScreen
+ofAppEGLWindow application/ofAppEGLWindow.html#show_enableSetupScreen
+ofAppGLFWWindow application/ofAppGLFWWindow.html#show_enableSetupScreen
+ofAppGlutWindow application/ofAppGlutWindow.html#show_enableSetupScreen

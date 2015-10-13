@@ -1,0 +1,3 @@
+ofBoxPrimitive 3d/ofBoxPrimitive.html#show_getSize
+ofTrueTypeFont graphics/ofTrueTypeFont.html#show_getSize
+ofFile utils/ofFile.html#show_getSize

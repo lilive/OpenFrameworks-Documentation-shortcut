@@ -1,0 +1,2 @@
+ofDirectory utils/ofDirectory.html#show_copyTo
+ofFile utils/ofFile.html#show_copyTo

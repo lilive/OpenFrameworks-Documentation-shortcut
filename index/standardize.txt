@@ -1,0 +1,1 @@
+ofRectangle types/ofRectangle.html#show_standardize

@@ -1,0 +1,2 @@
+ofDirectory utils/ofDirectory.html#show_path
+ofFile utils/ofFile.html#show_path

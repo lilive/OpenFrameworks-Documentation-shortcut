@@ -1,0 +1,3 @@
+ofxXmlSettings ofxXmlSettings/ofxXmlSettings.html#show_serialize
+ofBaseSerializer types/ofBaseSerializer.html#show_serialize
+ofXml utils/ofXml.html#show_serialize

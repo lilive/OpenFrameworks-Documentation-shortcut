@@ -1,0 +1,2 @@
+ofxAndroidApp ofxAndroid/ofxAndroidApp.html#show_pause
+ofxAndroidSoundStream ofxAndroid/ofxAndroidSoundStream.html#show_pause

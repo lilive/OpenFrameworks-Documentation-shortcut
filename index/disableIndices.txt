@@ -1,0 +1,3 @@
+ofMesh 3d/ofMesh.html#show_disableIndices
+ofVbo gl/ofVbo.html#show_disableIndices
+ofVboMesh gl/ofVboMesh.html#show_disableIndices

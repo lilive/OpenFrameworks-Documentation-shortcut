@@ -1,0 +1,2 @@
+ofAbstractParameter types/ofAbstractParameter.html#show_getEscapedName
+ofParameterGroup types/ofParameterGroup.html#show_getEscapedName

@@ -1,0 +1,6 @@
+ofGLProgrammableRenderer gl/ofGLProgrammableRenderer.html#show_getCurrentMatrix
+ofGLRenderer gl/ofGLRenderer.html#show_getCurrentMatrix
+ofCairoRenderer graphics/ofCairoRenderer.html#show_getCurrentMatrix
+ofRendererCollection graphics/ofRendererCollection.html#show_getCurrentMatrix
+ofBaseRenderer types/ofBaseRenderer.html#show_getCurrentMatrix
+ofMatrixStack utils/ofMatrixStack.html#show_getCurrentMatrix

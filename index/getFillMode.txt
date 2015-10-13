@@ -1,0 +1,6 @@
+ofNoopRenderer application/ofNoopRenderer.html#show_getFillMode
+ofGLProgrammableRenderer gl/ofGLProgrammableRenderer.html#show_getFillMode
+ofGLRenderer gl/ofGLRenderer.html#show_getFillMode
+ofCairoRenderer graphics/ofCairoRenderer.html#show_getFillMode
+ofRendererCollection graphics/ofRendererCollection.html#show_getFillMode
+ofBaseRenderer types/ofBaseRenderer.html#show_getFillMode

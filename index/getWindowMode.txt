@@ -1,0 +1,6 @@
+ofAppAndroidWindow ofxAndroid/ofAppAndroidWindow.html#show_getWindowMode
+ofAppiOSWindow ofxiOS/ofAppiOSWindow.html#show_getWindowMode
+ofAppBaseWindow application/ofAppBaseWindow.html#show_getWindowMode
+ofAppEGLWindow application/ofAppEGLWindow.html#show_getWindowMode
+ofAppGLFWWindow application/ofAppGLFWWindow.html#show_getWindowMode
+ofAppGlutWindow application/ofAppGlutWindow.html#show_getWindowMode

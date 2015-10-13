@@ -1,0 +1,2 @@
+ofPixels_ graphics/ofPixels.html#show_setChannel
+ofLog utils/ofLog.html#show_setChannel

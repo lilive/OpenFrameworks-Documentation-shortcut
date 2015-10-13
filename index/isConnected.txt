@@ -1,0 +1,4 @@
+ofxKinect ofxKinect/ofxKinect.html#show_isConnected
+ofxKinectContext ofxKinect/ofxKinectContext.html#show_isConnected
+ofxTCPClient ofxNetwork/ofxTCPClient.html#show_isConnected
+ofxTCPServer ofxNetwork/ofxTCPServer.html#show_isConnected

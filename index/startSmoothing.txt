@@ -1,0 +1,2 @@
+ofGLProgrammableRenderer gl/ofGLProgrammableRenderer.html#show_startSmoothing
+ofGLRenderer gl/ofGLRenderer.html#show_startSmoothing

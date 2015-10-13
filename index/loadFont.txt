@@ -1,0 +1,2 @@
+ofxBaseGui ofxGui/ofxBaseGui.html#show_loadFont
+ofTrueTypeFont graphics/ofTrueTypeFont.html#show_loadFont

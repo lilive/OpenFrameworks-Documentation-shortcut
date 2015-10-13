@@ -1,0 +1,6 @@
+ofAppAndroidWindow ofxAndroid/ofAppAndroidWindow.html#show_setFullscreen
+ofAppiOSWindow ofxiOS/ofAppiOSWindow.html#show_setFullscreen
+ofAppBaseWindow application/ofAppBaseWindow.html#show_setFullscreen
+ofAppEGLWindow application/ofAppEGLWindow.html#show_setFullscreen
+ofAppGLFWWindow application/ofAppGLFWWindow.html#show_setFullscreen
+ofAppGlutWindow application/ofAppGlutWindow.html#show_setFullscreen

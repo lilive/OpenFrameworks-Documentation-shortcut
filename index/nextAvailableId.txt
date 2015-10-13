@@ -1,0 +1,2 @@
+ofxKinect ofxKinect/ofxKinect.html#show_nextAvailableId
+ofxKinectContext ofxKinect/ofxKinectContext.html#show_nextAvailableId

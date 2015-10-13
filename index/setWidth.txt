@@ -1,0 +1,3 @@
+ofBoxPrimitive 3d/ofBoxPrimitive.html#show_setWidth
+ofPlanePrimitive 3d/ofPlanePrimitive.html#show_setWidth
+ofRectangle types/ofRectangle.html#show_setWidth

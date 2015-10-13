@@ -1,0 +1,5 @@
+ofxCvColorImage ofxOpenCv/ofxCvColorImage.html#show_contrastStretch
+ofxCvFloatImage ofxOpenCv/ofxCvFloatImage.html#show_contrastStretch
+ofxCvGrayscaleImage ofxOpenCv/ofxCvGrayscaleImage.html#show_contrastStretch
+ofxCvImage ofxOpenCv/ofxCvImage.html#show_contrastStretch
+ofxCvShortImage ofxOpenCv/ofxCvShortImage.html#show_contrastStretch

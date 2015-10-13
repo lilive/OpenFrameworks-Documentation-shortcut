@@ -1,0 +1,2 @@
+ofNoopRenderer application/ofNoopRenderer.html#show_drawSphere
+ofCairoRenderer graphics/ofCairoRenderer.html#show_drawSphere

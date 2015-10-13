@@ -1,0 +1,6 @@
+Vector3DS ofx3DModelLoader/Vector3DS.html#show_normalize
+ofQuaternion math/ofQuaternion.html#show_normalize
+ofVec2f math/ofVec2f.html#show_normalize
+ofVec3f math/ofVec3f.html#show_normalize
+ofVec4f math/ofVec4f.html#show_normalize
+ofColor_ types/ofColor.html#show_normalize

@@ -1,0 +1,16 @@
+ofxAndroidSoundPlayer ofxAndroid/ofxAndroidSoundPlayer.html#show_setVolume
+ofxAndroidVideoPlayer ofxAndroid/ofxAndroidVideoPlayer.html#show_setVolume
+ofxiOSSoundPlayer ofxiOS/ofxiOSSoundPlayer.html#show_setVolume
+ofxiOSVideoPlayer ofxiOS/ofxiOSVideoPlayer.html#show_setVolume
+ofxOpenALSoundPlayer ofxiOS/ofxOpenALSoundPlayer.html#show_setVolume
+ofFmodSoundPlayer sound/ofFmodSoundPlayer.html#show_setVolume
+ofOpenALSoundPlayer sound/ofOpenALSoundPlayer.html#show_setVolume
+ofSoundPlayer sound/ofSoundPlayer.html#show_setVolume
+ofBaseSoundPlayer types/ofBaseSoundPlayer.html#show_setVolume
+ofBaseVideoPlayer types/ofBaseVideoPlayer.html#show_setVolume
+ofGstUtils video/ofGstUtils.html#show_setVolume
+ofGstVideoPlayer video/ofGstVideoPlayer.html#show_setVolume
+ofiPhoneVideoPlayer video/ofiPhoneVideoPlayer.html#show_setVolume
+ofQTKitPlayer video/ofQTKitPlayer.html#show_setVolume
+ofQuickTimePlayer video/ofQuickTimePlayer.html#show_setVolume
+ofVideoPlayer video/ofVideoPlayer.html#show_setVolume

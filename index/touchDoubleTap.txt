@@ -1,0 +1,3 @@
+ofxAndroidApp ofxAndroid/ofxAndroidApp.html#show_touchDoubleTap
+ofxiOSApp ofxiOS/ofxiOSApp.html#show_touchDoubleTap
+ofxMultiTouchListener ofxMultitouch/ofxMultiTouchListener.html#show_touchDoubleTap

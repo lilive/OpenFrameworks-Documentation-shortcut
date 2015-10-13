@@ -1,0 +1,1 @@
+ofxSlider ofxGui/ofxSlider.html#show_setUpdateOnReleaseOnly

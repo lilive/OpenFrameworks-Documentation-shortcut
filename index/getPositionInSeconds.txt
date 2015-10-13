@@ -1,0 +1,2 @@
+ofxAssimpAnimation ofxAssimpModelLoader/ofxAssimpAnimation.html#show_getPositionInSeconds
+ofQTKitPlayer video/ofQTKitPlayer.html#show_getPositionInSeconds

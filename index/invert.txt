@@ -1,0 +1,3 @@
+ofxCvImage ofxOpenCv/ofxCvImage.html#show_invert
+ofMatrix3x3 math/ofMatrix3x3.html#show_invert
+ofColor_ types/ofColor.html#show_invert

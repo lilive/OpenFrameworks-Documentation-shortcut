@@ -1,0 +1,4 @@
+ofxAndroidLogChannel ofxAndroid/ofxAndroidLogChannel.html#show_log
+ofBaseLoggerChannel types/ofBaseLoggerChannel.html#show_log
+ofConsoleLoggerChannel utils/ofConsoleLoggerChannel.html#show_log
+ofFileLoggerChannel utils/ofFileLoggerChannel.html#show_log

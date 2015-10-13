@@ -1,0 +1,6 @@
+ofNoopRenderer application/ofNoopRenderer.html#show_setBlendMode
+ofGLProgrammableRenderer gl/ofGLProgrammableRenderer.html#show_setBlendMode
+ofGLRenderer gl/ofGLRenderer.html#show_setBlendMode
+ofCairoRenderer graphics/ofCairoRenderer.html#show_setBlendMode
+ofRendererCollection graphics/ofRendererCollection.html#show_setBlendMode
+ofBaseRenderer types/ofBaseRenderer.html#show_setBlendMode

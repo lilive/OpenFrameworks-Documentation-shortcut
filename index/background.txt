@@ -1,0 +1,6 @@
+ofNoopRenderer application/ofNoopRenderer.html#show_background
+ofGLProgrammableRenderer gl/ofGLProgrammableRenderer.html#show_background
+ofGLRenderer gl/ofGLRenderer.html#show_background
+ofCairoRenderer graphics/ofCairoRenderer.html#show_background
+ofRendererCollection graphics/ofRendererCollection.html#show_background
+ofBaseRenderer types/ofBaseRenderer.html#show_background

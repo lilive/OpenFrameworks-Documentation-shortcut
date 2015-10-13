@@ -1,0 +1,1 @@
+ofSerialDeviceInfo types/ofSerialDeviceInfo.html#show_getDeviceName

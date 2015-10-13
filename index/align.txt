@@ -1,0 +1,2 @@
+ofVec2f math/ofVec2f.html#show_align
+ofVec3f math/ofVec3f.html#show_align

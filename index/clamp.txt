@@ -1,0 +1,1 @@
+ofColor_ types/ofColor.html#show_clamp

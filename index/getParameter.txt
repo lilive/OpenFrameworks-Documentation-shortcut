@@ -1,0 +1,8 @@
+ofxBaseGui ofxGui/ofxBaseGui.html#show_getParameter
+ofxColorSlider_ ofxGui/ofxColorSlider.html#show_getParameter
+ofxGuiGroup ofxGui/ofxGuiGroup.html#show_getParameter
+ofxLabel ofxGui/ofxLabel.html#show_getParameter
+ofxSlider ofxGui/ofxSlider.html#show_getParameter
+ofxToggle ofxGui/ofxToggle.html#show_getParameter
+ofxVecSlider_ ofxGui/ofxVecSlider.html#show_getParameter
+ofxOscReceiver ofxOsc/ofxOscReceiver.html#show_getParameter

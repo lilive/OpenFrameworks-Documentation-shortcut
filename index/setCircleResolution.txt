@@ -1,0 +1,7 @@
+ofNoopRenderer application/ofNoopRenderer.html#show_setCircleResolution
+ofGLProgrammableRenderer gl/ofGLProgrammableRenderer.html#show_setCircleResolution
+ofGLRenderer gl/ofGLRenderer.html#show_setCircleResolution
+ofPath graphics/ofPath.html#show_setCircleResolution
+ofPolyline graphics/ofPolyline.html#show_setCircleResolution
+ofRendererCollection graphics/ofRendererCollection.html#show_setCircleResolution
+ofBaseRenderer types/ofBaseRenderer.html#show_setCircleResolution

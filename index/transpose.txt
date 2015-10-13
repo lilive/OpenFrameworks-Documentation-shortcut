@@ -1,0 +1,1 @@
+ofMatrix3x3 math/ofMatrix3x3.html#show_transpose

@@ -1,0 +1,2 @@
+material3DS ofx3DModelLoader/material3DS.html#show_getShininess
+ofMaterial gl/ofMaterial.html#show_getShininess

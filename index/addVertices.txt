@@ -1,0 +1,2 @@
+ofMesh 3d/ofMesh.html#show_addVertices
+ofPolyline graphics/ofPolyline.html#show_addVertices

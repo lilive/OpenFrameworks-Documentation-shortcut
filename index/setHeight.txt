@@ -1,0 +1,5 @@
+ofBoxPrimitive 3d/ofBoxPrimitive.html#show_setHeight
+ofConePrimitive 3d/ofConePrimitive.html#show_setHeight
+ofCylinderPrimitive 3d/ofCylinderPrimitive.html#show_setHeight
+ofPlanePrimitive 3d/ofPlanePrimitive.html#show_setHeight
+ofRectangle types/ofRectangle.html#show_setHeight

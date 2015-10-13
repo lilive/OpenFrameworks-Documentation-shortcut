@@ -1,0 +1,8 @@
+ofxCvContourFinder ofxOpenCv/ofxCvContourFinder.html#show_resetAnchor
+ofxCvImage ofxOpenCv/ofxCvImage.html#show_resetAnchor
+ofFbo gl/ofFbo.html#show_resetAnchor
+ofTexture gl/ofTexture.html#show_resetAnchor
+ofImage_ graphics/ofImage.html#show_resetAnchor
+ofBaseDraws types/ofBaseDraws.html#show_resetAnchor
+ofVideoGrabber video/ofVideoGrabber.html#show_resetAnchor
+ofVideoPlayer video/ofVideoPlayer.html#show_resetAnchor

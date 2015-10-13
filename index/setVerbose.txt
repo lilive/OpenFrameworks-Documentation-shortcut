@@ -1,0 +1,10 @@
+ofxAndroidVideoGrabber ofxAndroid/ofxAndroidVideoGrabber.html#show_setVerbose
+ofxTCPClient ofxNetwork/ofxTCPClient.html#show_setVerbose
+ofxTCPServer ofxNetwork/ofxTCPServer.html#show_setVerbose
+ofxXmlSettings ofxXmlSettings/ofxXmlSettings.html#show_setVerbose
+ofBaseVideoGrabber types/ofBaseVideoGrabber.html#show_setVerbose
+ofDirectShowGrabber video/ofDirectShowGrabber.html#show_setVerbose
+ofGstVideoGrabber video/ofGstVideoGrabber.html#show_setVerbose
+ofQTKitGrabber video/ofQTKitGrabber.html#show_setVerbose
+ofQuickTimeGrabber video/ofQuickTimeGrabber.html#show_setVerbose
+ofVideoGrabber video/ofVideoGrabber.html#show_setVerbose

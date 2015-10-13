@@ -1,0 +1,13 @@
+ofxOscArg ofxOsc/ofxOscArg.html#show_getType
+ofxOscArgFloat ofxOsc/ofxOscArgFloat.html#show_getType
+ofxOscArgInt32 ofxOsc/ofxOscArgInt32.html#show_getType
+ofxOscArgInt64 ofxOsc/ofxOscArgInt64.html#show_getType
+ofxOscArgString ofxOsc/ofxOscArgString.html#show_getType
+ofNoopRenderer application/ofNoopRenderer.html#show_getType
+ofGLProgrammableRenderer gl/ofGLProgrammableRenderer.html#show_getType
+ofGLRenderer gl/ofGLRenderer.html#show_getType
+ofLight gl/ofLight.html#show_getType
+ofCairoRenderer graphics/ofCairoRenderer.html#show_getType
+ofRendererCollection graphics/ofRendererCollection.html#show_getType
+ofBaseRenderer types/ofBaseRenderer.html#show_getType
+ofParameterGroup types/ofParameterGroup.html#show_getType

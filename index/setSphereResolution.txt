@@ -1,0 +1,3 @@
+ofNoopRenderer application/ofNoopRenderer.html#show_setSphereResolution
+ofGLProgrammableRenderer gl/ofGLProgrammableRenderer.html#show_setSphereResolution
+ofCairoRenderer graphics/ofCairoRenderer.html#show_setSphereResolution

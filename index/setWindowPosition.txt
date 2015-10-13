@@ -1,0 +1,6 @@
+ofAppAndroidWindow ofxAndroid/ofAppAndroidWindow.html#show_setWindowPosition
+ofAppiOSWindow ofxiOS/ofAppiOSWindow.html#show_setWindowPosition
+ofAppBaseWindow application/ofAppBaseWindow.html#show_setWindowPosition
+ofAppEGLWindow application/ofAppEGLWindow.html#show_setWindowPosition
+ofAppGLFWWindow application/ofAppGLFWWindow.html#show_setWindowPosition
+ofAppGlutWindow application/ofAppGlutWindow.html#show_setWindowPosition

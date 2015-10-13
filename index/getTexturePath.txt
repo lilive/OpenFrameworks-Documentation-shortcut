@@ -1,0 +1,1 @@
+ofxAssimpTexture ofxAssimpModelLoader/ofxAssimpTexture.html#show_getTexturePath

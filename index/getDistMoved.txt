@@ -1,0 +1,1 @@
+ofxiOSCoreLocation ofxiOS/ofxiOSCoreLocation.html#show_getDistMoved

@@ -1,0 +1,6 @@
+ofNoopRenderer application/ofNoopRenderer.html#show_drawTriangle
+ofGLProgrammableRenderer gl/ofGLProgrammableRenderer.html#show_drawTriangle
+ofGLRenderer gl/ofGLRenderer.html#show_drawTriangle
+ofCairoRenderer graphics/ofCairoRenderer.html#show_drawTriangle
+ofRendererCollection graphics/ofRendererCollection.html#show_drawTriangle
+ofBaseRenderer types/ofBaseRenderer.html#show_drawTriangle

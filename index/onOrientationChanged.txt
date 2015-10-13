@@ -1,0 +1,2 @@
+ofNode 3d/ofNode.html#show_onOrientationChanged
+ofLight gl/ofLight.html#show_onOrientationChanged

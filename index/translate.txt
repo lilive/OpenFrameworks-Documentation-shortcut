@@ -1,0 +1,11 @@
+ofxCvImage ofxOpenCv/ofxCvImage.html#show_translate
+ofNoopRenderer application/ofNoopRenderer.html#show_translate
+ofGLProgrammableRenderer gl/ofGLProgrammableRenderer.html#show_translate
+ofGLRenderer gl/ofGLRenderer.html#show_translate
+ofCairoRenderer graphics/ofCairoRenderer.html#show_translate
+ofPath graphics/ofPath.html#show_translate
+ofRendererCollection graphics/ofRendererCollection.html#show_translate
+ofMatrix4x4 math/ofMatrix4x4.html#show_translate
+ofBaseRenderer types/ofBaseRenderer.html#show_translate
+ofRectangle types/ofRectangle.html#show_translate
+ofMatrixStack utils/ofMatrixStack.html#show_translate

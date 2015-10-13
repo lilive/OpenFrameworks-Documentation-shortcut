@@ -1,0 +1,6 @@
+ofNoopRenderer application/ofNoopRenderer.html#show_getCoordHandedness
+ofGLProgrammableRenderer gl/ofGLProgrammableRenderer.html#show_getCoordHandedness
+ofGLRenderer gl/ofGLRenderer.html#show_getCoordHandedness
+ofCairoRenderer graphics/ofCairoRenderer.html#show_getCoordHandedness
+ofRendererCollection graphics/ofRendererCollection.html#show_getCoordHandedness
+ofBaseRenderer types/ofBaseRenderer.html#show_getCoordHandedness

@@ -1,0 +1,6 @@
+ofBoxPrimitive 3d/ofBoxPrimitive.html#show_getResolution
+ofConePrimitive 3d/ofConePrimitive.html#show_getResolution
+ofCylinderPrimitive 3d/ofCylinderPrimitive.html#show_getResolution
+ofIcoSpherePrimitive 3d/ofIcoSpherePrimitive.html#show_getResolution
+ofPlanePrimitive 3d/ofPlanePrimitive.html#show_getResolution
+ofSpherePrimitive 3d/ofSpherePrimitive.html#show_getResolution

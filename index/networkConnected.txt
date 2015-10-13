@@ -1,0 +1,1 @@
+ofxAndroidApp ofxAndroid/ofxAndroidApp.html#show_networkConnected

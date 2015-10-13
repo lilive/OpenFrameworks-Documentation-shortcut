@@ -1,0 +1,7 @@
+ofxBaseGui ofxGui/ofxBaseGui.html#show_mouseMoved
+ofxButton ofxGui/ofxButton.html#show_mouseMoved
+ofxGuiGroup ofxGui/ofxGuiGroup.html#show_mouseMoved
+ofxLabel ofxGui/ofxLabel.html#show_mouseMoved
+ofxSlider ofxGui/ofxSlider.html#show_mouseMoved
+ofxToggle ofxGui/ofxToggle.html#show_mouseMoved
+ofBaseApp application/ofBaseApp.html#show_mouseMoved

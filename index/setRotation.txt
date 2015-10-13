@@ -1,0 +1,2 @@
+ofx3DModelLoader ofx3DModelLoader/ofx3DModelLoader.html#show_setRotation
+ofxAssimpModelLoader ofxAssimpModelLoader/ofxAssimpModelLoader.html#show_setRotation

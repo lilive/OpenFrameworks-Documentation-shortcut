@@ -1,0 +1,2 @@
+ofConePrimitive 3d/ofConePrimitive.html#show_getResolutionRadius
+ofCylinderPrimitive 3d/ofCylinderPrimitive.html#show_getResolutionRadius

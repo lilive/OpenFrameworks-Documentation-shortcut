@@ -1,0 +1,7 @@
+ofxAndroidVideoGrabber ofxAndroid/ofxAndroidVideoGrabber.html#show_videoSettings
+ofBaseVideoGrabber types/ofBaseVideoGrabber.html#show_videoSettings
+ofDirectShowGrabber video/ofDirectShowGrabber.html#show_videoSettings
+ofGstVideoGrabber video/ofGstVideoGrabber.html#show_videoSettings
+ofQTKitGrabber video/ofQTKitGrabber.html#show_videoSettings
+ofQuickTimeGrabber video/ofQuickTimeGrabber.html#show_videoSettings
+ofVideoGrabber video/ofVideoGrabber.html#show_videoSettings

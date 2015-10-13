@@ -1,0 +1,1 @@
+ofPath graphics/ofPath.html#show_getStrokeColor

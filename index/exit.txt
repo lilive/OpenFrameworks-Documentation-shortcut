@@ -1,0 +1,4 @@
+ofxAccelerometerHandler ofxAccelerometer/ofxAccelerometerHandler.html#show_exit
+ofxiOSApp ofxiOS/ofxiOSApp.html#show_exit
+ofAppEGLWindow application/ofAppEGLWindow.html#show_exit
+ofBaseApp application/ofBaseApp.html#show_exit

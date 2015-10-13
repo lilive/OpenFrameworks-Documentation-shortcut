@@ -1,0 +1,2 @@
+ofxAndroidVibrator ofxAndroid/ofxAndroidVibrator.html#show_vibrate
+ofxOpenALSoundPlayer ofxiOS/ofxOpenALSoundPlayer.html#show_vibrate

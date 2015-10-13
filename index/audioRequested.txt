@@ -1,0 +1,1 @@
+ofBaseSoundOutput types/ofBaseSoundOutput.html#show_audioRequested

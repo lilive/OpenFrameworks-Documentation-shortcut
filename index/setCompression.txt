@@ -1,0 +1,2 @@
+ofTexture gl/ofTexture.html#show_setCompression
+ofImage_ graphics/ofImage.html#show_setCompression

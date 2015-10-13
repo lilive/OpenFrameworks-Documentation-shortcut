@@ -1,0 +1,1 @@
+ofxOscParameterSync ofxOsc/ofxOscParameterSync.html#show_parameterChanged

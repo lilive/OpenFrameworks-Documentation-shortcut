@@ -1,0 +1,6 @@
+ofNoopRenderer application/ofNoopRenderer.html#show_getViewportWidth
+ofGLProgrammableRenderer gl/ofGLProgrammableRenderer.html#show_getViewportWidth
+ofGLRenderer gl/ofGLRenderer.html#show_getViewportWidth
+ofCairoRenderer graphics/ofCairoRenderer.html#show_getViewportWidth
+ofRendererCollection graphics/ofRendererCollection.html#show_getViewportWidth
+ofBaseRenderer types/ofBaseRenderer.html#show_getViewportWidth

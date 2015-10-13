@@ -1,0 +1,8 @@
+ofBoxPrimitive 3d/ofBoxPrimitive.html#show_setMode
+ofConePrimitive 3d/ofConePrimitive.html#show_setMode
+ofCylinderPrimitive 3d/ofCylinderPrimitive.html#show_setMode
+ofIcoSpherePrimitive 3d/ofIcoSpherePrimitive.html#show_setMode
+ofMesh 3d/ofMesh.html#show_setMode
+ofPlanePrimitive 3d/ofPlanePrimitive.html#show_setMode
+ofSpherePrimitive 3d/ofSpherePrimitive.html#show_setMode
+ofPath graphics/ofPath.html#show_setMode

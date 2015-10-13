@@ -1,0 +1,6 @@
+ofNoopRenderer application/ofNoopRenderer.html#show_getRectMode
+ofGLProgrammableRenderer gl/ofGLProgrammableRenderer.html#show_getRectMode
+ofGLRenderer gl/ofGLRenderer.html#show_getRectMode
+ofCairoRenderer graphics/ofCairoRenderer.html#show_getRectMode
+ofRendererCollection graphics/ofRendererCollection.html#show_getRectMode
+ofBaseRenderer types/ofBaseRenderer.html#show_getRectMode

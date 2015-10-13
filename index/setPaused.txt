@@ -1,0 +1,17 @@
+ofxAndroidSoundPlayer ofxAndroid/ofxAndroidSoundPlayer.html#show_setPaused
+ofxAndroidVideoPlayer ofxAndroid/ofxAndroidVideoPlayer.html#show_setPaused
+ofxAssimpAnimation ofxAssimpModelLoader/ofxAssimpAnimation.html#show_setPaused
+ofxiOSSoundPlayer ofxiOS/ofxiOSSoundPlayer.html#show_setPaused
+ofxiOSVideoPlayer ofxiOS/ofxiOSVideoPlayer.html#show_setPaused
+ofxOpenALSoundPlayer ofxiOS/ofxOpenALSoundPlayer.html#show_setPaused
+ofFmodSoundPlayer sound/ofFmodSoundPlayer.html#show_setPaused
+ofOpenALSoundPlayer sound/ofOpenALSoundPlayer.html#show_setPaused
+ofSoundPlayer sound/ofSoundPlayer.html#show_setPaused
+ofBaseSoundPlayer types/ofBaseSoundPlayer.html#show_setPaused
+ofBaseVideoPlayer types/ofBaseVideoPlayer.html#show_setPaused
+ofGstUtils video/ofGstUtils.html#show_setPaused
+ofGstVideoPlayer video/ofGstVideoPlayer.html#show_setPaused
+ofiPhoneVideoPlayer video/ofiPhoneVideoPlayer.html#show_setPaused
+ofQTKitPlayer video/ofQTKitPlayer.html#show_setPaused
+ofQuickTimePlayer video/ofQuickTimePlayer.html#show_setPaused
+ofVideoPlayer video/ofVideoPlayer.html#show_setPaused

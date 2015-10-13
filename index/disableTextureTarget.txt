@@ -1,0 +1,4 @@
+ofGLProgrammableRenderer gl/ofGLProgrammableRenderer.html#show_disableTextureTarget
+ofGLRenderer gl/ofGLRenderer.html#show_disableTextureTarget
+ofTexture gl/ofTexture.html#show_disableTextureTarget
+ofBaseGLRenderer types/ofBaseGLRenderer.html#show_disableTextureTarget

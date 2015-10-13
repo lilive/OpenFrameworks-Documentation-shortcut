@@ -1,0 +1,3 @@
+ofDirectShowGrabber video/ofDirectShowGrabber.html#show_clearMemory
+ofQuickTimeGrabber video/ofQuickTimeGrabber.html#show_clearMemory
+ofQuickTimePlayer video/ofQuickTimePlayer.html#show_clearMemory

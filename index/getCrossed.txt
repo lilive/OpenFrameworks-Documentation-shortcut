@@ -1,0 +1,1 @@
+ofVec3f math/ofVec3f.html#show_getCrossed

@@ -1,0 +1,1 @@
+ofxOpenALSoundPlayer ofxiOS/ofxOpenALSoundPlayer.html#show_ofxALSoundSetReferenceDistance

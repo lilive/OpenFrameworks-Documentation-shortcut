@@ -1,0 +1,2 @@
+ofSerial communication/ofSerial.html#show_flush
+ofCairoRenderer graphics/ofCairoRenderer.html#show_flush

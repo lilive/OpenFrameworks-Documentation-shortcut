@@ -1,0 +1,3 @@
+ofMesh 3d/ofMesh.html#show_addVertex
+mesh3DS ofx3DModelLoader/mesh3DS.html#show_addVertex
+ofPolyline graphics/ofPolyline.html#show_addVertex

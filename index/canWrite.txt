@@ -1,0 +1,2 @@
+ofDirectory utils/ofDirectory.html#show_canWrite
+ofFile utils/ofFile.html#show_canWrite

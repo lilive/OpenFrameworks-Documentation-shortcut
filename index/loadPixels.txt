@@ -1,0 +1,2 @@
+canLoadPixels ofxiOS/canLoadPixels.html#show_loadPixels
+ofxiOSImagePicker ofxiOS/ofxiOSImagePicker.html#show_loadPixels

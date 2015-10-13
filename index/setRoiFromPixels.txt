@@ -1,0 +1,5 @@
+ofxCvColorImage ofxOpenCv/ofxCvColorImage.html#show_setRoiFromPixels
+ofxCvFloatImage ofxOpenCv/ofxCvFloatImage.html#show_setRoiFromPixels
+ofxCvGrayscaleImage ofxOpenCv/ofxCvGrayscaleImage.html#show_setRoiFromPixels
+ofxCvImage ofxOpenCv/ofxCvImage.html#show_setRoiFromPixels
+ofxCvShortImage ofxOpenCv/ofxCvShortImage.html#show_setRoiFromPixels

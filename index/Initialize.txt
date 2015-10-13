@@ -1,0 +1,2 @@
+SoundEngineEffect ofxiOS/SoundEngineEffect.html#show_initialize
+ofOpenALSoundPlayer sound/ofOpenALSoundPlayer.html#show_initialize

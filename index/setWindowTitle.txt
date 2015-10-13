@@ -1,0 +1,6 @@
+ofAppAndroidWindow ofxAndroid/ofAppAndroidWindow.html#show_setWindowTitle
+ofAppiOSWindow ofxiOS/ofAppiOSWindow.html#show_setWindowTitle
+ofAppBaseWindow application/ofAppBaseWindow.html#show_setWindowTitle
+ofAppEGLWindow application/ofAppEGLWindow.html#show_setWindowTitle
+ofAppGLFWWindow application/ofAppGLFWWindow.html#show_setWindowTitle
+ofAppGlutWindow application/ofAppGlutWindow.html#show_setWindowTitle

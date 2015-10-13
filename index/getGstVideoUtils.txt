@@ -1,0 +1,2 @@
+ofGstVideoGrabber video/ofGstVideoGrabber.html#show_getGstVideoUtils
+ofGstVideoPlayer video/ofGstVideoPlayer.html#show_getGstVideoUtils

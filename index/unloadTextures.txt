@@ -1,0 +1,2 @@
+ofxAndroidApp ofxAndroid/ofxAndroidApp.html#show_unloadTextures
+ofTrueTypeFont graphics/ofTrueTypeFont.html#show_unloadTextures

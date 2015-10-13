@@ -1,0 +1,3 @@
+ofArduino communication/ofArduino.html#show_isInitialized
+ofSerial communication/ofSerial.html#show_isInitialized
+ofVideoGrabber video/ofVideoGrabber.html#show_isInitialized

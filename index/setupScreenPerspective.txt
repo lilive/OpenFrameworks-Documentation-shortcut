@@ -1,0 +1,6 @@
+ofNoopRenderer application/ofNoopRenderer.html#show_setupScreenPerspective
+ofGLProgrammableRenderer gl/ofGLProgrammableRenderer.html#show_setupScreenPerspective
+ofGLRenderer gl/ofGLRenderer.html#show_setupScreenPerspective
+ofCairoRenderer graphics/ofCairoRenderer.html#show_setupScreenPerspective
+ofRendererCollection graphics/ofRendererCollection.html#show_setupScreenPerspective
+ofBaseRenderer types/ofBaseRenderer.html#show_setupScreenPerspective

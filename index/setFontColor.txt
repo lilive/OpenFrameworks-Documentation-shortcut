@@ -1,0 +1,1 @@
+ofxiOSKeyboard ofxiOS/ofxiOSKeyboard.html#show_setFontColor

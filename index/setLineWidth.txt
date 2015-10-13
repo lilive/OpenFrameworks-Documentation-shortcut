@@ -1,0 +1,7 @@
+ofxVectorGraphics ofxVectorGraphics/ofxVectorGraphics.html#show_setLineWidth
+ofNoopRenderer application/ofNoopRenderer.html#show_setLineWidth
+ofGLProgrammableRenderer gl/ofGLProgrammableRenderer.html#show_setLineWidth
+ofGLRenderer gl/ofGLRenderer.html#show_setLineWidth
+ofCairoRenderer graphics/ofCairoRenderer.html#show_setLineWidth
+ofRendererCollection graphics/ofRendererCollection.html#show_setLineWidth
+ofBaseRenderer types/ofBaseRenderer.html#show_setLineWidth

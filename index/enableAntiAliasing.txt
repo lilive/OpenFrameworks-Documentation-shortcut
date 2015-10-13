@@ -1,0 +1,5 @@
+ofAppiOSWindow ofxiOS/ofAppiOSWindow.html#show_enableAntiAliasing
+ofGLProgrammableRenderer gl/ofGLProgrammableRenderer.html#show_enableAntiAliasing
+ofGLRenderer gl/ofGLRenderer.html#show_enableAntiAliasing
+ofCairoRenderer graphics/ofCairoRenderer.html#show_enableAntiAliasing
+ofBaseRenderer types/ofBaseRenderer.html#show_enableAntiAliasing

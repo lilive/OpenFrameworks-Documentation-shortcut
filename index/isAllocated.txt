@@ -1,0 +1,4 @@
+ofFbo gl/ofFbo.html#show_isAllocated
+ofTexture gl/ofTexture.html#show_isAllocated
+ofImage_ graphics/ofImage.html#show_isAllocated
+ofPixels_ graphics/ofPixels.html#show_isAllocated

@@ -1,0 +1,6 @@
+ofxAndroidSoundPlayer ofxAndroid/ofxAndroidSoundPlayer.html#show_getPositionMS
+ofxiOSSoundPlayer ofxiOS/ofxiOSSoundPlayer.html#show_getPositionMS
+ofxOpenALSoundPlayer ofxiOS/ofxOpenALSoundPlayer.html#show_getPositionMS
+ofFmodSoundPlayer sound/ofFmodSoundPlayer.html#show_getPositionMS
+ofSoundPlayer sound/ofSoundPlayer.html#show_getPositionMS
+ofBaseSoundPlayer types/ofBaseSoundPlayer.html#show_getPositionMS

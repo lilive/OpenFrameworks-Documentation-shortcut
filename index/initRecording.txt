@@ -1,0 +1,1 @@
+ofQTKitGrabber video/ofQTKitGrabber.html#show_initRecording

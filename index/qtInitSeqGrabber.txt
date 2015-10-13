@@ -1,0 +1,1 @@
+ofQuickTimeGrabber video/ofQuickTimeGrabber.html#show_qtInitSeqGrabber

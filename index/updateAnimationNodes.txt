@@ -1,0 +1,1 @@
+ofxAssimpAnimation ofxAssimpModelLoader/ofxAssimpAnimation.html#show_updateAnimationNodes

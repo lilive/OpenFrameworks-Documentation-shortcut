@@ -1,0 +1,3 @@
+ofNode 3d/ofNode.html#show_setScale
+ofx3DModelLoader ofx3DModelLoader/ofx3DModelLoader.html#show_setScale
+ofxAssimpModelLoader ofxAssimpModelLoader/ofxAssimpModelLoader.html#show_setScale

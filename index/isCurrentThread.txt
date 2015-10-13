@@ -1,0 +1,1 @@
+ofThread utils/ofThread.html#show_isCurrentThread

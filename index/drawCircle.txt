@@ -1,0 +1,6 @@
+ofNoopRenderer application/ofNoopRenderer.html#show_drawCircle
+ofGLProgrammableRenderer gl/ofGLProgrammableRenderer.html#show_drawCircle
+ofGLRenderer gl/ofGLRenderer.html#show_drawCircle
+ofCairoRenderer graphics/ofCairoRenderer.html#show_drawCircle
+ofRendererCollection graphics/ofRendererCollection.html#show_drawCircle
+ofBaseRenderer types/ofBaseRenderer.html#show_drawCircle

@@ -1,0 +1,2 @@
+ofDirectory utils/ofDirectory.html#show_getPath
+ofFileDialogResult utils/ofFileDialogResult.html#show_getPath

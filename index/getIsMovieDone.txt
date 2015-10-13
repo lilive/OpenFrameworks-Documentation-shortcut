@@ -1,0 +1,9 @@
+ofxAndroidVideoPlayer ofxAndroid/ofxAndroidVideoPlayer.html#show_getIsMovieDone
+ofxiOSVideoPlayer ofxiOS/ofxiOSVideoPlayer.html#show_getIsMovieDone
+ofBaseVideoPlayer types/ofBaseVideoPlayer.html#show_getIsMovieDone
+ofGstUtils video/ofGstUtils.html#show_getIsMovieDone
+ofGstVideoPlayer video/ofGstVideoPlayer.html#show_getIsMovieDone
+ofiPhoneVideoPlayer video/ofiPhoneVideoPlayer.html#show_getIsMovieDone
+ofQTKitPlayer video/ofQTKitPlayer.html#show_getIsMovieDone
+ofQuickTimePlayer video/ofQuickTimePlayer.html#show_getIsMovieDone
+ofVideoPlayer video/ofVideoPlayer.html#show_getIsMovieDone

@@ -1,0 +1,5 @@
+ofAppAndroidWindow ofxAndroid/ofAppAndroidWindow.html#show_doesHWOrientation
+ofAppiOSWindow ofxiOS/ofAppiOSWindow.html#show_doesHWOrientation
+ofAppBaseWindow application/ofAppBaseWindow.html#show_doesHWOrientation
+ofAppEGLWindow application/ofAppEGLWindow.html#show_doesHWOrientation
+ofMatrixStack utils/ofMatrixStack.html#show_doesHWOrientation

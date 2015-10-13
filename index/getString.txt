@@ -1,0 +1,2 @@
+ofArduino communication/ofArduino.html#show_getString
+ofParameterGroup types/ofParameterGroup.html#show_getString

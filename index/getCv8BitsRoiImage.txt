@@ -1,0 +1,3 @@
+ofxCvFloatImage ofxOpenCv/ofxCvFloatImage.html#show_getCv8BitsRoiImage
+ofxCvImage ofxOpenCv/ofxCvImage.html#show_getCv8BitsRoiImage
+ofxCvShortImage ofxOpenCv/ofxCvShortImage.html#show_getCv8BitsRoiImage

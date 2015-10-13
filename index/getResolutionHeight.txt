@@ -1,0 +1,3 @@
+ofBoxPrimitive 3d/ofBoxPrimitive.html#show_getResolutionHeight
+ofConePrimitive 3d/ofConePrimitive.html#show_getResolutionHeight
+ofCylinderPrimitive 3d/ofCylinderPrimitive.html#show_getResolutionHeight

@@ -1,0 +1,3 @@
+ofQTKitPlayer video/ofQTKitPlayer.html#show_closeMovie
+ofQuickTimePlayer video/ofQuickTimePlayer.html#show_closeMovie
+ofVideoPlayer video/ofVideoPlayer.html#show_closeMovie

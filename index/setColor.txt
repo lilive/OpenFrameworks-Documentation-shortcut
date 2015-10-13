@@ -1,0 +1,12 @@
+ofMesh 3d/ofMesh.html#show_setColor
+ofMeshFace 3d/ofMeshFace.html#show_setColor
+ofxVectorGraphics ofxVectorGraphics/ofxVectorGraphics.html#show_setColor
+ofNoopRenderer application/ofNoopRenderer.html#show_setColor
+ofGLProgrammableRenderer gl/ofGLProgrammableRenderer.html#show_setColor
+ofGLRenderer gl/ofGLRenderer.html#show_setColor
+ofCairoRenderer graphics/ofCairoRenderer.html#show_setColor
+ofImage_ graphics/ofImage.html#show_setColor
+ofPath graphics/ofPath.html#show_setColor
+ofPixels_ graphics/ofPixels.html#show_setColor
+ofRendererCollection graphics/ofRendererCollection.html#show_setColor
+ofBaseRenderer types/ofBaseRenderer.html#show_setColor

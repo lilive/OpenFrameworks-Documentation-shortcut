@@ -1,0 +1,2 @@
+ofMatrix3x3 math/ofMatrix3x3.html#show_inverse
+ofQuaternion math/ofQuaternion.html#show_inverse

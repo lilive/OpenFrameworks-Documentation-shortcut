@@ -1,0 +1,2 @@
+ofxTCPManager ofxNetwork/ofxTCPManager.html#show_SetReceiveBufferSize
+ofxUDPManager ofxNetwork/ofxUDPManager.html#show_SetReceiveBufferSize

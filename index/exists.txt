@@ -1,0 +1,3 @@
+ofDirectory utils/ofDirectory.html#show_exists
+ofFile utils/ofFile.html#show_exists
+ofXml utils/ofXml.html#show_exists

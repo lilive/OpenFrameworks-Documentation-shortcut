@@ -1,0 +1,5 @@
+of3dPrimitive 3d/of3dPrimitive.html#show_enableColors
+ofMesh 3d/ofMesh.html#show_enableColors
+ofxAssimpModelLoader ofxAssimpModelLoader/ofxAssimpModelLoader.html#show_enableColors
+ofVbo gl/ofVbo.html#show_enableColors
+ofVboMesh gl/ofVboMesh.html#show_enableColors

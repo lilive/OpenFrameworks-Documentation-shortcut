@@ -1,0 +1,4 @@
+ofxKinect ofxKinect/ofxKinect.html#show_open
+ofxKinectContext ofxKinect/ofxKinectContext.html#show_open
+ofDirectory utils/ofDirectory.html#show_open
+ofFile utils/ofFile.html#show_open

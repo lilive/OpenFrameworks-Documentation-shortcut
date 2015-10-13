@@ -1,0 +1,2 @@
+ofImage_ graphics/ofImage.html#show_setImageType
+ofPixels_ graphics/ofPixels.html#show_setImageType

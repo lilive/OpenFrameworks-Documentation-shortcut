@@ -1,0 +1,2 @@
+ofxCvFloatImage ofxOpenCv/ofxCvFloatImage.html#show_addWeighted
+ofxCvShortImage ofxOpenCv/ofxCvShortImage.html#show_addWeighted

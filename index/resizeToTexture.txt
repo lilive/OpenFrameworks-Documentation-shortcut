@@ -1,0 +1,2 @@
+ofBoxPrimitive 3d/ofBoxPrimitive.html#show_resizeToTexture
+ofPlanePrimitive 3d/ofPlanePrimitive.html#show_resizeToTexture

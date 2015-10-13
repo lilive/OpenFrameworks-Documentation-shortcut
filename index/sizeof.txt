@@ -1,0 +1,2 @@
+ofShader gl/ofShader.html#show_sizeof
+ofVbo gl/ofVbo.html#show_sizeof

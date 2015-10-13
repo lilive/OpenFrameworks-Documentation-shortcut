@@ -1,0 +1,2 @@
+ofFile utils/ofFile.html#show_getEnclosingDirectory
+ofFilePath utils/ofFilePath.html#show_getEnclosingDirectory

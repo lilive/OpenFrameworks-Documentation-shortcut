@@ -1,0 +1,2 @@
+ofxAccelerometerHandler ofxAccelerometer/ofxAccelerometerHandler.html#show_updateOrientation
+ofxiOSKeyboard ofxiOS/ofxiOSKeyboard.html#show_updateOrientation

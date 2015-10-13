@@ -1,0 +1,2 @@
+ofPath graphics/ofPath.html#show_quadBezierTo
+ofPolyline graphics/ofPolyline.html#show_quadBezierTo

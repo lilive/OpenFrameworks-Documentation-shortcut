@@ -1,0 +1,3 @@
+ofDirectory utils/ofDirectory.html#show_getAbsolutePath
+ofFile utils/ofFile.html#show_getAbsolutePath
+ofFilePath utils/ofFilePath.html#show_getAbsolutePath

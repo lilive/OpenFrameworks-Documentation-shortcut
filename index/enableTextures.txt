@@ -1,0 +1,4 @@
+of3dPrimitive 3d/of3dPrimitive.html#show_enableTextures
+ofMesh 3d/ofMesh.html#show_enableTextures
+ofxAssimpModelLoader ofxAssimpModelLoader/ofxAssimpModelLoader.html#show_enableTextures
+ofVboMesh gl/ofVboMesh.html#show_enableTextures

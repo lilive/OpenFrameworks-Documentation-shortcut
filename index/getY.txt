@@ -1,0 +1,2 @@
+ofNode 3d/ofNode.html#show_getY
+ofRectangle types/ofRectangle.html#show_getY

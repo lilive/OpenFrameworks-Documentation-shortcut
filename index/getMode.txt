@@ -1,0 +1,2 @@
+ofMesh 3d/ofMesh.html#show_getMode
+ofPath graphics/ofPath.html#show_getMode

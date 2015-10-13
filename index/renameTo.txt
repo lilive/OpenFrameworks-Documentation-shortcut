@@ -1,0 +1,2 @@
+ofDirectory utils/ofDirectory.html#show_renameTo
+ofFile utils/ofFile.html#show_renameTo

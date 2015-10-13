@@ -1,0 +1,2 @@
+ofxiOSAlertsHandler ofxiOS/ofxiOSAlertsHandler.html#show_deviceOrientationChanged
+ofxiOSAlertsListener ofxiOS/ofxiOSAlertsListener.html#show_deviceOrientationChanged

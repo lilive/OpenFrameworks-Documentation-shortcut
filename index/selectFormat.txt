@@ -1,0 +1,1 @@
+ofGstVideoGrabber video/ofGstVideoGrabber.html#show_selectFormat

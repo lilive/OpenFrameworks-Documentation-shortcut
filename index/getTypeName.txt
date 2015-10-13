@@ -1,0 +1,5 @@
+ofxOscArg ofxOsc/ofxOscArg.html#show_getTypeName
+ofxOscArgFloat ofxOsc/ofxOscArgFloat.html#show_getTypeName
+ofxOscArgInt32 ofxOsc/ofxOscArgInt32.html#show_getTypeName
+ofxOscArgInt64 ofxOsc/ofxOscArgInt64.html#show_getTypeName
+ofxOscArgString ofxOsc/ofxOscArgString.html#show_getTypeName

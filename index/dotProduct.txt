@@ -1,0 +1,1 @@
+Vector3DS ofx3DModelLoader/Vector3DS.html#show_dotProduct

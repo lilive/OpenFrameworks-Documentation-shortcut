@@ -1,0 +1,5 @@
+ofNoopRenderer application/ofNoopRenderer.html#show_enablePointSprites
+ofGLProgrammableRenderer gl/ofGLProgrammableRenderer.html#show_enablePointSprites
+ofGLRenderer gl/ofGLRenderer.html#show_enablePointSprites
+ofRendererCollection graphics/ofRendererCollection.html#show_enablePointSprites
+ofBaseRenderer types/ofBaseRenderer.html#show_enablePointSprites

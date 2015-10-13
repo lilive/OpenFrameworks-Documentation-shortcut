@@ -1,0 +1,1 @@
+ofPlanePrimitive 3d/ofPlanePrimitive.html#show_setColumns

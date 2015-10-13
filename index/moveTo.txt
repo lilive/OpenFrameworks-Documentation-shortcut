@@ -1,0 +1,3 @@
+ofPath graphics/ofPath.html#show_moveTo
+ofDirectory utils/ofDirectory.html#show_moveTo
+ofFile utils/ofFile.html#show_moveTo

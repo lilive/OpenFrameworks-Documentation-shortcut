@@ -1,0 +1,1 @@
+BackgroundTrackMgr ofxiOS/BackgroundTrackMgr.html#show_SetupQueue

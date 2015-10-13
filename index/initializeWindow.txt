@@ -1,0 +1,6 @@
+ofAppAndroidWindow ofxAndroid/ofAppAndroidWindow.html#show_initializeWindow
+ofAppiOSWindow ofxiOS/ofAppiOSWindow.html#show_initializeWindow
+ofAppBaseWindow application/ofAppBaseWindow.html#show_initializeWindow
+ofAppEGLWindow application/ofAppEGLWindow.html#show_initializeWindow
+ofAppGLFWWindow application/ofAppGLFWWindow.html#show_initializeWindow
+ofAppGlutWindow application/ofAppGlutWindow.html#show_initializeWindow

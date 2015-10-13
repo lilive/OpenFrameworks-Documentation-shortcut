@@ -1,0 +1,1 @@
+ofxAssimpModelLoader ofxAssimpModelLoader/ofxAssimpModelLoader.html#show_updateModelMatrix

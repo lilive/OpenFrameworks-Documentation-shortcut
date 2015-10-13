@@ -1,0 +1,3 @@
+ofxiOSAlertsHandler ofxiOS/ofxiOSAlertsHandler.html#show_gotFocus
+ofxiOSAlertsListener ofxiOS/ofxiOSAlertsListener.html#show_gotFocus
+ofxiOSApp ofxiOS/ofxiOSApp.html#show_gotFocus

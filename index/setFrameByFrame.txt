@@ -1,0 +1,2 @@
+ofGstUtils video/ofGstUtils.html#show_setFrameByFrame
+ofGstVideoPlayer video/ofGstVideoPlayer.html#show_setFrameByFrame

@@ -1,0 +1,3 @@
+material3DS ofx3DModelLoader/material3DS.html#show_getDiffuseColor
+ofLight gl/ofLight.html#show_getDiffuseColor
+ofMaterial gl/ofMaterial.html#show_getDiffuseColor

@@ -1,0 +1,2 @@
+ofxGuiGroup ofxGui/ofxGuiGroup.html#show_add
+ofParameterGroup types/ofParameterGroup.html#show_add

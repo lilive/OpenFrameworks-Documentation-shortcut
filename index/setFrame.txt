@@ -1,0 +1,6 @@
+ofxiOSVideoPlayer ofxiOS/ofxiOSVideoPlayer.html#show_setFrame
+ofBaseVideoPlayer types/ofBaseVideoPlayer.html#show_setFrame
+ofGstVideoPlayer video/ofGstVideoPlayer.html#show_setFrame
+ofQTKitPlayer video/ofQTKitPlayer.html#show_setFrame
+ofQuickTimePlayer video/ofQuickTimePlayer.html#show_setFrame
+ofVideoPlayer video/ofVideoPlayer.html#show_setFrame

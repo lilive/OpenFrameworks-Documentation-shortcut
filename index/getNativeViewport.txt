@@ -1,0 +1,4 @@
+ofGLProgrammableRenderer gl/ofGLProgrammableRenderer.html#show_getNativeViewport
+ofGLRenderer gl/ofGLRenderer.html#show_getNativeViewport
+ofBaseRenderer types/ofBaseRenderer.html#show_getNativeViewport
+ofMatrixStack utils/ofMatrixStack.html#show_getNativeViewport

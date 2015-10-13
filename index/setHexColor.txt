@@ -1,0 +1,7 @@
+ofNoopRenderer application/ofNoopRenderer.html#show_setHexColor
+ofGLProgrammableRenderer gl/ofGLProgrammableRenderer.html#show_setHexColor
+ofGLRenderer gl/ofGLRenderer.html#show_setHexColor
+ofCairoRenderer graphics/ofCairoRenderer.html#show_setHexColor
+ofPath graphics/ofPath.html#show_setHexColor
+ofRendererCollection graphics/ofRendererCollection.html#show_setHexColor
+ofBaseRenderer types/ofBaseRenderer.html#show_setHexColor

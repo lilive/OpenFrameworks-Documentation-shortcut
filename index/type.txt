@@ -1,0 +1,1 @@
+ofAbstractParameter types/ofAbstractParameter.html#show_type

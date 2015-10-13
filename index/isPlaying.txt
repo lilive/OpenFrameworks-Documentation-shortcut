@@ -1,0 +1,10 @@
+ofxAndroidVideoPlayer ofxAndroid/ofxAndroidVideoPlayer.html#show_isPlaying
+ofxAssimpAnimation ofxAssimpModelLoader/ofxAssimpAnimation.html#show_isPlaying
+ofxiOSVideoPlayer ofxiOS/ofxiOSVideoPlayer.html#show_isPlaying
+ofBaseVideoPlayer types/ofBaseVideoPlayer.html#show_isPlaying
+ofGstUtils video/ofGstUtils.html#show_isPlaying
+ofGstVideoPlayer video/ofGstVideoPlayer.html#show_isPlaying
+ofiPhoneVideoPlayer video/ofiPhoneVideoPlayer.html#show_isPlaying
+ofQTKitPlayer video/ofQTKitPlayer.html#show_isPlaying
+ofQuickTimePlayer video/ofQuickTimePlayer.html#show_isPlaying
+ofVideoPlayer video/ofVideoPlayer.html#show_isPlaying

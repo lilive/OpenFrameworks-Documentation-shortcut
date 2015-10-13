@@ -1,0 +1,5 @@
+ofAppiOSWindow ofxiOS/ofAppiOSWindow.html#show_setVerticalSync
+ofAppBaseWindow application/ofAppBaseWindow.html#show_setVerticalSync
+ofAppEGLWindow application/ofAppEGLWindow.html#show_setVerticalSync
+ofAppGLFWWindow application/ofAppGLFWWindow.html#show_setVerticalSync
+ofAppGlutWindow application/ofAppGlutWindow.html#show_setVerticalSync

@@ -1,0 +1,2 @@
+BackgroundTrackMgr ofxiOS/BackgroundTrackMgr.html#show_UpdateGain
+OpenALObject ofxiOS/OpenALObject.html#show_UpdateGain

@@ -1,0 +1,6 @@
+ofNoopRenderer application/ofNoopRenderer.html#show_setLineSmoothing
+ofGLProgrammableRenderer gl/ofGLProgrammableRenderer.html#show_setLineSmoothing
+ofGLRenderer gl/ofGLRenderer.html#show_setLineSmoothing
+ofCairoRenderer graphics/ofCairoRenderer.html#show_setLineSmoothing
+ofRendererCollection graphics/ofRendererCollection.html#show_setLineSmoothing
+ofBaseRenderer types/ofBaseRenderer.html#show_setLineSmoothing

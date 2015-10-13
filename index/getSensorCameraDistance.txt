@@ -1,0 +1,1 @@
+ofxKinect ofxKinect/ofxKinect.html#show_getSensorCameraDistance

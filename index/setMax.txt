@@ -1,0 +1,2 @@
+ofParameter types/ofParameter.html#show_setMax
+ofReadOnlyParameter types/ofReadOnlyParameter.html#show_setMax

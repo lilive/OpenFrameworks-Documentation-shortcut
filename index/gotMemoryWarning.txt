@@ -1,0 +1,3 @@
+ofxiOSAlertsHandler ofxiOS/ofxiOSAlertsHandler.html#show_gotMemoryWarning
+ofxiOSAlertsListener ofxiOS/ofxiOSAlertsListener.html#show_gotMemoryWarning
+ofxiOSApp ofxiOS/ofxiOSApp.html#show_gotMemoryWarning

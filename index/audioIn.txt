@@ -1,0 +1,1 @@
+ofBaseSoundInput types/ofBaseSoundInput.html#show_audioIn

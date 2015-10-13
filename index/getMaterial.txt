@@ -1,0 +1,2 @@
+mesh3DS ofx3DModelLoader/mesh3DS.html#show_getMaterial
+model3DS ofx3DModelLoader/model3DS.html#show_getMaterial

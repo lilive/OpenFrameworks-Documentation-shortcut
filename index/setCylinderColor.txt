@@ -1,0 +1,1 @@
+ofCylinderPrimitive 3d/ofCylinderPrimitive.html#show_setCylinderColor

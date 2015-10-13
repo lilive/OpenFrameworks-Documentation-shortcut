@@ -1,0 +1,4 @@
+ofConePrimitive 3d/ofConePrimitive.html#show_setRadius
+ofCylinderPrimitive 3d/ofCylinderPrimitive.html#show_setRadius
+ofIcoSpherePrimitive 3d/ofIcoSpherePrimitive.html#show_setRadius
+ofSpherePrimitive 3d/ofSpherePrimitive.html#show_setRadius

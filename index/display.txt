@@ -1,0 +1,3 @@
+ofAppEGLWindow application/ofAppEGLWindow.html#show_display
+ofAppGLFWWindow application/ofAppGLFWWindow.html#show_display
+ofAppGlutWindow application/ofAppGlutWindow.html#show_display

@@ -1,0 +1,1 @@
+texture3DS ofx3DModelLoader/texture3DS.html#show_getBpp

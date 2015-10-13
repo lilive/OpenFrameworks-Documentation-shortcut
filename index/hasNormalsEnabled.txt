@@ -1,0 +1,1 @@
+of3dPrimitive 3d/of3dPrimitive.html#show_hasNormalsEnabled

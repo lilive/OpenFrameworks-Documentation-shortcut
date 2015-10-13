@@ -1,0 +1,1 @@
+ofxAndroidVibrator ofxAndroid/ofxAndroidVibrator.html#show_getVibratorService

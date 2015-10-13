@@ -1,0 +1,1 @@
+ofAppiOSWindow ofxiOS/ofAppiOSWindow.html#show_isRetinaEnabled

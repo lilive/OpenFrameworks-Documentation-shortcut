@@ -1,0 +1,6 @@
+ofAppAndroidWindow ofxAndroid/ofAppAndroidWindow.html#show_hideCursor
+ofAppiOSWindow ofxiOS/ofAppiOSWindow.html#show_hideCursor
+ofAppBaseWindow application/ofAppBaseWindow.html#show_hideCursor
+ofAppEGLWindow application/ofAppEGLWindow.html#show_hideCursor
+ofAppGLFWWindow application/ofAppGLFWWindow.html#show_hideCursor
+ofAppGlutWindow application/ofAppGlutWindow.html#show_hideCursor

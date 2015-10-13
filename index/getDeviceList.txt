@@ -1,0 +1,3 @@
+ofxiOSVideoGrabber ofxiOS/ofxiOSVideoGrabber.html#show_getDeviceList
+ofSerial communication/ofSerial.html#show_getDeviceList
+ofiPhoneVideoGrabber video/ofiPhoneVideoGrabber.html#show_getDeviceList

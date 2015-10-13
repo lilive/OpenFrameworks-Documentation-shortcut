@@ -1,0 +1,1 @@
+ofxAndroidCircBuffer ofxAndroid/ofxAndroidCircBuffer.html#show_num_elements

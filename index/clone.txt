@@ -1,0 +1,2 @@
+ofDelegate events/ofDelegate.html#show_clone
+ofImage_ graphics/ofImage.html#show_clone

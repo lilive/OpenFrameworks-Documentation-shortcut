@@ -1,0 +1,1 @@
+ofFileLoggerChannel utils/ofFileLoggerChannel.html#show_setFile

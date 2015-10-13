@@ -1,0 +1,6 @@
+ofGLProgrammableRenderer gl/ofGLProgrammableRenderer.html#show_loadIdentityMatrix
+ofGLRenderer gl/ofGLRenderer.html#show_loadIdentityMatrix
+ofCairoRenderer graphics/ofCairoRenderer.html#show_loadIdentityMatrix
+ofRendererCollection graphics/ofRendererCollection.html#show_loadIdentityMatrix
+ofBaseRenderer types/ofBaseRenderer.html#show_loadIdentityMatrix
+ofMatrixStack utils/ofMatrixStack.html#show_loadIdentityMatrix

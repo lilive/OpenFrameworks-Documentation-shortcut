@@ -1,0 +1,2 @@
+ofxBaseGui ofxGui/ofxBaseGui.html#show_setFillColor
+ofPath graphics/ofPath.html#show_setFillColor

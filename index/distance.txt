@@ -1,0 +1,4 @@
+Vector3DS ofx3DModelLoader/Vector3DS.html#show_distance
+ofVec2f math/ofVec2f.html#show_distance
+ofVec3f math/ofVec3f.html#show_distance
+ofVec4f math/ofVec4f.html#show_distance
