@@ -1,1 +1,0 @@
-ofCamera 3d/ofCamera.html#show_ofVec2f

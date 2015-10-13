@@ -1,2 +1,0 @@
-ofCamera 3d/ofCamera.html#show_ofGetCurrentViewport
-ofEasyCam 3d/ofEasyCam.html#show_ofGetCurrentViewport

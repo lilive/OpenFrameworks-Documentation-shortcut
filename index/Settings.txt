@@ -1,2 +1,0 @@
-ofAppEGLWindow application/ofAppEGLWindow.html#show_Settings
-ofFbo gl/ofFbo.html#show_Settings

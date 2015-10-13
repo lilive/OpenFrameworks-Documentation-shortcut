@@ -30,7 +30,7 @@ A copy of the openFrameworks site
 Usage
 =====
 
-Edit the script, set the path variables at the beginning, save it, and run it.
+Edit the script, set the 2 path variables at the beginning, save it, and run it.
 
 The script create an index which associate the OF keywords to the html files in the documentation.
 You only need to run this script once. Then open-documentation.py can read the index.
@@ -57,18 +57,21 @@ colorama.init()
 # docSourcesRootPath = 'C:\Users\username\Documents\of\ofSite\_documentation'
 docSourcesRootPath = os.path.expanduser('~/Documents/of/ofSite/_documentation')
 
-# Path to the directory which will receive the index files.
-# You can define it or leave it to create an 'index' directory within the current working directory.
-# Custom directory example for Windows:
-# indexPath = 'C:\Users\username\Documents\of\documentation\shortcut-script\index'
-indexPath = os.path.join( os.getcwd(), 'index' );
-
 # Path to the Pandoc executable. If Pandoc is in your path you can do pandocExe = 'pandoc'
 # Example:
 # pandocExe = 'C:\Users\username\AppData\Local\Pandoc\pandoc.exe'
 pandocExe = os.path.expanduser('~/AppData/Local/Pandoc/pandoc.exe')
 
-# If this 3 paths are set, no need to read further, you can run the script
+# If these 2 paths are set, no need to read further, you can run the script
+
+
+
+
+# Path to the script directory
+scriptDirPath = os.path.dirname(os.path.realpath(__file__))
+
+# Path to the directory which will receive the index files.
+indexPath = os.path.join( scriptDirPath, 'index' );
 
 
 ###################################################################################################
@@ -138,7 +141,8 @@ def parseFunctionLink( a, fileRelPath ):
             return ( False, '', '' ) 
         else:
             functionSignature = m.group(1)
-            functionName = m.group(2)
+            functionName = m.group(2)
+
             print colorama.Fore.BLUE + 'Verify this function name from ' + fileRelPath
             print functionName + '()' + colorama.Style.RESET_ALL
             return ( True, functionName, functionSignature )
@@ -330,6 +334,6 @@ indexFile.close()
 for functionName, entries in classesMethods.iteritems():
     indexFile = open( os.path.join( indexPath, functionName + '.txt' ), 'w' )
     for ( className, fileRelPathWithoutExt ) in entries:
-        print functionName, className, fileRelPathWithoutExt
+        # print functionName, className, fileRelPathWithoutExt
         indexFile.write( className + ' ' + fileRelPathWithoutExt + '.html#show_' + functionName + '\n' )
     indexFile.close()

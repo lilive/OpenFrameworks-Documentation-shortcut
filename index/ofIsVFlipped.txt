@@ -1,3 +1,0 @@
-ofGLProgrammableRenderer gl/ofGLProgrammableRenderer.html#show_ofIsVFlipped
-ofTrueTypeFont graphics/ofTrueTypeFont.html#show_ofIsVFlipped
-ofMatrixStack utils/ofMatrixStack.html#show_ofIsVFlipped

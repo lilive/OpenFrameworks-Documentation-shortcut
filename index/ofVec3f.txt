@@ -1,2 +1,0 @@
-ofNode 3d/ofNode.html#show_ofVec3f
-ofPolyline graphics/ofPolyline.html#show_ofVec3f
