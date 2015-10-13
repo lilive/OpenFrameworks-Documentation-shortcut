@@ -131,7 +131,7 @@ if os.path.isfile( indexPath ):
     # If there is many classes with a method called like keyword, built a selection window
     
     window = Tkinter.Tk()
-    window.title(' Select Class for method ' + keyword )
+    window.title(' Select Class for ' + keyword + '()' )
     # Change the window icon, if possible
     icoPath = os.path.join( scriptDirPath, 'of' )
     if platform.system() == 'Windows':
