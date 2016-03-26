@@ -1,4 +1,5 @@
 ofxAndroidSoundStream ofxAndroid/ofxAndroidSoundStream.html#show_getBufferSize
+ofxEmscriptenSoundStream ofxEmscripten/ofxEmscriptenSoundStream.html#show_getBufferSize
 ofxiOSSoundStream ofxiOS/ofxiOSSoundStream.html#show_getBufferSize
 ofPASoundStream sound/ofPASoundStream.html#show_getBufferSize
 ofRtAudioSoundStream sound/ofRtAudioSoundStream.html#show_getBufferSize

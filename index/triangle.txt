@@ -1,2 +1,1 @@
-ofxVectorGraphics ofxVectorGraphics/ofxVectorGraphics.html#show_triangle
 ofPath graphics/ofPath.html#show_triangle

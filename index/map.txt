@@ -1,2 +1,3 @@
+ofBufferObject gl/ofBufferObject.html#show_map
 ofVec2f math/ofVec2f.html#show_map
 ofVec3f math/ofVec3f.html#show_map

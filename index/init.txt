@@ -4,5 +4,5 @@ ofxCvColorImage ofxOpenCv/ofxCvColorImage.html#show_init
 ofxCvFloatImage ofxOpenCv/ofxCvFloatImage.html#show_init
 ofxCvGrayscaleImage ofxOpenCv/ofxCvGrayscaleImage.html#show_init
 ofxCvShortImage ofxOpenCv/ofxCvShortImage.html#show_init
-ofAppEGLWindow application/ofAppEGLWindow.html#show_init
+ofBitmapFont graphics/ofBitmapFont.html#show_init
 ofTessellator graphics/ofTessellator.html#show_init

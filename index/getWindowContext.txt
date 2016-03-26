@@ -1,0 +1,2 @@
+ofAppBaseWindow application/ofAppBaseWindow.html#show_getWindowContext
+ofAppGLFWWindow application/ofAppGLFWWindow.html#show_getWindowContext

@@ -1,6 +1,0 @@
-ofNoopRenderer application/ofNoopRenderer.html#show_getBgColor
-ofGLProgrammableRenderer gl/ofGLProgrammableRenderer.html#show_getBgColor
-ofGLRenderer gl/ofGLRenderer.html#show_getBgColor
-ofCairoRenderer graphics/ofCairoRenderer.html#show_getBgColor
-ofRendererCollection graphics/ofRendererCollection.html#show_getBgColor
-ofBaseRenderer types/ofBaseRenderer.html#show_getBgColor

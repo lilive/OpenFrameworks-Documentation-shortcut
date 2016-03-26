@@ -1,2 +1,4 @@
 ofxGuiGroup ofxGui/ofxGuiGroup.html#show_add
+ofBaseEvent events/ofBaseEvent.html#show_add
+ofEvent events/ofEvent.html#show_add
 ofParameterGroup types/ofParameterGroup.html#show_add

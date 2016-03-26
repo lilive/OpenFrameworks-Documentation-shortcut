@@ -1,0 +1,3 @@
+ofGLProgrammableRenderer gl/ofGLProgrammableRenderer.html#show_setLightSpotConcentration
+ofGLRenderer gl/ofGLRenderer.html#show_setLightSpotConcentration
+ofBaseGLRenderer types/ofBaseGLRenderer.html#show_setLightSpotConcentration

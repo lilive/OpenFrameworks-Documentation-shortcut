@@ -1,0 +1,3 @@
+ofGLProgrammableRenderer gl/ofGLProgrammableRenderer.html#show_setLightSpotlightCutOff
+ofGLRenderer gl/ofGLRenderer.html#show_setLightSpotlightCutOff
+ofBaseGLRenderer types/ofBaseGLRenderer.html#show_setLightSpotlightCutOff

@@ -1,7 +1,1 @@
 ofxKinect ofxKinect/ofxKinect.html#show_getTextureReference
-ofxCvImage ofxOpenCv/ofxCvImage.html#show_getTextureReference
-ofFbo gl/ofFbo.html#show_getTextureReference
-ofImage_ graphics/ofImage.html#show_getTextureReference
-ofBaseHasTexture types/ofBaseHasTexture.html#show_getTextureReference
-ofVideoGrabber video/ofVideoGrabber.html#show_getTextureReference
-ofVideoPlayer video/ofVideoPlayer.html#show_getTextureReference

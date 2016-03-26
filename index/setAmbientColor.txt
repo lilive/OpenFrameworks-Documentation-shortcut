@@ -1,3 +1,2 @@
-material3DS ofx3DModelLoader/material3DS.html#show_setAmbientColor
 ofLight gl/ofLight.html#show_setAmbientColor
 ofMaterial gl/ofMaterial.html#show_setAmbientColor

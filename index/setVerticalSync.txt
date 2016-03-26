@@ -1,3 +1,4 @@
+ofxAppEmscriptenWindow ofxEmscripten/ofxAppEmscriptenWindow.html#show_setVerticalSync
 ofAppiOSWindow ofxiOS/ofAppiOSWindow.html#show_setVerticalSync
 ofAppBaseWindow application/ofAppBaseWindow.html#show_setVerticalSync
 ofAppEGLWindow application/ofAppEGLWindow.html#show_setVerticalSync

@@ -1,1 +1,2 @@
+ofxBaseGui ofxGui/ofxBaseGui.html#show_sizeChangedCB
 ofxGuiGroup ofxGui/ofxGuiGroup.html#show_sizeChangedCB

@@ -1,3 +1,4 @@
+ofEasyCam 3d/ofEasyCam.html#show_mouseReleased
 ofxBaseGui ofxGui/ofxBaseGui.html#show_mouseReleased
 ofxButton ofxGui/ofxButton.html#show_mouseReleased
 ofxGuiGroup ofxGui/ofxGuiGroup.html#show_mouseReleased

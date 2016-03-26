@@ -1,5 +1,14 @@
+ofNoopRenderer application/ofNoopRenderer.html#show_bind
+ofBufferObject gl/ofBufferObject.html#show_bind
 ofFbo gl/ofFbo.html#show_bind
+ofGLProgrammableRenderer gl/ofGLProgrammableRenderer.html#show_bind
+ofGLRenderer gl/ofGLRenderer.html#show_bind
 ofTexture gl/ofTexture.html#show_bind
 ofVbo gl/ofVbo.html#show_bind
+ofCairoRenderer graphics/ofCairoRenderer.html#show_bind
 ofImage_ graphics/ofImage.html#show_bind
-ofTrueTypeFont graphics/ofTrueTypeFont.html#show_bind
+ofRendererCollection graphics/ofRendererCollection.html#show_bind
+ofBaseGLRenderer types/ofBaseGLRenderer.html#show_bind
+ofBaseRenderer types/ofBaseRenderer.html#show_bind
+ofVideoGrabber video/ofVideoGrabber.html#show_bind
+ofVideoPlayer video/ofVideoPlayer.html#show_bind

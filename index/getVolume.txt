@@ -1,6 +1,8 @@
 ofxAndroidSoundPlayer ofxAndroid/ofxAndroidSoundPlayer.html#show_getVolume
+ofxEmscriptenSoundPlayer ofxEmscripten/ofxEmscriptenSoundPlayer.html#show_getVolume
 ofxiOSSoundPlayer ofxiOS/ofxiOSSoundPlayer.html#show_getVolume
 ofxOpenALSoundPlayer ofxiOS/ofxOpenALSoundPlayer.html#show_getVolume
 ofFmodSoundPlayer sound/ofFmodSoundPlayer.html#show_getVolume
+ofOpenALSoundPlayer sound/ofOpenALSoundPlayer.html#show_getVolume
 ofSoundPlayer sound/ofSoundPlayer.html#show_getVolume
 ofBaseSoundPlayer types/ofBaseSoundPlayer.html#show_getVolume

@@ -1,0 +1,3 @@
+ofGLProgrammableRenderer gl/ofGLProgrammableRenderer.html#show_getGLVersionMajor
+ofGLRenderer gl/ofGLRenderer.html#show_getGLVersionMajor
+ofBaseGLRenderer types/ofBaseGLRenderer.html#show_getGLVersionMajor

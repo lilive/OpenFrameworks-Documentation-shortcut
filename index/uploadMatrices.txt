@@ -1,1 +1,2 @@
 ofGLProgrammableRenderer gl/ofGLProgrammableRenderer.html#show_uploadMatrices
+ofBaseMaterial types/ofBaseMaterial.html#show_uploadMatrices

@@ -1,0 +1,6 @@
+ofNoopRenderer application/ofNoopRenderer.html#show_setPolyMode
+ofGLProgrammableRenderer gl/ofGLProgrammableRenderer.html#show_setPolyMode
+ofGLRenderer gl/ofGLRenderer.html#show_setPolyMode
+ofCairoRenderer graphics/ofCairoRenderer.html#show_setPolyMode
+ofRendererCollection graphics/ofRendererCollection.html#show_setPolyMode
+ofBaseRenderer types/ofBaseRenderer.html#show_setPolyMode

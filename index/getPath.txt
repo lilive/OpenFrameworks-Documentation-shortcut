@@ -1,2 +1,8 @@
+ofNoopRenderer application/ofNoopRenderer.html#show_getPath
+ofGLProgrammableRenderer gl/ofGLProgrammableRenderer.html#show_getPath
+ofGLRenderer gl/ofGLRenderer.html#show_getPath
+ofCairoRenderer graphics/ofCairoRenderer.html#show_getPath
+ofRendererCollection graphics/ofRendererCollection.html#show_getPath
+ofBaseRenderer types/ofBaseRenderer.html#show_getPath
 ofDirectory utils/ofDirectory.html#show_getPath
 ofFileDialogResult utils/ofFileDialogResult.html#show_getPath

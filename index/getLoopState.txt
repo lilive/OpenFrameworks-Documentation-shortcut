@@ -1,6 +1,9 @@
 ofxAndroidVideoPlayer ofxAndroid/ofxAndroidVideoPlayer.html#show_getLoopState
+ofxEmscriptenVideoPlayer ofxEmscripten/ofxEmscriptenVideoPlayer.html#show_getLoopState
 ofxiOSVideoPlayer ofxiOS/ofxiOSVideoPlayer.html#show_getLoopState
 ofBaseVideoPlayer types/ofBaseVideoPlayer.html#show_getLoopState
+ofAVFoundationPlayer video/ofAVFoundationPlayer.html#show_getLoopState
+ofDirectShowPlayer video/ofDirectShowPlayer.html#show_getLoopState
 ofGstUtils video/ofGstUtils.html#show_getLoopState
 ofGstVideoPlayer video/ofGstVideoPlayer.html#show_getLoopState
 ofQTKitPlayer video/ofQTKitPlayer.html#show_getLoopState

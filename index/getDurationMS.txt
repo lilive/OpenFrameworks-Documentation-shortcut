@@ -1,0 +1,2 @@
+ofxEmscriptenSoundPlayer ofxEmscripten/ofxEmscriptenSoundPlayer.html#show_getDurationMS
+ofSoundBuffer sound/ofSoundBuffer.html#show_getDurationMS

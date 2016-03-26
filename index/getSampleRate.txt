@@ -1,6 +1,8 @@
 ofxAndroidSoundStream ofxAndroid/ofxAndroidSoundStream.html#show_getSampleRate
+ofxEmscriptenSoundStream ofxEmscripten/ofxEmscriptenSoundStream.html#show_getSampleRate
 ofxiOSSoundStream ofxiOS/ofxiOSSoundStream.html#show_getSampleRate
 ofPASoundStream sound/ofPASoundStream.html#show_getSampleRate
 ofRtAudioSoundStream sound/ofRtAudioSoundStream.html#show_getSampleRate
+ofSoundBuffer sound/ofSoundBuffer.html#show_getSampleRate
 ofSoundStream sound/ofSoundStream.html#show_getSampleRate
 ofBaseSoundStream types/ofBaseSoundStream.html#show_getSampleRate

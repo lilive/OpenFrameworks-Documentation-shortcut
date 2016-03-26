@@ -1,0 +1,3 @@
+ofGLProgrammableRenderer gl/ofGLProgrammableRenderer.html#show_setLightAmbientColor
+ofGLRenderer gl/ofGLRenderer.html#show_setLightAmbientColor
+ofBaseGLRenderer types/ofBaseGLRenderer.html#show_setLightAmbientColor

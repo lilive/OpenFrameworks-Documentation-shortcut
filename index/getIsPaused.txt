@@ -1,2 +1,0 @@
-ofxAndroidSoundPlayer ofxAndroid/ofxAndroidSoundPlayer.html#show_getIsPaused
-ofOpenALSoundPlayer sound/ofOpenALSoundPlayer.html#show_getIsPaused

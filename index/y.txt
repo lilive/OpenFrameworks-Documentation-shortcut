@@ -1,3 +1,4 @@
 ofxCvFloatImage ofxOpenCv/ofxCvFloatImage.html#show_y
 ofxCvShortImage ofxOpenCv/ofxCvShortImage.html#show_y
+ofArduino communication/ofArduino.html#show_y
 ofQuaternion math/ofQuaternion.html#show_y

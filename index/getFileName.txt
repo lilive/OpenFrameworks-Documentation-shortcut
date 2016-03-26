@@ -1,1 +1,2 @@
-model3DS ofx3DModelLoader/model3DS.html#show_getFilename
+ofFile utils/ofFile.html#show_getFileName
+ofFilePath utils/ofFilePath.html#show_getFileName

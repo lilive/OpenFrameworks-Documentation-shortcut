@@ -1,4 +1,5 @@
 ofAppAndroidWindow ofxAndroid/ofAppAndroidWindow.html#show_setWindowShape
+ofxAppEmscriptenWindow ofxEmscripten/ofxAppEmscriptenWindow.html#show_setWindowShape
 ofAppiOSWindow ofxiOS/ofAppiOSWindow.html#show_setWindowShape
 ofAppBaseWindow application/ofAppBaseWindow.html#show_setWindowShape
 ofAppEGLWindow application/ofAppEGLWindow.html#show_setWindowShape

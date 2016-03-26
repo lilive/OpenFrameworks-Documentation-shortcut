@@ -1,0 +1,2 @@
+ofMaterial gl/ofMaterial.html#show_updateMaterial
+ofBaseMaterial types/ofBaseMaterial.html#show_updateMaterial

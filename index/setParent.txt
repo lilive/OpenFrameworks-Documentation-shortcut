@@ -1,2 +1,6 @@
 ofNode 3d/ofNode.html#show_setParent
+ofxBaseGui ofxGui/ofxBaseGui.html#show_setParent
 ofAbstractParameter types/ofAbstractParameter.html#show_setParent
+ofParameter types/ofParameter.html#show_setParent
+ofParameterGroup types/ofParameterGroup.html#show_setParent
+ofReadOnlyParameter types/ofReadOnlyParameter.html#show_setParent

@@ -1,0 +1,2 @@
+ofPixels_ graphics/ofPixels.html#show_getLines
+ofBuffer utils/ofBuffer.html#show_getLines

@@ -1,5 +1,6 @@
 ofxAccelerometerHandler ofxAccelerometer/ofxAccelerometerHandler.html#show_getOrientation
 ofAppAndroidWindow ofxAndroid/ofAppAndroidWindow.html#show_getOrientation
+ofxAppEmscriptenWindow ofxEmscripten/ofxAppEmscriptenWindow.html#show_getOrientation
 ofAppiOSWindow ofxiOS/ofAppiOSWindow.html#show_getOrientation
 ofxiOSImagePicker ofxiOS/ofxiOSImagePicker.html#show_getOrientation
 ofAppBaseWindow application/ofAppBaseWindow.html#show_getOrientation

@@ -1,4 +1,5 @@
 ofAppAndroidWindow ofxAndroid/ofAppAndroidWindow.html#show_toggleFullscreen
+ofxAppEmscriptenWindow ofxEmscripten/ofxAppEmscriptenWindow.html#show_toggleFullscreen
 ofAppiOSWindow ofxiOS/ofAppiOSWindow.html#show_toggleFullscreen
 ofAppBaseWindow application/ofAppBaseWindow.html#show_toggleFullscreen
 ofAppEGLWindow application/ofAppEGLWindow.html#show_toggleFullscreen

@@ -1,5 +1,7 @@
 ofxAndroidSoundPlayer ofxAndroid/ofxAndroidSoundPlayer.html#show_setSpeed
 ofxAssimpAnimation ofxAssimpModelLoader/ofxAssimpAnimation.html#show_setSpeed
+ofxEmscriptenSoundPlayer ofxEmscripten/ofxEmscriptenSoundPlayer.html#show_setSpeed
+ofxEmscriptenVideoPlayer ofxEmscripten/ofxEmscriptenVideoPlayer.html#show_setSpeed
 ofxiOSSoundPlayer ofxiOS/ofxiOSSoundPlayer.html#show_setSpeed
 ofxiOSVideoPlayer ofxiOS/ofxiOSVideoPlayer.html#show_setSpeed
 ofxOpenALSoundPlayer ofxiOS/ofxOpenALSoundPlayer.html#show_setSpeed
@@ -8,6 +10,8 @@ ofOpenALSoundPlayer sound/ofOpenALSoundPlayer.html#show_setSpeed
 ofSoundPlayer sound/ofSoundPlayer.html#show_setSpeed
 ofBaseSoundPlayer types/ofBaseSoundPlayer.html#show_setSpeed
 ofBaseVideoPlayer types/ofBaseVideoPlayer.html#show_setSpeed
+ofAVFoundationPlayer video/ofAVFoundationPlayer.html#show_setSpeed
+ofDirectShowPlayer video/ofDirectShowPlayer.html#show_setSpeed
 ofGstUtils video/ofGstUtils.html#show_setSpeed
 ofGstVideoPlayer video/ofGstVideoPlayer.html#show_setSpeed
 ofQTKitPlayer video/ofQTKitPlayer.html#show_setSpeed

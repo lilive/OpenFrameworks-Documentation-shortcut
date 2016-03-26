@@ -1,6 +1,13 @@
-ofxAndroidVideoPlayer ofxAndroid/ofxAndroidVideoPlayer.html#show_getTexture
+ofxEmscriptenVideoGrabber ofxEmscripten/ofxEmscriptenVideoGrabber.html#show_getTexture
+ofxEmscriptenVideoPlayer ofxEmscripten/ofxEmscriptenVideoPlayer.html#show_getTexture
 ofxiOSVideoPlayer ofxiOS/ofxiOSVideoPlayer.html#show_getTexture
-ofBaseVideoGrabber types/ofBaseVideoGrabber.html#show_getTexture
-ofBaseVideoPlayer types/ofBaseVideoPlayer.html#show_getTexture
+ofxCvImage ofxOpenCv/ofxCvImage.html#show_getTexture
+ofFbo gl/ofFbo.html#show_getTexture
+ofBitmapFont graphics/ofBitmapFont.html#show_getTexture
+ofImage_ graphics/ofImage.html#show_getTexture
+ofBaseHasTexture types/ofBaseHasTexture.html#show_getTexture
+ofGstVideoUtils video/ofGstVideoUtils.html#show_getTexture
 ofiPhoneVideoPlayer video/ofiPhoneVideoPlayer.html#show_getTexture
 ofQTKitPlayer video/ofQTKitPlayer.html#show_getTexture
+ofVideoGrabber video/ofVideoGrabber.html#show_getTexture
+ofVideoPlayer video/ofVideoPlayer.html#show_getTexture

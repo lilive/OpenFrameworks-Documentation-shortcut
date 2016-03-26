@@ -1,7 +1,9 @@
 ofxAndroidSoundStream ofxAndroid/ofxAndroidSoundStream.html#show_getTickCount
+ofxEmscriptenSoundStream ofxEmscripten/ofxEmscriptenSoundStream.html#show_getTickCount
 ofxiOSSoundStream ofxiOS/ofxiOSSoundStream.html#show_getTickCount
 ofPASoundStream sound/ofPASoundStream.html#show_getTickCount
 ofRtAudioSoundStream sound/ofRtAudioSoundStream.html#show_getTickCount
+ofSoundBuffer sound/ofSoundBuffer.html#show_getTickCount
 ofSoundStream sound/ofSoundStream.html#show_getTickCount
 ofxiPhoneSoundStream sound/ofxiPhoneSoundStream.html#show_getTickCount
 ofBaseSoundStream types/ofBaseSoundStream.html#show_getTickCount

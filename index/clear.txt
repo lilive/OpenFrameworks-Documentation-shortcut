@@ -1,6 +1,6 @@
-of3dPrimitive 3d/of3dPrimitive.html#show_clear
 ofMesh 3d/ofMesh.html#show_clear
 ofxAssimpModelLoader ofxAssimpModelLoader/ofxAssimpModelLoader.html#show_clear
+ofxEmscriptenURLFileLoader ofxEmscripten/ofxEmscriptenURLFileLoader.html#show_clear
 ofxGuiGroup ofxGui/ofxGuiGroup.html#show_clear
 ofxKinect ofxKinect/ofxKinect.html#show_clear
 ofxKinectContext ofxKinect/ofxKinectContext.html#show_clear
@@ -12,6 +12,7 @@ ofxOscBundle ofxOsc/ofxOscBundle.html#show_clear
 ofxOscMessage ofxOsc/ofxOscMessage.html#show_clear
 ofxXmlSettings ofxXmlSettings/ofxXmlSettings.html#show_clear
 ofNoopRenderer application/ofNoopRenderer.html#show_clear
+ofFbo gl/ofFbo.html#show_clear
 ofGLProgrammableRenderer gl/ofGLProgrammableRenderer.html#show_clear
 ofGLRenderer gl/ofGLRenderer.html#show_clear
 ofTexture gl/ofTexture.html#show_clear
@@ -22,7 +23,9 @@ ofPath graphics/ofPath.html#show_clear
 ofPixels_ graphics/ofPixels.html#show_clear
 ofPolyline graphics/ofPolyline.html#show_clear
 ofRendererCollection graphics/ofRendererCollection.html#show_clear
+ofSoundBuffer sound/ofSoundBuffer.html#show_clear
 ofBaseRenderer types/ofBaseRenderer.html#show_clear
+ofBaseURLFileLoader types/ofBaseURLFileLoader.html#show_clear
 ofParameterGroup types/ofParameterGroup.html#show_clear
 ofBuffer utils/ofBuffer.html#show_clear
 ofURLFileLoader utils/ofURLFileLoader.html#show_clear

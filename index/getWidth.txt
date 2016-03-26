@@ -1,9 +1,11 @@
 ofBoxPrimitive 3d/ofBoxPrimitive.html#show_getWidth
 ofPlanePrimitive 3d/ofPlanePrimitive.html#show_getWidth
-texture3DS ofx3DModelLoader/texture3DS.html#show_getWidth
 ofAppAndroidWindow ofxAndroid/ofAppAndroidWindow.html#show_getWidth
 ofxAndroidVideoGrabber ofxAndroid/ofxAndroidVideoGrabber.html#show_getWidth
 ofxAndroidVideoPlayer ofxAndroid/ofxAndroidVideoPlayer.html#show_getWidth
+ofxAppEmscriptenWindow ofxEmscripten/ofxAppEmscriptenWindow.html#show_getWidth
+ofxEmscriptenVideoGrabber ofxEmscripten/ofxEmscriptenVideoGrabber.html#show_getWidth
+ofxEmscriptenVideoPlayer ofxEmscripten/ofxEmscriptenVideoPlayer.html#show_getWidth
 ofxBaseGui ofxGui/ofxBaseGui.html#show_getWidth
 ofAppiOSWindow ofxiOS/ofAppiOSWindow.html#show_getWidth
 ofxiOSVideoGrabber ofxiOS/ofxiOSVideoGrabber.html#show_getWidth
@@ -26,7 +28,9 @@ ofBaseDraws types/ofBaseDraws.html#show_getWidth
 ofBaseVideoGrabber types/ofBaseVideoGrabber.html#show_getWidth
 ofBaseVideoPlayer types/ofBaseVideoPlayer.html#show_getWidth
 ofRectangle types/ofRectangle.html#show_getWidth
+ofAVFoundationPlayer video/ofAVFoundationPlayer.html#show_getWidth
 ofDirectShowGrabber video/ofDirectShowGrabber.html#show_getWidth
+ofDirectShowPlayer video/ofDirectShowPlayer.html#show_getWidth
 ofGstVideoGrabber video/ofGstVideoGrabber.html#show_getWidth
 ofGstVideoPlayer video/ofGstVideoPlayer.html#show_getWidth
 ofGstVideoUtils video/ofGstVideoUtils.html#show_getWidth

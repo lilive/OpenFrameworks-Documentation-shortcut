@@ -1,0 +1,3 @@
+ofGLProgrammableRenderer gl/ofGLProgrammableRenderer.html#show_setSmoothLighting
+ofGLRenderer gl/ofGLRenderer.html#show_setSmoothLighting
+ofBaseGLRenderer types/ofBaseGLRenderer.html#show_setSmoothLighting

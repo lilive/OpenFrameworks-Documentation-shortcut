@@ -1,1 +1,3 @@
+ofAppNoWindow application/ofAppNoWindow.html#show_run
+ofMainLoop application/ofMainLoop.html#show_run
 ofThread utils/ofThread.html#show_run

@@ -1,4 +1,5 @@
 ofAppAndroidWindow ofxAndroid/ofAppAndroidWindow.html#show_getWindowPosition
+ofxAppEmscriptenWindow ofxEmscripten/ofxAppEmscriptenWindow.html#show_getWindowPosition
 ofAppiOSWindow ofxiOS/ofAppiOSWindow.html#show_getWindowPosition
 ofAppBaseWindow application/ofAppBaseWindow.html#show_getWindowPosition
 ofAppEGLWindow application/ofAppEGLWindow.html#show_getWindowPosition

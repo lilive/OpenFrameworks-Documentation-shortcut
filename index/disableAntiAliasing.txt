@@ -1,4 +1,5 @@
 ofAppiOSWindow ofxiOS/ofAppiOSWindow.html#show_disableAntiAliasing
+ofNoopRenderer application/ofNoopRenderer.html#show_disableAntiAliasing
 ofGLProgrammableRenderer gl/ofGLProgrammableRenderer.html#show_disableAntiAliasing
 ofGLRenderer gl/ofGLRenderer.html#show_disableAntiAliasing
 ofCairoRenderer graphics/ofCairoRenderer.html#show_disableAntiAliasing

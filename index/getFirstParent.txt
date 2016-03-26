@@ -1,0 +1,4 @@
+ofAbstractParameter types/ofAbstractParameter.html#show_getFirstParent
+ofParameter types/ofParameter.html#show_getFirstParent
+ofParameterGroup types/ofParameterGroup.html#show_getFirstParent
+ofReadOnlyParameter types/ofReadOnlyParameter.html#show_getFirstParent

@@ -1,4 +1,5 @@
 ofAppAndroidWindow ofxAndroid/ofAppAndroidWindow.html#show_showCursor
+ofxAppEmscriptenWindow ofxEmscripten/ofxAppEmscriptenWindow.html#show_showCursor
 ofAppiOSWindow ofxiOS/ofAppiOSWindow.html#show_showCursor
 ofAppBaseWindow application/ofAppBaseWindow.html#show_showCursor
 ofAppEGLWindow application/ofAppEGLWindow.html#show_showCursor

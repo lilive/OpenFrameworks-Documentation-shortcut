@@ -1,0 +1,2 @@
+of3dGraphics 3d/of3dGraphics.html#show_setBoxResolution
+ofBaseRenderer types/ofBaseRenderer.html#show_setBoxResolution

@@ -55,7 +55,7 @@ colorama.init()
 # Path to the documentation directory in the local OF site copy :
 # Example:
 # docSourcesRootPath = 'C:\Users\username\Documents\of\ofSite\_documentation'
-docSourcesRootPath = os.path.expanduser('~/Documents/of/ofSite/_documentation')
+docSourcesRootPath = os.path.expanduser('~/Documents/of/ofSite/documentation')
 
 # Path to the Pandoc executable. If Pandoc is in your path you can do pandocExe = 'pandoc'
 # Example:

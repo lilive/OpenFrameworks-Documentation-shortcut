@@ -1,2 +1,3 @@
 ofAppEGLWindow application/ofAppEGLWindow.html#show_createWindow
+ofMainLoop application/ofMainLoop.html#show_createWindow
 ofOpenALSoundPlayer sound/ofOpenALSoundPlayer.html#show_createWindow

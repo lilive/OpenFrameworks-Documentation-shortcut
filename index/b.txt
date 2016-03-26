@@ -1,1 +1,2 @@
-ofAppGLFWWindow application/ofAppGLFWWindow.html#show_b
+ofxAppEmscriptenWindow ofxEmscripten/ofxAppEmscriptenWindow.html#show_b
+ofxEmscriptenURLFileLoader ofxEmscripten/ofxEmscriptenURLFileLoader.html#show_b

@@ -1,0 +1,3 @@
+ofGLProgrammableRenderer gl/ofGLProgrammableRenderer.html#show_enableSeparateSpecularLight
+ofGLRenderer gl/ofGLRenderer.html#show_enableSeparateSpecularLight
+ofBaseGLRenderer types/ofBaseGLRenderer.html#show_enableSeparateSpecularLight

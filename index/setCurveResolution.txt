@@ -1,1 +1,7 @@
+ofNoopRenderer application/ofNoopRenderer.html#show_setCurveResolution
+ofGLProgrammableRenderer gl/ofGLProgrammableRenderer.html#show_setCurveResolution
+ofGLRenderer gl/ofGLRenderer.html#show_setCurveResolution
+ofCairoRenderer graphics/ofCairoRenderer.html#show_setCurveResolution
 ofPath graphics/ofPath.html#show_setCurveResolution
+ofRendererCollection graphics/ofRendererCollection.html#show_setCurveResolution
+ofBaseRenderer types/ofBaseRenderer.html#show_setCurveResolution

@@ -1,3 +1,4 @@
+ofNoopRenderer application/ofNoopRenderer.html#show_loadMatrix
 ofGLProgrammableRenderer gl/ofGLProgrammableRenderer.html#show_loadMatrix
 ofGLRenderer gl/ofGLRenderer.html#show_loadMatrix
 ofCairoRenderer graphics/ofCairoRenderer.html#show_loadMatrix

@@ -1,1 +1,7 @@
+ofxAndroidSoundPlayer ofxAndroid/ofxAndroidSoundPlayer.html#show_unload
+ofxEmscriptenSoundPlayer ofxEmscripten/ofxEmscriptenSoundPlayer.html#show_unload
 ofShader gl/ofShader.html#show_unload
+ofFmodSoundPlayer sound/ofFmodSoundPlayer.html#show_unload
+ofOpenALSoundPlayer sound/ofOpenALSoundPlayer.html#show_unload
+ofSoundPlayer sound/ofSoundPlayer.html#show_unload
+ofBaseSoundPlayer types/ofBaseSoundPlayer.html#show_unload

@@ -6,3 +6,4 @@ ofxCvShortImage ofxOpenCv/ofxCvShortImage.html#show_resize
 ofImage_ graphics/ofImage.html#show_resize
 ofPixels_ graphics/ofPixels.html#show_resize
 ofPolyline graphics/ofPolyline.html#show_resize
+ofSoundBuffer sound/ofSoundBuffer.html#show_resize

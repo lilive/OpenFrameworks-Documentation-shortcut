@@ -1,4 +1,5 @@
 ofxAndroidSoundStream ofxAndroid/ofxAndroidSoundStream.html#show_setOutput
+ofxEmscriptenSoundStream ofxEmscripten/ofxEmscriptenSoundStream.html#show_setOutput
 ofxiOSSoundStream ofxiOS/ofxiOSSoundStream.html#show_setOutput
 ofPASoundStream sound/ofPASoundStream.html#show_setOutput
 ofRtAudioSoundStream sound/ofRtAudioSoundStream.html#show_setOutput

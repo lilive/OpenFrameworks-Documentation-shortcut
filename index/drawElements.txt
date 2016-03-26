@@ -1,1 +1,4 @@
+ofGLProgrammableRenderer gl/ofGLProgrammableRenderer.html#show_drawElements
+ofGLRenderer gl/ofGLRenderer.html#show_drawElements
 ofVbo gl/ofVbo.html#show_drawElements
+ofBaseGLRenderer types/ofBaseGLRenderer.html#show_drawElements

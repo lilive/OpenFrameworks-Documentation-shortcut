@@ -1,2 +1,0 @@
-ofVec2f math/ofVec2f.html#show_mapped
-ofVec3f math/ofVec3f.html#show_mapped

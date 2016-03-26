@@ -1,2 +1,3 @@
 ofxBaseGui ofxGui/ofxBaseGui.html#show_setSize
 ofxiOSKeyboard ofxiOS/ofxiOSKeyboard.html#show_setSize
+ofRectangle types/ofRectangle.html#show_setSize

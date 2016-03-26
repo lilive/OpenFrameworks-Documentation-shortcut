@@ -1,5 +1,13 @@
 ofCamera 3d/ofCamera.html#show_end
 ofFbo gl/ofFbo.html#show_end
+ofGLProgrammableRenderer gl/ofGLProgrammableRenderer.html#show_end
+ofGLRenderer gl/ofGLRenderer.html#show_end
 ofMaterial gl/ofMaterial.html#show_end
 ofShader gl/ofShader.html#show_end
+ofPixels_ graphics/ofPixels.html#show_end
 ofPolyline graphics/ofPolyline.html#show_end
+ofBaseGLRenderer types/ofBaseGLRenderer.html#show_end
+ofBaseMaterial types/ofBaseMaterial.html#show_end
+ofBuffer utils/ofBuffer.html#show_end
+ofDirectory utils/ofDirectory.html#show_end
+ofUTF8Iterator utils/ofUTF8Iterator.html#show_end

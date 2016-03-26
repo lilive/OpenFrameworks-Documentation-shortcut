@@ -1,3 +1,5 @@
+ofxEmscriptenURLFileLoader ofxEmscripten/ofxEmscriptenURLFileLoader.html#show_saveTo
 ofxBaseGui ofxGui/ofxBaseGui.html#show_saveTo
 ofxLabel ofxGui/ofxLabel.html#show_saveTo
+ofBaseURLFileLoader types/ofBaseURLFileLoader.html#show_saveTo
 ofURLFileLoader utils/ofURLFileLoader.html#show_saveTo

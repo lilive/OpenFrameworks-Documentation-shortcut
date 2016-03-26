@@ -1,0 +1,3 @@
+ofGLProgrammableRenderer gl/ofGLProgrammableRenderer.html#show_enableLight
+ofGLRenderer gl/ofGLRenderer.html#show_enableLight
+ofBaseGLRenderer types/ofBaseGLRenderer.html#show_enableLight

@@ -5,4 +5,3 @@ ofxThreadedImageLoader ofxThreadedImageLoader/ofxThreadedImageLoader.html#show_t
 ofAppEGLWindow application/ofAppEGLWindow.html#show_threadedFunction
 ofOpenALSoundPlayer sound/ofOpenALSoundPlayer.html#show_threadedFunction
 ofThread utils/ofThread.html#show_threadedFunction
-ofURLFileLoader utils/ofURLFileLoader.html#show_threadedFunction

@@ -1,1 +1,2 @@
+ofSoundBuffer sound/ofSoundBuffer.html#show_getDurationNanos
 ofGstUtils video/ofGstUtils.html#show_getDurationNanos

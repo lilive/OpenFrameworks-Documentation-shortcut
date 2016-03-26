@@ -1,3 +1,4 @@
 ofAbstractParameter types/ofAbstractParameter.html#show_setSerializable
 ofParameter types/ofParameter.html#show_setSerializable
 ofParameterGroup types/ofParameterGroup.html#show_setSerializable
+ofReadOnlyParameter types/ofReadOnlyParameter.html#show_setSerializable

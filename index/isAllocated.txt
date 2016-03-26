@@ -1,3 +1,4 @@
+ofBufferObject gl/ofBufferObject.html#show_isAllocated
 ofFbo gl/ofFbo.html#show_isAllocated
 ofTexture gl/ofTexture.html#show_isAllocated
 ofImage_ graphics/ofImage.html#show_isAllocated

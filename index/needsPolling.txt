@@ -1,0 +1,6 @@
+ofAppAndroidWindow ofxAndroid/ofAppAndroidWindow.html#show_needsPolling
+ofxAppEmscriptenWindow ofxEmscripten/ofxAppEmscriptenWindow.html#show_needsPolling
+ofAppEGLWindow application/ofAppEGLWindow.html#show_needsPolling
+ofAppGLFWWindow application/ofAppGLFWWindow.html#show_needsPolling
+ofAppGlutWindow application/ofAppGlutWindow.html#show_needsPolling
+ofAppNoWindow application/ofAppNoWindow.html#show_needsPolling

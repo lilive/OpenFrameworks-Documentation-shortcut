@@ -1,1 +1,7 @@
 ofxBaseGui ofxGui/ofxBaseGui.html#show_setBackgroundColor
+ofNoopRenderer application/ofNoopRenderer.html#show_setBackgroundColor
+ofGLProgrammableRenderer gl/ofGLProgrammableRenderer.html#show_setBackgroundColor
+ofGLRenderer gl/ofGLRenderer.html#show_setBackgroundColor
+ofCairoRenderer graphics/ofCairoRenderer.html#show_setBackgroundColor
+ofRendererCollection graphics/ofRendererCollection.html#show_setBackgroundColor
+ofBaseRenderer types/ofBaseRenderer.html#show_setBackgroundColor

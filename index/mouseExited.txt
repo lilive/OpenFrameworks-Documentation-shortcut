@@ -1,0 +1,2 @@
+ofxBaseGui ofxGui/ofxBaseGui.html#show_mouseExited
+ofBaseApp application/ofBaseApp.html#show_mouseExited

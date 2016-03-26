@@ -1,0 +1,2 @@
+ofAppBaseWindow application/ofAppBaseWindow.html#show_getClipboardString
+ofAppGLFWWindow application/ofAppGLFWWindow.html#show_getClipboardString

@@ -1,3 +1,2 @@
-material3DS ofx3DModelLoader/material3DS.html#show_setDiffuseColor
 ofLight gl/ofLight.html#show_setDiffuseColor
 ofMaterial gl/ofMaterial.html#show_setDiffuseColor

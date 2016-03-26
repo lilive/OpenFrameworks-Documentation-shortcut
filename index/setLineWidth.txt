@@ -1,4 +1,3 @@
-ofxVectorGraphics ofxVectorGraphics/ofxVectorGraphics.html#show_setLineWidth
 ofNoopRenderer application/ofNoopRenderer.html#show_setLineWidth
 ofGLProgrammableRenderer gl/ofGLProgrammableRenderer.html#show_setLineWidth
 ofGLRenderer gl/ofGLRenderer.html#show_setLineWidth

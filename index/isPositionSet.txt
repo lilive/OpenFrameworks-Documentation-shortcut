@@ -1,0 +1,1 @@
+ofWindowSettings application/ofWindowSettings.html#show_isPositionSet

@@ -1,4 +1,5 @@
 ofxAndroidSoundPlayer ofxAndroid/ofxAndroidSoundPlayer.html#show_getPan
+ofxEmscriptenSoundPlayer ofxEmscripten/ofxEmscriptenSoundPlayer.html#show_getPan
 ofxiOSSoundPlayer ofxiOS/ofxiOSSoundPlayer.html#show_getPan
 ofxOpenALSoundPlayer ofxiOS/ofxOpenALSoundPlayer.html#show_getPan
 ofFmodSoundPlayer sound/ofFmodSoundPlayer.html#show_getPan

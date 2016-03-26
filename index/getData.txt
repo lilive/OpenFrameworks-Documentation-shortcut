@@ -1,0 +1,3 @@
+ofMaterial gl/ofMaterial.html#show_getData
+ofPixels_ graphics/ofPixels.html#show_getData
+ofBuffer utils/ofBuffer.html#show_getData

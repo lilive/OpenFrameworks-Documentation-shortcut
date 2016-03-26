@@ -1,0 +1,6 @@
+ofNoopRenderer application/ofNoopRenderer.html#show_setBitmapTextMode
+ofGLProgrammableRenderer gl/ofGLProgrammableRenderer.html#show_setBitmapTextMode
+ofGLRenderer gl/ofGLRenderer.html#show_setBitmapTextMode
+ofCairoRenderer graphics/ofCairoRenderer.html#show_setBitmapTextMode
+ofRendererCollection graphics/ofRendererCollection.html#show_setBitmapTextMode
+ofBaseRenderer types/ofBaseRenderer.html#show_setBitmapTextMode

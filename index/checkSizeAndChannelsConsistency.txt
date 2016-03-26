@@ -1,0 +1,1 @@
+ofSoundBuffer sound/ofSoundBuffer.html#show_checkSizeAndChannelsConsistency

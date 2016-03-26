@@ -1,0 +1,1 @@
+ofTimer utils/ofTimer.html#show_calculateNextPeriod

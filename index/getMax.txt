@@ -1,3 +1,4 @@
+ofxSlider ofxGui/ofxSlider.html#show_getMax
 ofParameter types/ofParameter.html#show_getMax
 ofReadOnlyParameter types/ofReadOnlyParameter.html#show_getMax
 ofRectangle types/ofRectangle.html#show_getMax

@@ -1,6 +1,9 @@
 ofxAndroidSoundStream ofxAndroid/ofxAndroidSoundStream.html#show_close
 ofxAndroidVideoGrabber ofxAndroid/ofxAndroidVideoGrabber.html#show_close
 ofxAndroidVideoPlayer ofxAndroid/ofxAndroidVideoPlayer.html#show_close
+ofxEmscriptenSoundStream ofxEmscripten/ofxEmscriptenSoundStream.html#show_close
+ofxEmscriptenVideoGrabber ofxEmscripten/ofxEmscriptenVideoGrabber.html#show_close
+ofxEmscriptenVideoPlayer ofxEmscripten/ofxEmscriptenVideoPlayer.html#show_close
 ofxiOSImagePicker ofxiOS/ofxiOSImagePicker.html#show_close
 ofxiOSSoundStream ofxiOS/ofxiOSSoundStream.html#show_close
 ofxiOSVideoGrabber ofxiOS/ofxiOSVideoGrabber.html#show_close
@@ -9,6 +12,10 @@ ofxKinect ofxKinect/ofxKinect.html#show_close
 ofxKinectContext ofxKinect/ofxKinectContext.html#show_close
 ofxTCPClient ofxNetwork/ofxTCPClient.html#show_close
 ofxTCPServer ofxNetwork/ofxTCPServer.html#show_close
+ofAppBaseWindow application/ofAppBaseWindow.html#show_close
+ofAppEGLWindow application/ofAppEGLWindow.html#show_close
+ofAppGLFWWindow application/ofAppGLFWWindow.html#show_close
+ofAppGlutWindow application/ofAppGlutWindow.html#show_close
 ofSerial communication/ofSerial.html#show_close
 ofCairoRenderer graphics/ofCairoRenderer.html#show_close
 ofPath graphics/ofPath.html#show_close
@@ -20,12 +27,13 @@ ofSoundStream sound/ofSoundStream.html#show_close
 ofxiPhoneSoundStream sound/ofxiPhoneSoundStream.html#show_close
 ofBaseSoundStream types/ofBaseSoundStream.html#show_close
 ofBaseVideo types/ofBaseVideo.html#show_close
-ofBaseVideoGrabber types/ofBaseVideoGrabber.html#show_close
-ofBaseVideoPlayer types/ofBaseVideoPlayer.html#show_close
 ofDirectory utils/ofDirectory.html#show_close
 ofFile utils/ofFile.html#show_close
 ofFileLoggerChannel utils/ofFileLoggerChannel.html#show_close
+ofThreadChannel utils/ofThreadChannel.html#show_close
+ofAVFoundationPlayer video/ofAVFoundationPlayer.html#show_close
 ofDirectShowGrabber video/ofDirectShowGrabber.html#show_close
+ofDirectShowPlayer video/ofDirectShowPlayer.html#show_close
 ofGstUtils video/ofGstUtils.html#show_close
 ofGstVideoGrabber video/ofGstVideoGrabber.html#show_close
 ofGstVideoPlayer video/ofGstVideoPlayer.html#show_close

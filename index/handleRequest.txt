@@ -1,1 +1,3 @@
+ofxEmscriptenURLFileLoader ofxEmscripten/ofxEmscriptenURLFileLoader.html#show_handleRequest
+ofBaseURLFileLoader types/ofBaseURLFileLoader.html#show_handleRequest
 ofURLFileLoader utils/ofURLFileLoader.html#show_handleRequest

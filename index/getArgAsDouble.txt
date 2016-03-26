@@ -1,0 +1,1 @@
+ofxOscMessage ofxOsc/ofxOscMessage.html#show_getArgAsDouble

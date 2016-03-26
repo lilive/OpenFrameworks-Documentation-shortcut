@@ -1,1 +1,2 @@
-ofDelegate events/ofDelegate.html#show_notify
+ofEvent events/ofEvent.html#show_notify
+ofFastEvent events/ofFastEvent.html#show_notify

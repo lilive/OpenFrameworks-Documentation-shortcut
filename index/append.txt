@@ -1,2 +1,4 @@
 ofMesh 3d/ofMesh.html#show_append
+ofPath graphics/ofPath.html#show_append
+ofSoundBuffer sound/ofSoundBuffer.html#show_append
 ofBuffer utils/ofBuffer.html#show_append

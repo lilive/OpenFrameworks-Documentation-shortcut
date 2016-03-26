@@ -1,0 +1,1 @@
+ofCoreEvents events/ofCoreEvents.html#show_notifyDraw

@@ -1,1 +1,2 @@
 ofMaterial gl/ofMaterial.html#show_getEmissiveColor
+ofBaseMaterial types/ofBaseMaterial.html#show_getEmissiveColor

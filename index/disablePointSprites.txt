@@ -2,4 +2,4 @@ ofNoopRenderer application/ofNoopRenderer.html#show_disablePointSprites
 ofGLProgrammableRenderer gl/ofGLProgrammableRenderer.html#show_disablePointSprites
 ofGLRenderer gl/ofGLRenderer.html#show_disablePointSprites
 ofRendererCollection graphics/ofRendererCollection.html#show_disablePointSprites
-ofBaseRenderer types/ofBaseRenderer.html#show_disablePointSprites
+ofBaseGLRenderer types/ofBaseGLRenderer.html#show_disablePointSprites

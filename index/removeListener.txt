@@ -3,6 +3,5 @@ ofxLabel ofxGui/ofxLabel.html#show_removeListener
 ofxSlider ofxGui/ofxSlider.html#show_removeListener
 ofxToggle ofxGui/ofxToggle.html#show_removeListener
 ofxiOSAlertsHandler ofxiOS/ofxiOSAlertsHandler.html#show_removeListener
-ofxMultiTouchHandler ofxMultitouch/ofxMultiTouchHandler.html#show_removeListener
 ofParameter types/ofParameter.html#show_removeListener
 ofReadOnlyParameter types/ofReadOnlyParameter.html#show_removeListener

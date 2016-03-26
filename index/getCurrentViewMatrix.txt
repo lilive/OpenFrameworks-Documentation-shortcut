@@ -1,0 +1,6 @@
+ofNoopRenderer application/ofNoopRenderer.html#show_getCurrentViewMatrix
+ofGLProgrammableRenderer gl/ofGLProgrammableRenderer.html#show_getCurrentViewMatrix
+ofGLRenderer gl/ofGLRenderer.html#show_getCurrentViewMatrix
+ofCairoRenderer graphics/ofCairoRenderer.html#show_getCurrentViewMatrix
+ofRendererCollection graphics/ofRendererCollection.html#show_getCurrentViewMatrix
+ofBaseRenderer types/ofBaseRenderer.html#show_getCurrentViewMatrix

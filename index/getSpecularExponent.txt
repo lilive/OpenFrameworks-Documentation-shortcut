@@ -1,1 +1,0 @@
-material3DS ofx3DModelLoader/material3DS.html#show_getSpecularExponent

@@ -1,0 +1,2 @@
+ofAppBaseWindow application/ofAppBaseWindow.html#show_getWindowShouldClose
+ofAppGLFWWindow application/ofAppGLFWWindow.html#show_getWindowShouldClose

@@ -1,3 +1,8 @@
+ofxAndroidSoundStream ofxAndroid/ofxAndroidSoundStream.html#show_getDeviceList
+ofxEmscriptenSoundStream ofxEmscripten/ofxEmscriptenSoundStream.html#show_getDeviceList
 ofxiOSVideoGrabber ofxiOS/ofxiOSVideoGrabber.html#show_getDeviceList
 ofSerial communication/ofSerial.html#show_getDeviceList
+ofRtAudioSoundStream sound/ofRtAudioSoundStream.html#show_getDeviceList
+ofSoundStream sound/ofSoundStream.html#show_getDeviceList
+ofBaseSoundStream types/ofBaseSoundStream.html#show_getDeviceList
 ofiPhoneVideoGrabber video/ofiPhoneVideoGrabber.html#show_getDeviceList

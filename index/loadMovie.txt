@@ -1,8 +1,4 @@
-ofxAndroidVideoPlayer ofxAndroid/ofxAndroidVideoPlayer.html#show_loadMovie
 ofxiOSVideoPlayer ofxiOS/ofxiOSVideoPlayer.html#show_loadMovie
-ofBaseVideoPlayer types/ofBaseVideoPlayer.html#show_loadMovie
-ofGstVideoPlayer video/ofGstVideoPlayer.html#show_loadMovie
 ofiPhoneVideoPlayer video/ofiPhoneVideoPlayer.html#show_loadMovie
 ofQTKitPlayer video/ofQTKitPlayer.html#show_loadMovie
 ofQuickTimePlayer video/ofQuickTimePlayer.html#show_loadMovie
-ofVideoPlayer video/ofVideoPlayer.html#show_loadMovie

@@ -1,0 +1,6 @@
+ofAppAndroidWindow ofxAndroid/ofAppAndroidWindow.html#show_allowsMultiWindow
+ofxAppEmscriptenWindow ofxEmscripten/ofxAppEmscriptenWindow.html#show_allowsMultiWindow
+ofAppEGLWindow application/ofAppEGLWindow.html#show_allowsMultiWindow
+ofAppGLFWWindow application/ofAppGLFWWindow.html#show_allowsMultiWindow
+ofAppGlutWindow application/ofAppGlutWindow.html#show_allowsMultiWindow
+ofAppNoWindow application/ofAppNoWindow.html#show_allowsMultiWindow

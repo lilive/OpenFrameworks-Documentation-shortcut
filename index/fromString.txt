@@ -1,3 +1,4 @@
 ofAbstractParameter types/ofAbstractParameter.html#show_fromString
 ofParameter types/ofParameter.html#show_fromString
+ofParameterGroup types/ofParameterGroup.html#show_fromString
 ofReadOnlyParameter types/ofReadOnlyParameter.html#show_fromString

@@ -1,4 +1,7 @@
+ofNoopRenderer application/ofNoopRenderer.html#show_getNativeViewport
 ofGLProgrammableRenderer gl/ofGLProgrammableRenderer.html#show_getNativeViewport
 ofGLRenderer gl/ofGLRenderer.html#show_getNativeViewport
+ofCairoRenderer graphics/ofCairoRenderer.html#show_getNativeViewport
+ofRendererCollection graphics/ofRendererCollection.html#show_getNativeViewport
 ofBaseRenderer types/ofBaseRenderer.html#show_getNativeViewport
 ofMatrixStack utils/ofMatrixStack.html#show_getNativeViewport

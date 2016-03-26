@@ -1,1 +1,3 @@
+ofxEmscriptenURLFileLoader ofxEmscripten/ofxEmscriptenURLFileLoader.html#show_saveAsync
+ofBaseURLFileLoader types/ofBaseURLFileLoader.html#show_saveAsync
 ofURLFileLoader utils/ofURLFileLoader.html#show_saveAsync

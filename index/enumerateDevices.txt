@@ -1,1 +1,0 @@
-ofSerial communication/ofSerial.html#show_enumerateDevices

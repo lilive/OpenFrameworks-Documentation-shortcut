@@ -1,8 +1,17 @@
 ofxOscArg ofxOsc/ofxOscArg.html#show_getType
+ofxOscArgBlob ofxOsc/ofxOscArgBlob.html#show_getType
+ofxOscArgBool ofxOsc/ofxOscArgBool.html#show_getType
+ofxOscArgChar ofxOsc/ofxOscArgChar.html#show_getType
+ofxOscArgDouble ofxOsc/ofxOscArgDouble.html#show_getType
 ofxOscArgFloat ofxOsc/ofxOscArgFloat.html#show_getType
 ofxOscArgInt32 ofxOsc/ofxOscArgInt32.html#show_getType
 ofxOscArgInt64 ofxOsc/ofxOscArgInt64.html#show_getType
+ofxOscArgMidiMessage ofxOsc/ofxOscArgMidiMessage.html#show_getType
+ofxOscArgRgbaColor ofxOsc/ofxOscArgRgbaColor.html#show_getType
 ofxOscArgString ofxOsc/ofxOscArgString.html#show_getType
+ofxOscArgSymbol ofxOsc/ofxOscArgSymbol.html#show_getType
+ofxOscArgTimetag ofxOsc/ofxOscArgTimetag.html#show_getType
+ofxOscArgTrigger ofxOsc/ofxOscArgTrigger.html#show_getType
 ofNoopRenderer application/ofNoopRenderer.html#show_getType
 ofGLProgrammableRenderer gl/ofGLProgrammableRenderer.html#show_getType
 ofGLRenderer gl/ofGLRenderer.html#show_getType

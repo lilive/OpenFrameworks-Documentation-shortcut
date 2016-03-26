@@ -1,1 +1,0 @@
-ofBuffer utils/ofBuffer.html#show_getNextLine

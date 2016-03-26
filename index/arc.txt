@@ -1,3 +1,2 @@
-ofxVectorGraphics ofxVectorGraphics/ofxVectorGraphics.html#show_arc
 ofPath graphics/ofPath.html#show_arc
 ofPolyline graphics/ofPolyline.html#show_arc

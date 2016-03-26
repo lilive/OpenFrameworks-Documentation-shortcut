@@ -1,9 +1,10 @@
 ofNode 3d/ofNode.html#show_setPosition
-ofx3DModelLoader ofx3DModelLoader/ofx3DModelLoader.html#show_setPosition
 ofxAndroidSoundPlayer ofxAndroid/ofxAndroidSoundPlayer.html#show_setPosition
 ofxAndroidVideoPlayer ofxAndroid/ofxAndroidVideoPlayer.html#show_setPosition
 ofxAssimpAnimation ofxAssimpModelLoader/ofxAssimpAnimation.html#show_setPosition
 ofxAssimpModelLoader ofxAssimpModelLoader/ofxAssimpModelLoader.html#show_setPosition
+ofxEmscriptenSoundPlayer ofxEmscripten/ofxEmscriptenSoundPlayer.html#show_setPosition
+ofxEmscriptenVideoPlayer ofxEmscripten/ofxEmscriptenVideoPlayer.html#show_setPosition
 ofxBaseGui ofxGui/ofxBaseGui.html#show_setPosition
 ofxGuiGroup ofxGui/ofxGuiGroup.html#show_setPosition
 BackgroundTrackMgr ofxiOS/BackgroundTrackMgr.html#show_setPosition
@@ -11,12 +12,15 @@ ofxiOSKeyboard ofxiOS/ofxiOSKeyboard.html#show_setPosition
 ofxiOSSoundPlayer ofxiOS/ofxiOSSoundPlayer.html#show_setPosition
 ofxiOSVideoPlayer ofxiOS/ofxiOSVideoPlayer.html#show_setPosition
 ofxOpenALSoundPlayer ofxiOS/ofxOpenALSoundPlayer.html#show_setPosition
+ofWindowSettings application/ofWindowSettings.html#show_setPosition
 ofFmodSoundPlayer sound/ofFmodSoundPlayer.html#show_setPosition
 ofOpenALSoundPlayer sound/ofOpenALSoundPlayer.html#show_setPosition
 ofSoundPlayer sound/ofSoundPlayer.html#show_setPosition
 ofBaseSoundPlayer types/ofBaseSoundPlayer.html#show_setPosition
 ofBaseVideoPlayer types/ofBaseVideoPlayer.html#show_setPosition
 ofRectangle types/ofRectangle.html#show_setPosition
+ofAVFoundationPlayer video/ofAVFoundationPlayer.html#show_setPosition
+ofDirectShowPlayer video/ofDirectShowPlayer.html#show_setPosition
 ofGstUtils video/ofGstUtils.html#show_setPosition
 ofGstVideoPlayer video/ofGstVideoPlayer.html#show_setPosition
 ofQTKitPlayer video/ofQTKitPlayer.html#show_setPosition

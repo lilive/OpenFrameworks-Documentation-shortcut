@@ -1,1 +1,3 @@
 ofxAndroidVideoPlayer ofxAndroid/ofxAndroidVideoPlayer.html#show_unloadTexture
+ofBitmapFont graphics/ofBitmapFont.html#show_unloadTexture
+ofImage_ graphics/ofImage.html#show_unloadTexture

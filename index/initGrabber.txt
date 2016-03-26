@@ -1,9 +1,4 @@
-ofxAndroidVideoGrabber ofxAndroid/ofxAndroidVideoGrabber.html#show_initGrabber
 ofxiOSVideoGrabber ofxiOS/ofxiOSVideoGrabber.html#show_initGrabber
-ofBaseVideoGrabber types/ofBaseVideoGrabber.html#show_initGrabber
-ofDirectShowGrabber video/ofDirectShowGrabber.html#show_initGrabber
-ofGstVideoGrabber video/ofGstVideoGrabber.html#show_initGrabber
 ofiPhoneVideoGrabber video/ofiPhoneVideoGrabber.html#show_initGrabber
-ofQTKitGrabber video/ofQTKitGrabber.html#show_initGrabber
 ofQuickTimeGrabber video/ofQuickTimeGrabber.html#show_initGrabber
 ofVideoGrabber video/ofVideoGrabber.html#show_initGrabber

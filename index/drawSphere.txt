@@ -1,2 +1,3 @@
+of3dGraphics 3d/of3dGraphics.html#show_drawSphere
 ofNoopRenderer application/ofNoopRenderer.html#show_drawSphere
-ofCairoRenderer graphics/ofCairoRenderer.html#show_drawSphere
+ofBaseRenderer types/ofBaseRenderer.html#show_drawSphere

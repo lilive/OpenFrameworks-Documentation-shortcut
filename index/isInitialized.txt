@@ -1,3 +1,12 @@
+ofxAndroidVideoGrabber ofxAndroid/ofxAndroidVideoGrabber.html#show_isInitialized
+ofxEmscriptenVideoGrabber ofxEmscripten/ofxEmscriptenVideoGrabber.html#show_isInitialized
 ofArduino communication/ofArduino.html#show_isInitialized
 ofSerial communication/ofSerial.html#show_isInitialized
+ofBaseVideo types/ofBaseVideo.html#show_isInitialized
+ofBaseVideoPlayer types/ofBaseVideoPlayer.html#show_isInitialized
+ofDirectShowGrabber video/ofDirectShowGrabber.html#show_isInitialized
+ofGstVideoGrabber video/ofGstVideoGrabber.html#show_isInitialized
+ofGstVideoUtils video/ofGstVideoUtils.html#show_isInitialized
+ofQTKitGrabber video/ofQTKitGrabber.html#show_isInitialized
 ofVideoGrabber video/ofVideoGrabber.html#show_isInitialized
+ofVideoPlayer video/ofVideoPlayer.html#show_isInitialized

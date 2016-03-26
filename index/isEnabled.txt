@@ -1,0 +1,1 @@
+ofBaseEvent events/ofBaseEvent.html#show_isEnabled

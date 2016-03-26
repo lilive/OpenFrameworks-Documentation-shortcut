@@ -1,4 +1,5 @@
 ofAppAndroidWindow ofxAndroid/ofAppAndroidWindow.html#show_getWindowMode
+ofxAppEmscriptenWindow ofxEmscripten/ofxAppEmscriptenWindow.html#show_getWindowMode
 ofAppiOSWindow ofxiOS/ofAppiOSWindow.html#show_getWindowMode
 ofAppBaseWindow application/ofAppBaseWindow.html#show_getWindowMode
 ofAppEGLWindow application/ofAppEGLWindow.html#show_getWindowMode

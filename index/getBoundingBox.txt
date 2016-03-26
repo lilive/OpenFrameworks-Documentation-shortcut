@@ -1,1 +1,2 @@
+ofBitmapFont graphics/ofBitmapFont.html#show_getBoundingBox
 ofPolyline graphics/ofPolyline.html#show_getBoundingBox

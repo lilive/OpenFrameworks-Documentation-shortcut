@@ -1,0 +1,6 @@
+ofNoopRenderer application/ofNoopRenderer.html#show_get3dGraphics
+ofGLProgrammableRenderer gl/ofGLProgrammableRenderer.html#show_get3dGraphics
+ofGLRenderer gl/ofGLRenderer.html#show_get3dGraphics
+ofCairoRenderer graphics/ofCairoRenderer.html#show_get3dGraphics
+ofRendererCollection graphics/ofRendererCollection.html#show_get3dGraphics
+ofBaseRenderer types/ofBaseRenderer.html#show_get3dGraphics

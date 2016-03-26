@@ -1,3 +1,2 @@
-ofxAndroidApp ofxAndroid/ofxAndroidApp.html#show_touchCancelled
 ofxiOSApp ofxiOS/ofxiOSApp.html#show_touchCancelled
-ofxMultiTouchListener ofxMultitouch/ofxMultiTouchListener.html#show_touchCancelled
+ofBaseApp application/ofBaseApp.html#show_touchCancelled

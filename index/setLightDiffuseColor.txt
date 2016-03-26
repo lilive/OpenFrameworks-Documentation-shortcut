@@ -1,0 +1,3 @@
+ofGLProgrammableRenderer gl/ofGLProgrammableRenderer.html#show_setLightDiffuseColor
+ofGLRenderer gl/ofGLRenderer.html#show_setLightDiffuseColor
+ofBaseGLRenderer types/ofBaseGLRenderer.html#show_setLightDiffuseColor

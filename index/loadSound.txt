@@ -1,7 +1,2 @@
-ofxAndroidSoundPlayer ofxAndroid/ofxAndroidSoundPlayer.html#show_loadSound
 ofxiOSSoundPlayer ofxiOS/ofxiOSSoundPlayer.html#show_loadSound
 ofxOpenALSoundPlayer ofxiOS/ofxOpenALSoundPlayer.html#show_loadSound
-ofFmodSoundPlayer sound/ofFmodSoundPlayer.html#show_loadSound
-ofOpenALSoundPlayer sound/ofOpenALSoundPlayer.html#show_loadSound
-ofSoundPlayer sound/ofSoundPlayer.html#show_loadSound
-ofBaseSoundPlayer types/ofBaseSoundPlayer.html#show_loadSound

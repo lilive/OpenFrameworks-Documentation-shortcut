@@ -1,3 +1,4 @@
+ofNoopRenderer application/ofNoopRenderer.html#show_getCurrentMatrix
 ofGLProgrammableRenderer gl/ofGLProgrammableRenderer.html#show_getCurrentMatrix
 ofGLRenderer gl/ofGLRenderer.html#show_getCurrentMatrix
 ofCairoRenderer graphics/ofCairoRenderer.html#show_getCurrentMatrix

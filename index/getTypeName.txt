@@ -1,5 +1,14 @@
 ofxOscArg ofxOsc/ofxOscArg.html#show_getTypeName
+ofxOscArgBlob ofxOsc/ofxOscArgBlob.html#show_getTypeName
+ofxOscArgBool ofxOsc/ofxOscArgBool.html#show_getTypeName
+ofxOscArgChar ofxOsc/ofxOscArgChar.html#show_getTypeName
+ofxOscArgDouble ofxOsc/ofxOscArgDouble.html#show_getTypeName
 ofxOscArgFloat ofxOsc/ofxOscArgFloat.html#show_getTypeName
 ofxOscArgInt32 ofxOsc/ofxOscArgInt32.html#show_getTypeName
 ofxOscArgInt64 ofxOsc/ofxOscArgInt64.html#show_getTypeName
+ofxOscArgMidiMessage ofxOsc/ofxOscArgMidiMessage.html#show_getTypeName
+ofxOscArgRgbaColor ofxOsc/ofxOscArgRgbaColor.html#show_getTypeName
 ofxOscArgString ofxOsc/ofxOscArgString.html#show_getTypeName
+ofxOscArgSymbol ofxOsc/ofxOscArgSymbol.html#show_getTypeName
+ofxOscArgTimetag ofxOsc/ofxOscArgTimetag.html#show_getTypeName
+ofxOscArgTrigger ofxOsc/ofxOscArgTrigger.html#show_getTypeName

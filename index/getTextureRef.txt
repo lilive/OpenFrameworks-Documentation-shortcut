@@ -1,0 +1,2 @@
+ofxAssimpMeshHelper ofxAssimpModelLoader/ofxAssimpMeshHelper.html#show_getTextureRef
+ofxAssimpTexture ofxAssimpModelLoader/ofxAssimpTexture.html#show_getTextureRef

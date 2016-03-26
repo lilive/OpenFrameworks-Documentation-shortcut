@@ -1,0 +1,4 @@
+ofGLProgrammableRenderer gl/ofGLProgrammableRenderer.html#show_disableAlphaMask
+ofGLRenderer gl/ofGLRenderer.html#show_disableAlphaMask
+ofTexture gl/ofTexture.html#show_disableAlphaMask
+ofBaseGLRenderer types/ofBaseGLRenderer.html#show_disableAlphaMask

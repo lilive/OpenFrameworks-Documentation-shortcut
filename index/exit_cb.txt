@@ -1,1 +1,2 @@
 ofAppGLFWWindow application/ofAppGLFWWindow.html#show_exit_cb
+ofAppGlutWindow application/ofAppGlutWindow.html#show_exit_cb

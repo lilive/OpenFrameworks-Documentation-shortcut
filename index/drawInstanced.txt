@@ -1,2 +1,5 @@
+ofGLProgrammableRenderer gl/ofGLProgrammableRenderer.html#show_drawInstanced
+ofGLRenderer gl/ofGLRenderer.html#show_drawInstanced
 ofVbo gl/ofVbo.html#show_drawInstanced
 ofVboMesh gl/ofVboMesh.html#show_drawInstanced
+ofBaseGLRenderer types/ofBaseGLRenderer.html#show_drawInstanced

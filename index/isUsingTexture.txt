@@ -1,1 +1,6 @@
+ofxCvImage ofxOpenCv/ofxCvImage.html#show_isUsingTexture
+ofFbo gl/ofFbo.html#show_isUsingTexture
 ofImage_ graphics/ofImage.html#show_isUsingTexture
+ofBaseHasTexture types/ofBaseHasTexture.html#show_isUsingTexture
+ofVideoGrabber video/ofVideoGrabber.html#show_isUsingTexture
+ofVideoPlayer video/ofVideoPlayer.html#show_isUsingTexture

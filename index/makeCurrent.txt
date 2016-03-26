@@ -1,0 +1,3 @@
+ofAppBaseWindow application/ofAppBaseWindow.html#show_makeCurrent
+ofAppEGLWindow application/ofAppEGLWindow.html#show_makeCurrent
+ofAppGLFWWindow application/ofAppGLFWWindow.html#show_makeCurrent

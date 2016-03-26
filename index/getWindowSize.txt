@@ -1,4 +1,5 @@
 ofAppAndroidWindow ofxAndroid/ofAppAndroidWindow.html#show_getWindowSize
+ofxAppEmscriptenWindow ofxEmscripten/ofxAppEmscriptenWindow.html#show_getWindowSize
 ofAppiOSWindow ofxiOS/ofAppiOSWindow.html#show_getWindowSize
 ofAppBaseWindow application/ofAppBaseWindow.html#show_getWindowSize
 ofAppEGLWindow application/ofAppEGLWindow.html#show_getWindowSize

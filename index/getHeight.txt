@@ -2,10 +2,12 @@ ofBoxPrimitive 3d/ofBoxPrimitive.html#show_getHeight
 ofConePrimitive 3d/ofConePrimitive.html#show_getHeight
 ofCylinderPrimitive 3d/ofCylinderPrimitive.html#show_getHeight
 ofPlanePrimitive 3d/ofPlanePrimitive.html#show_getHeight
-texture3DS ofx3DModelLoader/texture3DS.html#show_getHeight
 ofAppAndroidWindow ofxAndroid/ofAppAndroidWindow.html#show_getHeight
 ofxAndroidVideoGrabber ofxAndroid/ofxAndroidVideoGrabber.html#show_getHeight
 ofxAndroidVideoPlayer ofxAndroid/ofxAndroidVideoPlayer.html#show_getHeight
+ofxAppEmscriptenWindow ofxEmscripten/ofxAppEmscriptenWindow.html#show_getHeight
+ofxEmscriptenVideoGrabber ofxEmscripten/ofxEmscriptenVideoGrabber.html#show_getHeight
+ofxEmscriptenVideoPlayer ofxEmscripten/ofxEmscriptenVideoPlayer.html#show_getHeight
 ofxBaseGui ofxGui/ofxBaseGui.html#show_getHeight
 ofAppiOSWindow ofxiOS/ofAppiOSWindow.html#show_getHeight
 ofxiOSVideoGrabber ofxiOS/ofxiOSVideoGrabber.html#show_getHeight
@@ -28,7 +30,9 @@ ofBaseDraws types/ofBaseDraws.html#show_getHeight
 ofBaseVideoGrabber types/ofBaseVideoGrabber.html#show_getHeight
 ofBaseVideoPlayer types/ofBaseVideoPlayer.html#show_getHeight
 ofRectangle types/ofRectangle.html#show_getHeight
+ofAVFoundationPlayer video/ofAVFoundationPlayer.html#show_getHeight
 ofDirectShowGrabber video/ofDirectShowGrabber.html#show_getHeight
+ofDirectShowPlayer video/ofDirectShowPlayer.html#show_getHeight
 ofGstVideoGrabber video/ofGstVideoGrabber.html#show_getHeight
 ofGstVideoPlayer video/ofGstVideoPlayer.html#show_getHeight
 ofGstVideoUtils video/ofGstVideoUtils.html#show_getHeight

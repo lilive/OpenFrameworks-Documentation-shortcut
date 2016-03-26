@@ -1,2 +1,0 @@
-ofFbo gl/ofFbo.html#show_destroy
-ofLight gl/ofLight.html#show_destroy

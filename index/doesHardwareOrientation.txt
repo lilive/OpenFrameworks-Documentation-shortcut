@@ -1,0 +1,1 @@
+ofMatrixStack utils/ofMatrixStack.html#show_doesHardwareOrientation

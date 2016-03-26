@@ -1,0 +1,3 @@
+ofxAndroidVideoGrabber ofxAndroid/ofxAndroidVideoGrabber.html#show_setUsePixels
+ofxEmscriptenVideoGrabber ofxEmscripten/ofxEmscriptenVideoGrabber.html#show_setUsePixels
+ofxEmscriptenVideoPlayer ofxEmscripten/ofxEmscriptenVideoPlayer.html#show_setUsePixels

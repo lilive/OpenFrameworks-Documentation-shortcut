@@ -1,1 +1,3 @@
+ofAppBaseWindow application/ofAppBaseWindow.html#show_getX11Window
 ofAppEGLWindow application/ofAppEGLWindow.html#show_getX11Window
+ofAppGLFWWindow application/ofAppGLFWWindow.html#show_getX11Window

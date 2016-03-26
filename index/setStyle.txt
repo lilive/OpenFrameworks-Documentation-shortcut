@@ -1,1 +1,6 @@
+ofNoopRenderer application/ofNoopRenderer.html#show_setStyle
+ofGLProgrammableRenderer gl/ofGLProgrammableRenderer.html#show_setStyle
+ofGLRenderer gl/ofGLRenderer.html#show_setStyle
 ofCairoRenderer graphics/ofCairoRenderer.html#show_setStyle
+ofRendererCollection graphics/ofRendererCollection.html#show_setStyle
+ofBaseRenderer types/ofBaseRenderer.html#show_setStyle

@@ -1,7 +1,12 @@
+ofxAndroidSoundPlayer ofxAndroid/ofxAndroidSoundPlayer.html#show_isPaused
 ofxAndroidVideoPlayer ofxAndroid/ofxAndroidVideoPlayer.html#show_isPaused
 ofxAssimpAnimation ofxAssimpModelLoader/ofxAssimpAnimation.html#show_isPaused
+ofxEmscriptenVideoPlayer ofxEmscripten/ofxEmscriptenVideoPlayer.html#show_isPaused
 ofxiOSVideoPlayer ofxiOS/ofxiOSVideoPlayer.html#show_isPaused
+ofOpenALSoundPlayer sound/ofOpenALSoundPlayer.html#show_isPaused
 ofBaseVideoPlayer types/ofBaseVideoPlayer.html#show_isPaused
+ofAVFoundationPlayer video/ofAVFoundationPlayer.html#show_isPaused
+ofDirectShowPlayer video/ofDirectShowPlayer.html#show_isPaused
 ofGstUtils video/ofGstUtils.html#show_isPaused
 ofGstVideoPlayer video/ofGstVideoPlayer.html#show_isPaused
 ofiPhoneVideoPlayer video/ofiPhoneVideoPlayer.html#show_isPaused

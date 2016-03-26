@@ -1,2 +1,0 @@
-ofDirectory utils/ofDirectory.html#show_getPocoFile
-ofFile utils/ofFile.html#show_getPocoFile

@@ -1,1 +1,0 @@
-ofAppEGLWindow application/ofAppEGLWindow.html#show_idle

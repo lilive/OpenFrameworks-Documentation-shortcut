@@ -1,3 +1,4 @@
 ofPixels_ graphics/ofPixels.html#show_copyFrom
+ofSoundBuffer sound/ofSoundBuffer.html#show_copyFrom
 ofColor_ types/ofColor.html#show_copyFrom
 ofFile utils/ofFile.html#show_copyFrom

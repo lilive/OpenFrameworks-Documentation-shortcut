@@ -1,5 +1,8 @@
 ofCamera 3d/ofCamera.html#show_isVFlipped
+ofNoopRenderer application/ofNoopRenderer.html#show_isVFlipped
 ofGLProgrammableRenderer gl/ofGLProgrammableRenderer.html#show_isVFlipped
 ofGLRenderer gl/ofGLRenderer.html#show_isVFlipped
+ofCairoRenderer graphics/ofCairoRenderer.html#show_isVFlipped
+ofRendererCollection graphics/ofRendererCollection.html#show_isVFlipped
 ofBaseRenderer types/ofBaseRenderer.html#show_isVFlipped
 ofMatrixStack utils/ofMatrixStack.html#show_isVFlipped

@@ -1,0 +1,2 @@
+ofSoundBuffer sound/ofSoundBuffer.html#show_getNumFrames
+ofFpsCounter utils/ofFpsCounter.html#show_getNumFrames

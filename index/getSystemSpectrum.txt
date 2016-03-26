@@ -1,1 +1,2 @@
+ofxEmscriptenSoundPlayer ofxEmscripten/ofxEmscriptenSoundPlayer.html#show_getSystemSpectrum
 ofOpenALSoundPlayer sound/ofOpenALSoundPlayer.html#show_getSystemSpectrum

@@ -1,2 +1,3 @@
 ofxTCPClient ofxNetwork/ofxTCPClient.html#show_receive
 ofxTCPServer ofxNetwork/ofxTCPServer.html#show_receive
+ofThreadChannel utils/ofThreadChannel.html#show_receive

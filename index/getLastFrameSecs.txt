@@ -1,0 +1,1 @@
+ofFpsCounter utils/ofFpsCounter.html#show_getLastFrameSecs

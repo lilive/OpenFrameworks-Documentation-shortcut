@@ -1,5 +1,8 @@
+ofxEmscriptenVideoPlayer ofxEmscripten/ofxEmscriptenVideoPlayer.html#show_firstFrame
 ofxiOSVideoPlayer ofxiOS/ofxiOSVideoPlayer.html#show_firstFrame
 ofBaseVideoPlayer types/ofBaseVideoPlayer.html#show_firstFrame
+ofAVFoundationPlayer video/ofAVFoundationPlayer.html#show_firstFrame
+ofDirectShowPlayer video/ofDirectShowPlayer.html#show_firstFrame
 ofGstVideoPlayer video/ofGstVideoPlayer.html#show_firstFrame
 ofQTKitPlayer video/ofQTKitPlayer.html#show_firstFrame
 ofQuickTimePlayer video/ofQuickTimePlayer.html#show_firstFrame

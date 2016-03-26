@@ -1,3 +1,4 @@
-ofxAssimpAnimation ofxAssimpModelLoader/ofxAssimpAnimation.html#show_n
+ofEvent events/ofEvent.html#show_n
 ofCairoRenderer graphics/ofCairoRenderer.html#show_n
+ofParameterGroup types/ofParameterGroup.html#show_n
 ofGstUtils video/ofGstUtils.html#show_n

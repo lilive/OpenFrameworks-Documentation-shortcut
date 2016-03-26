@@ -1,3 +1,4 @@
+ofxSlider ofxGui/ofxSlider.html#show_getMin
 ofParameter types/ofParameter.html#show_getMin
 ofReadOnlyParameter types/ofReadOnlyParameter.html#show_getMin
 ofRectangle types/ofRectangle.html#show_getMin

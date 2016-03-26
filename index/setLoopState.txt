@@ -1,7 +1,10 @@
 ofxAndroidVideoPlayer ofxAndroid/ofxAndroidVideoPlayer.html#show_setLoopState
 ofxAssimpAnimation ofxAssimpModelLoader/ofxAssimpAnimation.html#show_setLoopState
+ofxEmscriptenVideoPlayer ofxEmscripten/ofxEmscriptenVideoPlayer.html#show_setLoopState
 ofxiOSVideoPlayer ofxiOS/ofxiOSVideoPlayer.html#show_setLoopState
 ofBaseVideoPlayer types/ofBaseVideoPlayer.html#show_setLoopState
+ofAVFoundationPlayer video/ofAVFoundationPlayer.html#show_setLoopState
+ofDirectShowPlayer video/ofDirectShowPlayer.html#show_setLoopState
 ofGstUtils video/ofGstUtils.html#show_setLoopState
 ofGstVideoPlayer video/ofGstVideoPlayer.html#show_setLoopState
 ofQTKitPlayer video/ofQTKitPlayer.html#show_setLoopState

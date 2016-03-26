@@ -1,11 +1,9 @@
 of3dPrimitive 3d/of3dPrimitive.html#show_draw
 ofMesh 3d/ofMesh.html#show_draw
 ofNode 3d/ofNode.html#show_draw
-mesh3DS ofx3DModelLoader/mesh3DS.html#show_draw
-model3DS ofx3DModelLoader/model3DS.html#show_draw
-ofx3DBaseLoader ofx3DModelLoader/ofx3DBaseLoader.html#show_draw
-ofx3DModelLoader ofx3DModelLoader/ofx3DModelLoader.html#show_draw
+ofAppAndroidWindow ofxAndroid/ofAppAndroidWindow.html#show_draw
 ofxAssimpModelLoader ofxAssimpModelLoader/ofxAssimpModelLoader.html#show_draw
+ofxAppEmscriptenWindow ofxEmscripten/ofxAppEmscriptenWindow.html#show_draw
 ofxBaseGui ofxGui/ofxBaseGui.html#show_draw
 ofxiOSApp ofxiOS/ofxiOSApp.html#show_draw
 ofxKinect ofxKinect/ofxKinect.html#show_draw
@@ -14,6 +12,11 @@ ofxCvContourFinder ofxOpenCv/ofxCvContourFinder.html#show_draw
 ofxCvHaarFinder ofxOpenCv/ofxCvHaarFinder.html#show_draw
 ofxCvImage ofxOpenCv/ofxCvImage.html#show_draw
 ofxSVG ofxSVG/ofxSVG.html#show_draw
+ofAppBaseWindow application/ofAppBaseWindow.html#show_draw
+ofAppEGLWindow application/ofAppEGLWindow.html#show_draw
+ofAppGLFWWindow application/ofAppGLFWWindow.html#show_draw
+ofAppGlutWindow application/ofAppGlutWindow.html#show_draw
+ofAppNoWindow application/ofAppNoWindow.html#show_draw
 ofBaseApp application/ofBaseApp.html#show_draw
 ofNoopRenderer application/ofNoopRenderer.html#show_draw
 ofFbo gl/ofFbo.html#show_draw
@@ -28,7 +31,10 @@ ofPath graphics/ofPath.html#show_draw
 ofPolyline graphics/ofPolyline.html#show_draw
 ofRendererCollection graphics/ofRendererCollection.html#show_draw
 ofBaseDraws types/ofBaseDraws.html#show_draw
+ofBaseGLRenderer types/ofBaseGLRenderer.html#show_draw
 ofBaseRenderer types/ofBaseRenderer.html#show_draw
+ofAVFoundationPlayer video/ofAVFoundationPlayer.html#show_draw
+ofDirectShowPlayer video/ofDirectShowPlayer.html#show_draw
 ofQTKitPlayer video/ofQTKitPlayer.html#show_draw
 ofVideoGrabber video/ofVideoGrabber.html#show_draw
 ofVideoPlayer video/ofVideoPlayer.html#show_draw
