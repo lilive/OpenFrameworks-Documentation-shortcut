@@ -10,7 +10,7 @@ This python 2.7 script can help you to jump directly from your text editor to th
 
 ## Usage example ( Qt Creator / Windows 7 )
 
-- Place the insertion point on an OF keyword (a global function name, a class name, or a method of a class)
+- Select an OF keyword (a global function name, a class name, or a method of a class)
 
 ![Qt Creator Example Image 1](doc/Qt-Creator-Usage-1.png)
 
