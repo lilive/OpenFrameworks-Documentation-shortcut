@@ -30,7 +30,10 @@ A copy of the openFrameworks site
 Usage
 =====
 
-Edit the script, set the 2 path variables at the beginning, save it, and run it.
+- Edit the script
+- Set the 2 path variables at the beginning
+- Set the logLevel
+- Save it and run it.
 
 The script create an index which associate the OF keywords to the html files in the documentation.
 You only need to run this script once. Then open-documentation.py can read the index.
@@ -42,15 +45,7 @@ the .markdown files more recents than the .html files will be reconverted by Pan
 
 """
 
-import sys
-import os
-import subprocess
-import os.path
-import html5lib
-from bs4 import BeautifulSoup
-import re
-import colorama
-colorama.init()
+import sys, os
 
 # Path to the documentation directory in the local OF site copy :
 # Example:
@@ -60,12 +55,45 @@ docSourcesRootPath = os.path.expanduser('~/Documents/of/ofSite/documentation')
 # Path to the Pandoc executable. If Pandoc is in your path you can do pandocExe = 'pandoc'
 # Example:
 # pandocExe = 'C:\Users\username\AppData\Local\Pandoc\pandoc.exe'
-pandocExe = os.path.expanduser('~/AppData/Local/Pandoc/pandoc.exe')
+# pandocExe = os.path.expanduser('~/AppData/Local/Pandoc/pandoc.exe')
+pandocExe = 'C:\Program Files\pandoc\pandoc.exe'
 
-# If these 2 paths are set, no need to read further, you can run the script
+NOTICE = 0
+WARNING = 1
+ERROR = 2
+# What messages do we print ?
+logLevel = WARNING
+
+# If these 2 paths and the logLevel are set, no need to read further, you can run the script
 
 
+import subprocess, shlex
+import os.path
+import html5lib
+from bs4 import BeautifulSoup
+import re
+import colorama
+colorama.init()
 
+logLevelTitle = {
+    NOTICE: '',
+    WARNING: colorama.Fore.YELLOW + "[WARNING]",
+    ERROR: colorama.Fore.RED + "[ERROR]"
+}
+
+def log( message, level = NOTICE ):
+    
+    """Print the message with a proper color and title, according to level"""
+    
+    if level >= logLevel :
+        print logLevelTitle[ level ],
+        print message,
+        print colorama.Style.RESET_ALL
+
+# Check for pandoc file exist
+if not os.path.isfile( pandocExe ):
+    log( "The path to pandoc is incorrect, there is no such file :" + pandocExe, ERROR )
+    sys.exit(1)
 
 # Path to the script directory
 scriptDirPath = os.path.dirname(os.path.realpath(__file__))
@@ -93,10 +121,15 @@ def convertMarkDownToHTML( filePath, fileRelPath, dirRelPath ):
         ( htmlDir, _ ) = os.path.split( htmlPath )
         if( not os.path.exists( htmlDir ) ):
             os.makedirs( htmlDir )
-        print 'Convert "' + fileRelPath + '" to HTML'
-        command = '"' + pandocExe + '" "' + filePath + '" -s --toc -o "' + htmlPath
-        sys.stdout.flush()
-        subprocess.call( command, shell=True )
+        log( 'Convert "' + fileRelPath + '" to HTML' )
+        command = '"' + pandocExe + '" --quiet -f markdown-space_in_atx_header -t html -s --toc -o "' + htmlPath + '" "' + filePath + '"'
+        args = shlex.split( command )
+        process = subprocess.Popen( args, stdout=subprocess.PIPE, stderr=subprocess.PIPE )
+        stdoutdata, stderrdata = process.communicate()
+        if stderrdata:
+            log( "pandoc failed to parse this markdown file :" + filePath, ERROR )
+            log( "pandoc return this error :", ERROR )
+            log( stderrdata, ERROR )
         
     return htmlPath
 
@@ -128,24 +161,16 @@ def parseFunctionLink( a, fileRelPath ):
     
     """Extract the function name, the function signature, and the anchor from a link HTML tag <a>.
     Return ( success, name, signature, anchor ) where success is True or False."""
-    
-    content = a.string
-    if content is None :
-        m = re.search( '.*?>([^\(]+(\w+)\(.*)<', str(a) )
-        if m is None:
-            print colorama.Fore.RED
-            print 'Unable to read function name in file ' + fileRelPath
-            print 'Tag:'
-            print a
-            print colorama.Style.RESET_ALL
-            return ( False, '', '' ) 
-        else:
-            functionSignature = m.group(1)
-            functionName = m.group(2)
 
-            print colorama.Fore.BLUE + 'Verify this function name from ' + fileRelPath
-            print functionName + '()' + colorama.Style.RESET_ALL
-            return ( True, functionName, functionSignature )
+    # Find the text of the link. a.string is not enought because sometimes the link text is
+    # html formated.
+    content = "".join( a.stripped_strings )
+    if not content :
+        log( 'Unable to read function name in file ' + fileRelPath, ERROR )
+        log( 'Tag:', ERROR )
+        log( a, ERROR )
+        return ( False, '', '' ) 
+        
     else:
         m = re.search( '^.*?\s(\w+)\(.*\)$', content )
         if m is None:
@@ -161,7 +186,7 @@ def createFunctionsIndex( htmlPath, fileRelPath ) :
     
     """Add index entries for a set of of functions""" 
 
-    # print 'Parsing ' + fileRelPath
+    log( 'Parsing ' + fileRelPath )
     soup = BeautifulSoup( open( htmlPath ), "html5lib" )
         
     # Find table of content
@@ -170,7 +195,7 @@ def createFunctionsIndex( htmlPath, fileRelPath ) :
     # Find all the functions
     functionsList = toc.ul.li.ul.li.ul
     if functionsList is None:
-        print colorama.Fore.YELLOW + 'No function list found in ' + fileRelPath + colorama.Style.RESET_ALL
+        log( 'No function list found in ' + fileRelPath, WARNING )
         return
         
     functions = functionsList.find_all('li')
@@ -183,7 +208,7 @@ def createFunctionsIndex( htmlPath, fileRelPath ) :
             continue
         if functionName in ofFunctionsList:
             continue
-        print "Function found: " + functionName
+        log( "Function found: " + functionName )
             
         ofFunctionsList.append( functionName )
         
@@ -216,7 +241,7 @@ def createClassIndex( htmlPath, fileRelPath ) :
     toc = soup.find(id='TOC')
     tocLi = toc.ul.li
     if toc is None or tocLi is None:
-        print colorama.Fore.RED + 'No TOC found in ' + fileRelPath + colorama.Style.RESET_ALL
+        log( 'No TOC found in ' + fileRelPath, ERROR )
         return
     
     # Find class name
@@ -226,7 +251,7 @@ def createClassIndex( htmlPath, fileRelPath ) :
         return
         
     className = m.group(1)
-    print "Class found: " + className
+    log( "Class found: " + className )
     
     # Create path to this class.
     # This path will allow to open the right html page for this class in the documentation.
@@ -268,7 +293,7 @@ def createClassIndex( htmlPath, fileRelPath ) :
         ( success, functionName, functionSignature ) = parseFunctionLink( method.a, fileRelPath )
         if not success:
             continue
-        print 'Method found: ' + className + '::' + functionName + '()'
+        log( 'Method found: ' + className + '::' + functionName + '()' )
         entry = ( className, fileRelPathWithoutExt )
         if functionName in classesMethods:
             if not entry in classesMethods[ functionName ]:
