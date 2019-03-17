@@ -39,6 +39,8 @@ the method of this class.
 ## Requirement
 You need to have Python 2.7 installed.
 
+Tested with OF 0.10.0 - Windows 7
+
 <br />
 <br />
 <br />
