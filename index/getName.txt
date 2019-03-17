@@ -1,4 +1,5 @@
 ofxBaseGui ofxGui/ofxBaseGui.html#show_getName
+ofxXmlPoco ofxPoco/ofxXmlPoco.html#show_getName
 ofAbstractParameter types/ofAbstractParameter.html#show_getName
 ofParameter types/ofParameter.html#show_getName
 ofParameterGroup types/ofParameterGroup.html#show_getName

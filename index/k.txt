@@ -1,3 +1,0 @@
-ofPASoundStream sound/ofPASoundStream.html#show_k
-ofRtAudioSoundStream sound/ofRtAudioSoundStream.html#show_k
-ofGstUtils video/ofGstUtils.html#show_k

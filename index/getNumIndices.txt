@@ -1,2 +1,2 @@
-ofMesh 3d/ofMesh.html#show_getNumIndices
+ofMesh_ 3d/ofMesh.html#show_getNumIndices
 ofVbo gl/ofVbo.html#show_getNumIndices

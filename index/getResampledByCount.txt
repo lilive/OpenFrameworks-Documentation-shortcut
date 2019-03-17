@@ -1,1 +1,1 @@
-ofPolyline graphics/ofPolyline.html#show_getResampledByCount
+ofPolyline_ graphics/ofPolyline.html#show_getResampledByCount

@@ -1,1 +1,2 @@
 ofxAssimpModelLoader ofxAssimpModelLoader/ofxAssimpModelLoader.html#show_getModelMatrix
+ofMatrixStack utils/ofMatrixStack.html#show_getModelMatrix

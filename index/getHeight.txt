@@ -22,6 +22,7 @@ ofAppEGLWindow application/ofAppEGLWindow.html#show_getHeight
 ofAppGLFWWindow application/ofAppGLFWWindow.html#show_getHeight
 ofAppGlutWindow application/ofAppGlutWindow.html#show_getHeight
 ofAppNoWindow application/ofAppNoWindow.html#show_getHeight
+ofWindowSettings application/ofWindowSettings.html#show_getHeight
 ofFbo gl/ofFbo.html#show_getHeight
 ofTexture gl/ofTexture.html#show_getHeight
 ofImage_ graphics/ofImage.html#show_getHeight

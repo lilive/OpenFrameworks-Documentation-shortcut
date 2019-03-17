@@ -1,3 +1,7 @@
+ofAppBaseWindow application/ofAppBaseWindow.html#show_finishRender
+ofAppEGLWindow application/ofAppEGLWindow.html#show_finishRender
+ofAppGLFWWindow application/ofAppGLFWWindow.html#show_finishRender
+ofAppGlutWindow application/ofAppGlutWindow.html#show_finishRender
 ofNoopRenderer application/ofNoopRenderer.html#show_finishRender
 ofGLProgrammableRenderer gl/ofGLProgrammableRenderer.html#show_finishRender
 ofGLRenderer gl/ofGLRenderer.html#show_finishRender

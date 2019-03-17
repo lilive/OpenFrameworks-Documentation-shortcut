@@ -1,6 +1,9 @@
 ofxBaseGui ofxGui/ofxBaseGui.html#show_getParameter
+ofxButton ofxGui/ofxButton.html#show_getParameter
+ofxColorPicker_ ofxGui/ofxColorPicker.html#show_getParameter
 ofxColorSlider_ ofxGui/ofxColorSlider.html#show_getParameter
 ofxGuiGroup ofxGui/ofxGuiGroup.html#show_getParameter
+ofxInputField ofxGui/ofxInputField.html#show_getParameter
 ofxLabel ofxGui/ofxLabel.html#show_getParameter
 ofxSlider ofxGui/ofxSlider.html#show_getParameter
 ofxToggle ofxGui/ofxToggle.html#show_getParameter

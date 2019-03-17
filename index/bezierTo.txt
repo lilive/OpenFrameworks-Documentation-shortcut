@@ -1,2 +1,2 @@
 ofPath graphics/ofPath.html#show_bezierTo
-ofPolyline graphics/ofPolyline.html#show_bezierTo
+ofPolyline_ graphics/ofPolyline.html#show_bezierTo

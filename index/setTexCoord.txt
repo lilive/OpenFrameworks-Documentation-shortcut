@@ -1,2 +1,2 @@
-ofMesh 3d/ofMesh.html#show_setTexCoord
-ofMeshFace 3d/ofMeshFace.html#show_setTexCoord
+ofMeshFace_ 3d/ofMeshFace.html#show_setTexCoord
+ofMesh_ 3d/ofMesh.html#show_setTexCoord

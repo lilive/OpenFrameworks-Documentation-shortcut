@@ -1,3 +1,5 @@
 ofBufferObject gl/ofBufferObject.html#show_getId
 ofFbo gl/ofFbo.html#show_getId
+ofVbo gl/ofVbo__IndexAttribute.html#show_getId
+ofVbo gl/ofVbo__VertexAttribute.html#show_getId
 ofHttpRequest utils/ofHttpRequest.html#show_getId

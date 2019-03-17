@@ -1,1 +1,0 @@
-ofxBaseGui ofxGui/ofxBaseGui.html#show_saveStencilToHex

@@ -1,2 +1,2 @@
 ofPath graphics/ofPath.html#show_arc
-ofPolyline graphics/ofPolyline.html#show_arc
+ofPolyline_ graphics/ofPolyline.html#show_arc

@@ -5,6 +5,8 @@ ofGLProgrammableRenderer gl/ofGLProgrammableRenderer.html#show_bind
 ofGLRenderer gl/ofGLRenderer.html#show_bind
 ofTexture gl/ofTexture.html#show_bind
 ofVbo gl/ofVbo.html#show_bind
+ofVbo gl/ofVbo__IndexAttribute.html#show_bind
+ofVbo gl/ofVbo__VertexAttribute.html#show_bind
 ofCairoRenderer graphics/ofCairoRenderer.html#show_bind
 ofImage_ graphics/ofImage.html#show_bind
 ofRendererCollection graphics/ofRendererCollection.html#show_bind

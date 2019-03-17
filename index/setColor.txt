@@ -1,5 +1,5 @@
-ofMesh 3d/ofMesh.html#show_setColor
-ofMeshFace 3d/ofMeshFace.html#show_setColor
+ofMeshFace_ 3d/ofMeshFace.html#show_setColor
+ofMesh_ 3d/ofMesh.html#show_setColor
 ofNoopRenderer application/ofNoopRenderer.html#show_setColor
 ofGLProgrammableRenderer gl/ofGLProgrammableRenderer.html#show_setColor
 ofGLRenderer gl/ofGLRenderer.html#show_setColor

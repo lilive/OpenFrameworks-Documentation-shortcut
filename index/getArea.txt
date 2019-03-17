@@ -1,2 +1,2 @@
-ofPolyline graphics/ofPolyline.html#show_getArea
+ofPolyline_ graphics/ofPolyline.html#show_getArea
 ofRectangle types/ofRectangle.html#show_getArea

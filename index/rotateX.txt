@@ -1,6 +1,1 @@
 ofNoopRenderer application/ofNoopRenderer.html#show_rotateX
-ofGLProgrammableRenderer gl/ofGLProgrammableRenderer.html#show_rotateX
-ofGLRenderer gl/ofGLRenderer.html#show_rotateX
-ofCairoRenderer graphics/ofCairoRenderer.html#show_rotateX
-ofRendererCollection graphics/ofRendererCollection.html#show_rotateX
-ofBaseRenderer types/ofBaseRenderer.html#show_rotateX

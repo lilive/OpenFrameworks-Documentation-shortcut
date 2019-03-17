@@ -1,1 +1,1 @@
-ofMesh 3d/ofMesh.html#show_getCentroid
+ofMesh_ 3d/ofMesh.html#show_getCentroid

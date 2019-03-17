@@ -1,1 +1,3 @@
 ofxBaseGui ofxGui/ofxBaseGui.html#show_setShape
+ofxColorPicker_ ofxGui/ofxColorPicker.html#show_setShape
+ofxSlider ofxGui/ofxSlider.html#show_setShape

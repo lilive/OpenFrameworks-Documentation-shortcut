@@ -1,2 +1,1 @@
 ofxBaseGui ofxGui/ofxBaseGui.html#show_loadFrom
-ofxLabel ofxGui/ofxLabel.html#show_loadFrom

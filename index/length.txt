@@ -1,3 +1,17 @@
+glm glm/glm__mat2.html#show_length
+glm glm/glm__mat2x3.html#show_length
+glm glm/glm__mat2x4.html#show_length
+glm glm/glm__mat3.html#show_length
+glm glm/glm__mat3x2.html#show_length
+glm glm/glm__mat3x4.html#show_length
+glm glm/glm__mat4.html#show_length
+glm glm/glm__mat4x2.html#show_length
+glm glm/glm__mat4x3.html#show_length
+glm glm/glm__quat.html#show_length
+glm glm/glm__vec1.html#show_length
+glm glm/glm__vec2.html#show_length
+glm glm/glm__vec3.html#show_length
+glm glm/glm__vec4.html#show_length
 ofQuaternion math/ofQuaternion.html#show_length
 ofVec2f math/ofVec2f.html#show_length
 ofVec3f math/ofVec3f.html#show_length

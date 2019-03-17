@@ -7,6 +7,7 @@ ofxOscArgFloat ofxOsc/ofxOscArgFloat.html#show_getTypeName
 ofxOscArgInt32 ofxOsc/ofxOscArgInt32.html#show_getTypeName
 ofxOscArgInt64 ofxOsc/ofxOscArgInt64.html#show_getTypeName
 ofxOscArgMidiMessage ofxOsc/ofxOscArgMidiMessage.html#show_getTypeName
+ofxOscArgNone ofxOsc/ofxOscArgNone.html#show_getTypeName
 ofxOscArgRgbaColor ofxOsc/ofxOscArgRgbaColor.html#show_getTypeName
 ofxOscArgString ofxOsc/ofxOscArgString.html#show_getTypeName
 ofxOscArgSymbol ofxOsc/ofxOscArgSymbol.html#show_getTypeName

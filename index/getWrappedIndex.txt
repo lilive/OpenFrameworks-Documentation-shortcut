@@ -1,1 +1,1 @@
-ofPolyline graphics/ofPolyline.html#show_getWrappedIndex
+ofPolyline_ graphics/ofPolyline.html#show_getWrappedIndex

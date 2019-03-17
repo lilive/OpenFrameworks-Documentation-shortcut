@@ -1,1 +1,1 @@
-ofXml utils/ofXml.html#show_removeContents
+ofxXmlPoco ofxPoco/ofxXmlPoco.html#show_removeContents

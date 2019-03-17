@@ -1,0 +1,2 @@
+ofKeyEventArgs events/ofKeyEventArgs.html#show_hasModifier
+ofMouseEventArgs events/ofMouseEventArgs.html#show_hasModifier

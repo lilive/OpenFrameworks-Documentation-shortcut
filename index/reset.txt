@@ -1,6 +1,6 @@
 ofEasyCam 3d/ofEasyCam.html#show_reset
 ofxAssimpAnimation ofxAssimpModelLoader/ofxAssimpAnimation.html#show_reset
 ofxCvContourFinder ofxOpenCv/ofxCvContourFinder.html#show_reset
+ofxXmlPoco ofxPoco/ofxXmlPoco.html#show_reset
 ofDirectory utils/ofDirectory.html#show_reset
 ofTimer utils/ofTimer.html#show_reset
-ofXml utils/ofXml.html#show_reset

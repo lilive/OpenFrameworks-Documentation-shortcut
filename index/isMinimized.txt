@@ -1,0 +1,1 @@
+ofxGuiGroup ofxGui/ofxGuiGroup.html#show_isMinimized

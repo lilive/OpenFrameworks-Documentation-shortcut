@@ -1,1 +1,3 @@
+ofxXmlPoco ofxPoco/ofxXmlPoco.html#show_getFloatValue
 ofXml utils/ofXml.html#show_getFloatValue
+ofXml utils/ofXml__Attribute.html#show_getFloatValue

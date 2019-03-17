@@ -1,1 +1,1 @@
-ofMeshFace 3d/ofMeshFace.html#show_setHasNormals
+ofMeshFace_ 3d/ofMeshFace.html#show_setHasNormals

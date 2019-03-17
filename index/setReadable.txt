@@ -1,0 +1,2 @@
+ofDirectory utils/ofDirectory.html#show_setReadable
+ofFile utils/ofFile.html#show_setReadable

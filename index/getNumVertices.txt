@@ -1,2 +1,2 @@
-ofMesh 3d/ofMesh.html#show_getNumVertices
+ofMesh_ 3d/ofMesh.html#show_getNumVertices
 ofVbo gl/ofVbo.html#show_getNumVertices

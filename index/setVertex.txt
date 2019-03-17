@@ -1,2 +1,2 @@
-ofMesh 3d/ofMesh.html#show_setVertex
-ofMeshFace 3d/ofMeshFace.html#show_setVertex
+ofMeshFace_ 3d/ofMeshFace.html#show_setVertex
+ofMesh_ 3d/ofMesh.html#show_setVertex

@@ -1,8 +1,9 @@
-ofMesh 3d/ofMesh.html#show_load
+ofMesh_ 3d/ofMesh.html#show_load
 ofxAndroidSoundPlayer ofxAndroid/ofxAndroidSoundPlayer.html#show_load
 ofxAndroidVideoPlayer ofxAndroid/ofxAndroidVideoPlayer.html#show_load
 ofxEmscriptenSoundPlayer ofxEmscripten/ofxEmscriptenSoundPlayer.html#show_load
 ofxEmscriptenVideoPlayer ofxEmscripten/ofxEmscriptenVideoPlayer.html#show_load
+ofxXmlPoco ofxPoco/ofxXmlPoco.html#show_load
 ofxSVG ofxSVG/ofxSVG.html#show_load
 ofxXmlSettings ofxXmlSettings/ofxXmlSettings.html#show_load
 ofShader gl/ofShader.html#show_load

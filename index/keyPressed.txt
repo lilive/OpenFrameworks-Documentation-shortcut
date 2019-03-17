@@ -1,2 +1,3 @@
+ofxInputField ofxGui/ofxInputField.html#show_keyPressed
 ofBaseApp application/ofBaseApp.html#show_keyPressed
 ofMainLoop application/ofMainLoop.html#show_keyPressed

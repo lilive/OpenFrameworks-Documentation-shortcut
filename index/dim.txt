@@ -1,0 +1,1 @@
+ofxVecSlider_ ofxGui/ofxVecSlider.html#show_dim

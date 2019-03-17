@@ -1,2 +1,2 @@
+ofxXmlPoco ofxPoco/ofxXmlPoco.html#show_loadFromBuffer
 ofxXmlSettings ofxXmlSettings/ofxXmlSettings.html#show_loadFromBuffer
-ofXml utils/ofXml.html#show_loadFromBuffer

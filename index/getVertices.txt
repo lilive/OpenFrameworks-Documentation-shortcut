@@ -1,2 +1,2 @@
-ofMesh 3d/ofMesh.html#show_getVertices
-ofPolyline graphics/ofPolyline.html#show_getVertices
+ofMesh_ 3d/ofMesh.html#show_getVertices
+ofPolyline_ graphics/ofPolyline.html#show_getVertices

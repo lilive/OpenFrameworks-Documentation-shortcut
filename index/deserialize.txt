@@ -1,3 +1,1 @@
-ofxXmlSettings ofxXmlSettings/ofxXmlSettings.html#show_deserialize
 ofBaseSerializer types/ofBaseSerializer.html#show_deserialize
-ofXml utils/ofXml.html#show_deserialize

@@ -1,2 +1,0 @@
-ofxOscReceiver ofxOsc/ofxOscReceiver.html#show_shutdown
-ofxOscSender ofxOsc/ofxOscSender.html#show_shutdown

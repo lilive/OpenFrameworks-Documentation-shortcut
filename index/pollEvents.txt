@@ -4,3 +4,4 @@ ofAppEGLWindow application/ofAppEGLWindow.html#show_pollEvents
 ofAppGLFWWindow application/ofAppGLFWWindow.html#show_pollEvents
 ofAppGlutWindow application/ofAppGlutWindow.html#show_pollEvents
 ofAppNoWindow application/ofAppNoWindow.html#show_pollEvents
+ofMainLoop application/ofMainLoop.html#show_pollEvents

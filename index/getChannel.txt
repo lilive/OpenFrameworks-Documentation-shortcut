@@ -1,2 +1,3 @@
 ofPixels_ graphics/ofPixels.html#show_getChannel
 ofSoundBuffer sound/ofSoundBuffer.html#show_getChannel
+ofLog utils/ofLog.html#show_getChannel

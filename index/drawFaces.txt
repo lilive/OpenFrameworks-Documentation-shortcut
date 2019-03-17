@@ -1,3 +1,3 @@
 of3dPrimitive 3d/of3dPrimitive.html#show_drawFaces
-ofMesh 3d/ofMesh.html#show_drawFaces
+ofMesh_ 3d/ofMesh.html#show_drawFaces
 ofxAssimpModelLoader ofxAssimpModelLoader/ofxAssimpModelLoader.html#show_drawFaces

@@ -1,0 +1,4 @@
+ofAbstractParameter types/ofAbstractParameter.html#show_getInternalObject
+ofParameter types/ofParameter.html#show_getInternalObject
+ofParameterGroup types/ofParameterGroup.html#show_getInternalObject
+ofReadOnlyParameter types/ofReadOnlyParameter.html#show_getInternalObject

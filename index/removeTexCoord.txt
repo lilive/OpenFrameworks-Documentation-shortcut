@@ -1,1 +1,1 @@
-ofMesh 3d/ofMesh.html#show_removeTexCoord
+ofMesh_ 3d/ofMesh.html#show_removeTexCoord

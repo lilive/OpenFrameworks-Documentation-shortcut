@@ -3,3 +3,5 @@ ofAbstractParameter types/ofAbstractParameter.html#show_setName
 ofParameter types/ofParameter.html#show_setName
 ofParameterGroup types/ofParameterGroup.html#show_setName
 ofReadOnlyParameter types/ofReadOnlyParameter.html#show_setName
+ofXml utils/ofXml.html#show_setName
+ofXml utils/ofXml__Attribute.html#show_setName

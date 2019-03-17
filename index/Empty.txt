@@ -1,1 +1,4 @@
+ofBuffer utils/ofBuffer__Line.html#show_empty
+ofBuffer utils/ofBuffer__RLine.html#show_empty
 ofThreadChannel utils/ofThreadChannel.html#show_empty
+ofXml utils/ofXml__Search.html#show_empty

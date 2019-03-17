@@ -1,3 +1,4 @@
 ofBaseEvent events/ofBaseEvent.html#show_disable
 ofCoreEvents events/ofCoreEvents.html#show_disable
 ofLight gl/ofLight.html#show_disable
+ofVbo gl/ofVbo__VertexAttribute.html#show_disable

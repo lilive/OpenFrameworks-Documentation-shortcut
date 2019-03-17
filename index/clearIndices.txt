@@ -1,2 +1,2 @@
-ofMesh 3d/ofMesh.html#show_clearIndices
+ofMesh_ 3d/ofMesh.html#show_clearIndices
 ofVbo gl/ofVbo.html#show_clearIndices

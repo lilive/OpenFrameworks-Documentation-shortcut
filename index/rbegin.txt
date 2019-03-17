@@ -1,5 +1,7 @@
 ofPixels_ graphics/ofPixels.html#show_rbegin
-ofPolyline graphics/ofPolyline.html#show_rbegin
+ofPolyline_ graphics/ofPolyline.html#show_rbegin
+ofParameterGroup types/ofParameterGroup.html#show_rbegin
 ofBuffer utils/ofBuffer.html#show_rbegin
+ofBuffer utils/ofBuffer__Lines.html#show_rbegin
 ofDirectory utils/ofDirectory.html#show_rbegin
 ofUTF8Iterator utils/ofUTF8Iterator.html#show_rbegin

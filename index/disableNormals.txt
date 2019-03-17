@@ -1,5 +1,5 @@
 of3dPrimitive 3d/of3dPrimitive.html#show_disableNormals
-ofMesh 3d/ofMesh.html#show_disableNormals
+ofMesh_ 3d/ofMesh.html#show_disableNormals
 ofxAssimpModelLoader ofxAssimpModelLoader/ofxAssimpModelLoader.html#show_disableNormals
 ofVbo gl/ofVbo.html#show_disableNormals
 ofVboMesh gl/ofVboMesh.html#show_disableNormals

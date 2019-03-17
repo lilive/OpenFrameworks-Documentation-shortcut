@@ -1,3 +1,4 @@
+ofxXmlPoco ofxPoco/ofxXmlPoco.html#show_toString
 ofAbstractParameter types/ofAbstractParameter.html#show_toString
 ofParameter types/ofParameter.html#show_toString
 ofParameterGroup types/ofParameterGroup.html#show_toString

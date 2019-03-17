@@ -1,4 +1,5 @@
 ofBufferObject gl/ofBufferObject.html#show_copyTo
+ofFbo gl/ofFbo.html#show_copyTo
 ofTexture gl/ofTexture.html#show_copyTo
 ofSoundBuffer sound/ofSoundBuffer.html#show_copyTo
 ofDirectory utils/ofDirectory.html#show_copyTo

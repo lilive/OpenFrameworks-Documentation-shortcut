@@ -1,2 +1,2 @@
-ofMesh 3d/ofMesh.html#show_clearVertices
+ofMesh_ 3d/ofMesh.html#show_clearVertices
 ofVbo gl/ofVbo.html#show_clearVertices

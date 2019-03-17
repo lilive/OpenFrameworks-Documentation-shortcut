@@ -1,0 +1,1 @@
+ofxTCPManager ofxNetwork/ofxTCPManager.html#show_WaitReceive

@@ -1,4 +1,5 @@
-ofMesh 3d/ofMesh.html#show_save
+ofMesh_ 3d/ofMesh.html#show_save
+ofxXmlPoco ofxPoco/ofxXmlPoco.html#show_save
 ofxXmlSettings ofxXmlSettings/ofxXmlSettings.html#show_save
 ofImage_ graphics/ofImage.html#show_save
 ofBaseFileSerializer types/ofBaseFileSerializer.html#show_save

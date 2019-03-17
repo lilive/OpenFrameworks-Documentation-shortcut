@@ -1,2 +1,2 @@
-ofPolyline graphics/ofPolyline.html#show_getPerimeter
+ofPolyline_ graphics/ofPolyline.html#show_getPerimeter
 ofRectangle types/ofRectangle.html#show_getPerimeter

@@ -1,0 +1,4 @@
+ofxOscReceiver ofxOsc/ofxOscReceiver.html#show_getSettings
+ofxOscSender ofxOsc/ofxOscSender.html#show_getSettings
+ofAppGLFWWindow application/ofAppGLFWWindow.html#show_getSettings
+ofMaterial gl/ofMaterial.html#show_getSettings

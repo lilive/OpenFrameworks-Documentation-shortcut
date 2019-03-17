@@ -1,1 +1,0 @@
-ofPolyline graphics/ofPolyline.html#show_getAngleAtIndex

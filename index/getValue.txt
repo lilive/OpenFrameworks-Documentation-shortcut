@@ -1,2 +1,4 @@
+ofxXmlPoco ofxPoco/ofxXmlPoco.html#show_getValue
 ofxXmlSettings ofxXmlSettings/ofxXmlSettings.html#show_getValue
 ofXml utils/ofXml.html#show_getValue
+ofXml utils/ofXml__Attribute.html#show_getValue

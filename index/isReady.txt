@@ -1,1 +1,2 @@
+ofAVFoundationPlayer video/ofAVFoundationPlayer.html#show_isReady
 ofQTKitGrabber video/ofQTKitGrabber.html#show_isReady

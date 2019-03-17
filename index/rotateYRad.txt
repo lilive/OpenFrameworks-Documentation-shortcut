@@ -1,0 +1,5 @@
+ofGLProgrammableRenderer gl/ofGLProgrammableRenderer.html#show_rotateYRad
+ofGLRenderer gl/ofGLRenderer.html#show_rotateYRad
+ofCairoRenderer graphics/ofCairoRenderer.html#show_rotateYRad
+ofRendererCollection graphics/ofRendererCollection.html#show_rotateYRad
+ofBaseRenderer types/ofBaseRenderer.html#show_rotateYRad

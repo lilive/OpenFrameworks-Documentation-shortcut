@@ -1,0 +1,2 @@
+ofXml utils/ofXml.html#show_getUintValue
+ofXml utils/ofXml__Attribute.html#show_getUintValue

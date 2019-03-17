@@ -1,1 +1,1 @@
-ofMeshFace 3d/ofMeshFace.html#show_setHasColors
+ofMeshFace_ 3d/ofMeshFace.html#show_setHasColors

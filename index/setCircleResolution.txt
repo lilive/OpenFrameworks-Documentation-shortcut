@@ -3,6 +3,6 @@ ofGLProgrammableRenderer gl/ofGLProgrammableRenderer.html#show_setCircleResoluti
 ofGLRenderer gl/ofGLRenderer.html#show_setCircleResolution
 ofCairoRenderer graphics/ofCairoRenderer.html#show_setCircleResolution
 ofPath graphics/ofPath.html#show_setCircleResolution
-ofPolyline graphics/ofPolyline.html#show_setCircleResolution
+ofPolyline_ graphics/ofPolyline.html#show_setCircleResolution
 ofRendererCollection graphics/ofRendererCollection.html#show_setCircleResolution
 ofBaseRenderer types/ofBaseRenderer.html#show_setCircleResolution

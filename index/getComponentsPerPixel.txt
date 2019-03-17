@@ -1,0 +1,2 @@
+ofPixels graphics/ofPixels__ConstPixel.html#show_getComponentsPerPixel
+ofPixels graphics/ofPixels__Pixel.html#show_getComponentsPerPixel

@@ -19,7 +19,7 @@ ofAppGlutWindow application/ofAppGlutWindow.html#show_close
 ofSerial communication/ofSerial.html#show_close
 ofCairoRenderer graphics/ofCairoRenderer.html#show_close
 ofPath graphics/ofPath.html#show_close
-ofPolyline graphics/ofPolyline.html#show_close
+ofPolyline_ graphics/ofPolyline.html#show_close
 ofOpenALSoundPlayer sound/ofOpenALSoundPlayer.html#show_close
 ofPASoundStream sound/ofPASoundStream.html#show_close
 ofRtAudioSoundStream sound/ofRtAudioSoundStream.html#show_close

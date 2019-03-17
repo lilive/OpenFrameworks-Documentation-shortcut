@@ -1,2 +1,2 @@
-ofMesh 3d/ofMesh.html#show_clearTexCoords
+ofMesh_ 3d/ofMesh.html#show_clearTexCoords
 ofVbo gl/ofVbo.html#show_clearTexCoords

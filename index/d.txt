@@ -1,3 +1,0 @@
-ofxGuiGroup ofxGui/ofxGuiGroup.html#show_d
-ofEvent events/ofEvent.html#show_d
-ofParameterGroup types/ofParameterGroup.html#show_d

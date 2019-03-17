@@ -29,8 +29,8 @@ ofConePrimitive 3d/ofConePrimitive
 ofCylinderPrimitive 3d/ofCylinderPrimitive
 ofEasyCam 3d/ofEasyCam
 ofIcoSpherePrimitive 3d/ofIcoSpherePrimitive
-ofMesh 3d/ofMesh
-ofMeshFace 3d/ofMeshFace
+ofMeshFace_ 3d/ofMeshFace
+ofMesh_ 3d/ofMesh
 ofNode 3d/ofNode
 ofPlanePrimitive 3d/ofPlanePrimitive
 ofSpherePrimitive 3d/ofSpherePrimitive
@@ -55,6 +55,7 @@ ofGetOFActivityObject ofxAndroid/ofxAndroidUtils show_ofGetOFActivityObject
 ofxAndroidAlertBox ofxAndroid/ofxAndroidUtils show_ofxAndroidAlertBox
 ofxAndroidAlertListBox ofxAndroid/ofxAndroidUtils show_ofxAndroidAlertListBox
 ofxAndroidAlertTextBox ofxAndroid/ofxAndroidUtils show_ofxAndroidAlertTextBox
+ofxAndroidCheckPermission ofxAndroid/ofxAndroidUtils show_ofxAndroidCheckPermission
 ofxAndroidCheckSDCardMounted ofxAndroid/ofxAndroidUtils show_ofxAndroidCheckSDCardMounted
 ofxAndroidDisableMulticast ofxAndroid/ofxAndroidUtils show_ofxAndroidDisableMulticast
 ofxAndroidDismissProgressBox ofxAndroid/ofxAndroidUtils show_ofxAndroidDismissProgressBox
@@ -70,8 +71,10 @@ ofxAndroidLockScreenSleep ofxAndroid/ofxAndroidUtils show_ofxAndroidLockScreenSl
 ofxAndroidMonitorNetworkState ofxAndroid/ofxAndroidUtils show_ofxAndroidMonitorNetworkState
 ofxAndroidNotifyLoadPercent ofxAndroid/ofxAndroidUtils show_ofxAndroidNotifyLoadPercent
 ofxAndroidOkCancelBox ofxAndroid/ofxAndroidUtils show_ofxAndroidOkCancelBox
+ofxAndroidPauseApp ofxAndroid/ofxAndroidUtils show_ofxAndroidPauseApp
 ofxAndroidProgressBox ofxAndroid/ofxAndroidUtils show_ofxAndroidProgressBox
 ofxAndroidRandomUUID ofxAndroid/ofxAndroidUtils show_ofxAndroidRandomUUID
+ofxAndroidRequestPermission ofxAndroid/ofxAndroidUtils show_ofxAndroidRequestPermission
 ofxAndroidSetViewItemChecked ofxAndroid/ofxAndroidUtils show_ofxAndroidSetViewItemChecked
 ofxAndroidToast ofxAndroid/ofxAndroidUtils show_ofxAndroidToast
 ofxAndroidUnlockScreenSleep ofxAndroid/ofxAndroidUtils show_ofxAndroidUnlockScreenSleep
@@ -86,10 +89,12 @@ ofxJavaCallStaticVoidMethod ofxAndroid/ofxAndroidUtils show_ofxJavaCallStaticVoi
 ofxJavaCallVoidMethod ofxAndroid/ofxAndroidUtils show_ofxJavaCallVoidMethod
 ofxJavaGetClassID ofxAndroid/ofxAndroidUtils show_ofxJavaGetClassID
 ofxJavaGetClassName ofxAndroid/ofxAndroidUtils show_ofxJavaGetClassName
+ofxJavaGetJString ofxAndroid/ofxAndroidUtils show_ofxJavaGetJString
 ofxJavaGetMethodID ofxAndroid/ofxAndroidUtils show_ofxJavaGetMethodID
 ofxJavaGetStaticFieldID ofxAndroid/ofxAndroidUtils show_ofxJavaGetStaticFieldID
 ofxJavaGetStaticMethodID ofxAndroid/ofxAndroidUtils show_ofxJavaGetStaticMethodID
 ofxJavaGetStaticObjectField ofxAndroid/ofxAndroidUtils show_ofxJavaGetStaticObjectField
+ofxJstringToString ofxAndroid/ofxAndroidUtils show_ofxJstringToString
 ofxAndroidVibrator ofxAndroid/ofxAndroidVibrator
 ofxAndroidVideoGrabber ofxAndroid/ofxAndroidVideoGrabber
 ofxAndroidVideoPlayer ofxAndroid/ofxAndroidVideoPlayer
@@ -98,11 +103,6 @@ ofxAssimpAnimation ofxAssimpModelLoader/ofxAssimpAnimation
 ofxAssimpMeshHelper ofxAssimpModelLoader/ofxAssimpMeshHelper
 ofxAssimpModelLoader ofxAssimpModelLoader/ofxAssimpModelLoader
 ofxAssimpTexture ofxAssimpModelLoader/ofxAssimpTexture
-aiColorToOfColor ofxAssimpModelLoader/ofxAssimpUtils show_aiColorToOfColor
-aiMatrix4x4ToOfMatrix4x4 ofxAssimpModelLoader/ofxAssimpUtils show_aiMatrix4x4ToOfMatrix4x4
-h ofxAssimpModelLoader/ofxAssimpUtils show_h
-aiVecToOfVec ofxAssimpModelLoader/ofxAssimpUtils show_aiVecToOfVec
-aiVecVecToOfVecVec ofxAssimpModelLoader/ofxAssimpUtils show_aiVecVecToOfVecVec
 ofxAppEmscriptenWindow ofxEmscripten/ofxAppEmscriptenWindow
 ofxEmscriptenSoundPlayer ofxEmscripten/ofxEmscriptenSoundPlayer
 ofxEmscriptenSoundStream ofxEmscripten/ofxEmscriptenSoundStream
@@ -111,11 +111,13 @@ ofxEmscriptenVideoGrabber ofxEmscripten/ofxEmscriptenVideoGrabber
 ofxEmscriptenVideoPlayer ofxEmscripten/ofxEmscriptenVideoPlayer
 ofxBaseGui ofxGui/ofxBaseGui
 ofxButton ofxGui/ofxButton
+ofxColorPicker_ ofxGui/ofxColorPicker
 ofxColorSlider_ ofxGui/ofxColorSlider
 ofxGuiGroup ofxGui/ofxGuiGroup
 ofxGuiSetBackgroundColor ofxGui/ofxGui show_ofxGuiSetBackgroundColor
 ofxGuiSetBitmapFont ofxGui/ofxGui show_ofxGuiSetBitmapFont
 ofxGuiSetBorderColor ofxGui/ofxGui show_ofxGuiSetBorderColor
+ofxGuiSetDefaultEventsPriority ofxGui/ofxGui show_ofxGuiSetDefaultEventsPriority
 ofxGuiSetDefaultHeight ofxGui/ofxGui show_ofxGuiSetDefaultHeight
 ofxGuiSetDefaultWidth ofxGui/ofxGui show_ofxGuiSetDefaultWidth
 ofxGuiSetFillColor ofxGui/ofxGui show_ofxGuiSetFillColor
@@ -123,6 +125,7 @@ ofxGuiSetFont ofxGui/ofxGui show_ofxGuiSetFont
 ofxGuiSetHeaderColor ofxGui/ofxGui show_ofxGuiSetHeaderColor
 ofxGuiSetTextColor ofxGui/ofxGui show_ofxGuiSetTextColor
 ofxGuiSetTextPadding ofxGui/ofxGui show_ofxGuiSetTextPadding
+ofxInputField ofxGui/ofxInputField
 ofxLabel ofxGui/ofxLabel
 ofxPanel ofxGui/ofxPanel
 ofxSlider ofxGui/ofxSlider
@@ -142,7 +145,7 @@ ofReloadAllImageTextures ofxiOS/ofxiOSExtensions show_ofReloadAllImageTextures
 ofReloadGLResources ofxiOS/ofxiOSExtensions show_ofReloadGLResources
 ofUnloadAllFontTextures ofxiOS/ofxiOSExtensions show_ofUnloadAllFontTextures
 ofUpdateBitmapCharacterTexture ofxiOS/ofxiOSExtensions show_ofUpdateBitmapCharacterTexture
-e ofxiOS/ofxiOSExtras show_e
+ofxiOSBundleImageToGLTexture ofxiOS/ofxiOSExtras show_ofxiOSBundleImageToGLTexture
 ofxiOSCGImageToPixels ofxiOS/ofxiOSExtras show_ofxiOSCGImageToPixels
 ofxiOSDisableIdleTimer ofxiOS/ofxiOSExtras show_ofxiOSDisableIdleTimer
 ofxiOSEnableIdleTimer ofxiOS/ofxiOSExtras show_ofxiOSEnableIdleTimer
@@ -169,8 +172,9 @@ ofxiOSSetClipboardString ofxiOS/ofxiOSExtras show_ofxiOSSetClipboardString
 ofxiOSSetGLViewTransparent ofxiOS/ofxiOSExtras show_ofxiOSSetGLViewTransparent
 ofxiOSSetGLViewUserInteraction ofxiOS/ofxiOSExtras show_ofxiOSSetGLViewUserInteraction
 ofxiOSStringToNSString ofxiOS/ofxiOSExtras show_ofxiOSStringToNSString
+ofxiOSUIImageToGLTexture ofxiOS/ofxiOSExtras show_ofxiOSUIImageToGLTexture
 ofxiOSUIImageToOFImage ofxiOS/ofxiOSExtras show_ofxiOSUIImageToOFImage
-s ofxiOS/ofxiOSExtras show_s
+ofxiOSUIImageToPixels ofxiOS/ofxiOSExtras show_ofxiOSUIImageToPixels
 ofxiOSUnlockGLContext ofxiOS/ofxiOSExtras show_ofxiOSUnlockGLContext
 ofxiOSImagePicker ofxiOS/ofxiOSImagePicker
 ofxiOSKeyboard ofxiOS/ofxiOSKeyboard
@@ -194,7 +198,9 @@ ofxNetworkCheckErrno ofxNetwork/ofxNetworkUtils show_ofxNetworkCheckErrno
 ofxTCPClient ofxNetwork/ofxTCPClient
 ofxTCPManager ofxNetwork/ofxTCPManager
 ofxTCPServer ofxNetwork/ofxTCPServer
+ofxTCPSettings ofxNetwork/ofxTCPSettings
 ofxUDPManager ofxNetwork/ofxUDPManager
+ofxUDPSettings ofxNetwork/ofxUDPSettings
 ofxCvBlob ofxOpenCv/ofxCvBlob
 ofxCvColorImage ofxOpenCv/ofxCvColorImage
 ofxCvContourFinder ofxOpenCv/ofxCvContourFinder
@@ -213,6 +219,7 @@ ofxOscArgInt ofxOsc/ofxOscArgInt
 ofxOscArgInt32 ofxOsc/ofxOscArgInt32
 ofxOscArgInt64 ofxOsc/ofxOscArgInt64
 ofxOscArgMidiMessage ofxOsc/ofxOscArgMidiMessage
+ofxOscArgNone ofxOsc/ofxOscArgNone
 ofxOscArgRgbaColor ofxOsc/ofxOscArgRgbaColor
 ofxOscArgString ofxOsc/ofxOscArgString
 ofxOscArgSymbol ofxOsc/ofxOscArgSymbol
@@ -222,7 +229,12 @@ ofxOscBundle ofxOsc/ofxOscBundle
 ofxOscMessage ofxOsc/ofxOscMessage
 ofxOscParameterSync ofxOsc/ofxOscParameterSync
 ofxOscReceiver ofxOsc/ofxOscReceiver
+ofxOscReceiverSettings ofxOsc/ofxOscReceiverSettings
 ofxOscSender ofxOsc/ofxOscSender
+ofxOscSenderSettings ofxOsc/ofxOscSenderSettings
+ofxXmlPoco ofxPoco/ofxXmlPoco
+ofDeserialize ofxPoco/ofxXmlPoco show_ofDeserialize
+ofSerialize ofxPoco/ofxXmlPoco show_ofSerialize
 ofxSVG ofxSVG/ofxSVG
 ofxThreadedImageLoader ofxThreadedImageLoader/ofxThreadedImageLoader
 ofxXmlSettings ofxXmlSettings/ofxXmlSettings
@@ -230,6 +242,8 @@ ofAppBaseGLESWindow application/ofAppBaseGLESWindow
 ofAppBaseGLWindow application/ofAppBaseGLWindow
 ofAppBaseWindow application/ofAppBaseWindow
 ofAppEGLWindow application/ofAppEGLWindow
+ofAppEGLWindowSettings application/ofAppEGLWindowSettings
+ofAppEGLWindow application/ofAppEGLWindow__Settings
 ofAppGLFWWindow application/ofAppGLFWWindow
 ofAppGlutWindow application/ofAppGlutWindow
 ofAppNoWindow application/ofAppNoWindow
@@ -241,7 +255,10 @@ ofEnableSetupScreen application/ofAppRunner show_ofEnableSetupScreen
 ofEvents application/ofAppRunner show_ofEvents
 ofExit application/ofAppRunner show_ofExit
 ofGetAppPtr application/ofAppRunner show_ofGetAppPtr
+ofGetClipboardString application/ofAppRunner show_ofGetClipboardString
 ofGetCurrentRenderer application/ofAppRunner show_ofGetCurrentRenderer
+ofGetCurrentWindow application/ofAppRunner show_ofGetCurrentWindow
+ofGetFixedStepForFps application/ofAppRunner show_ofGetFixedStepForFps
 ofGetFrameNum application/ofAppRunner show_ofGetFrameNum
 ofGetFrameRate application/ofAppRunner show_ofGetFrameRate
 ofGetGLXContext application/ofAppRunner show_ofGetGLXContext
@@ -269,13 +286,16 @@ ofRandomHeight application/ofAppRunner show_ofRandomHeight
 ofRandomWidth application/ofAppRunner show_ofRandomWidth
 ofRunApp application/ofAppRunner show_ofRunApp
 ofRunMainLoop application/ofAppRunner show_ofRunMainLoop
-ofSetAppPtr application/ofAppRunner show_ofSetAppPtr
+ofSetClipboardString application/ofAppRunner show_ofSetClipboardString
 ofSetCurrentRenderer application/ofAppRunner show_ofSetCurrentRenderer
 ofSetEscapeQuitsApp application/ofAppRunner show_ofSetEscapeQuitsApp
 ofSetFrameRate application/ofAppRunner show_ofSetFrameRate
 ofSetFullscreen application/ofAppRunner show_ofSetFullscreen
 ofSetMainLoop application/ofAppRunner show_ofSetMainLoop
 ofSetOrientation application/ofAppRunner show_ofSetOrientation
+ofSetTimeModeFiltered application/ofAppRunner show_ofSetTimeModeFiltered
+ofSetTimeModeFixedRate application/ofAppRunner show_ofSetTimeModeFixedRate
+ofSetTimeModeSystem application/ofAppRunner show_ofSetTimeModeSystem
 ofSetVerticalSync application/ofAppRunner show_ofSetVerticalSync
 ofSetWindowPosition application/ofAppRunner show_ofSetWindowPosition
 ofSetWindowShape application/ofAppRunner show_ofSetWindowShape
@@ -284,7 +304,6 @@ ofSetupOpenGL application/ofAppRunner show_ofSetupOpenGL
 ofShowCursor application/ofAppRunner show_ofShowCursor
 ofToggleFullscreen application/ofAppRunner show_ofToggleFullscreen
 ofBaseApp application/ofBaseApp
-ofDragInfo application/ofDragInfo
 ofGLESWindowSettings application/ofGLESWindowSettings
 ofGLFWWindowSettings application/ofGLFWWindowSettings
 ofGLWindowSettings application/ofGLWindowSettings
@@ -293,13 +312,16 @@ ofNoopRenderer application/ofNoopRenderer
 ofWindowSettings application/ofWindowSettings
 ofArduino communication/ofArduino
 ofSerial communication/ofSerial
-ofAudioEventArgs events/ofAudioEventArgs
+ofSerialDeviceInfo communication/ofSerialDeviceInfo
 ofBaseEvent events/ofBaseEvent
 ofCoreEvents events/ofCoreEvents
+ofDragInfo events/ofDragInfo
 ofEntryEventArgs events/ofEntryEventArgs
 ofEvent events/ofEvent
 ofEventArgs events/ofEventArgs
 ofEventAttendedException events/ofEventAttendedException
+ofEventListener events/ofEventListener
+ofEventListeners events/ofEventListeners
 ofGetKeyPressed events/ofEvents show_ofGetKeyPressed
 ofGetMousePressed events/ofEvents show_ofGetMousePressed
 ofGetMouseX events/ofEvents show_ofGetMouseX
@@ -318,7 +340,6 @@ ofUnregisterKeyEvents events/ofEvents show_ofUnregisterKeyEvents
 ofUnregisterMouseEvents events/ofEvents show_ofUnregisterMouseEvents
 ofUnregisterTouchEvents events/ofEvents show_ofUnregisterTouchEvents
 ofAddListener events/ofEventUtils show_ofAddListener
-r events/ofEventUtils show_r
 ofNotifyEvent events/ofEventUtils show_ofNotifyEvent
 ofRemoveListener events/ofEventUtils show_ofRemoveListener
 ofFastEvent events/ofFastEvent
@@ -327,25 +348,31 @@ ofMessage events/ofMessage
 ofMouseEventArgs events/ofMouseEventArgs
 ofResizeEventArgs events/ofResizeEventArgs
 ofTouchEventArgs events/ofTouchEventArgs
+ofWindowPosEventArgs events/ofWindowPosEventArgs
 ofBufferObject gl/ofBufferObject
 ofFbo gl/ofFbo
+ofFboSettings gl/ofFboSettings
+ofFbo gl/ofFbo__Settings
 ofGLProgrammableRenderer gl/ofGLProgrammableRenderer
 ofGLRenderer gl/ofGLRenderer
+ofDisableGLDebugLog gl/ofGLUtils show_ofDisableGLDebugLog
+ofEnableGLDebugLog gl/ofGLUtils show_ofEnableGLDebugLog
 ofGLCheckExtension gl/ofGLUtils show_ofGLCheckExtension
 ofGLSLVersionFromGL gl/ofGLUtils show_ofGLSLVersionFromGL
+ofGLSupportedExtensions gl/ofGLUtils show_ofGLSupportedExtensions
 ofGLSupportsNPOTTextures gl/ofGLUtils show_ofGLSupportsNPOTTextures
 ofGetBytesPerChannelFromGLType gl/ofGLUtils show_ofGetBytesPerChannelFromGLType
+ofGetGLFormat gl/ofGLUtils show_ofGetGLFormat
 ofGetGLFormatFromInternal gl/ofGLUtils show_ofGetGLFormatFromInternal
 ofGetGLFormatFromPixelFormat gl/ofGLUtils show_ofGetGLFormatFromPixelFormat
+ofGetGLInternalFormat gl/ofGLUtils show_ofGetGLInternalFormat
 ofGetGLInternalFormatFromPixelFormat gl/ofGLUtils show_ofGetGLInternalFormatFromPixelFormat
+ofGetGLInternalFormatName gl/ofGLUtils show_ofGetGLInternalFormatName
 ofGetGLPolyMode gl/ofGLUtils show_ofGetGLPolyMode
 ofGetGLPrimitiveMode gl/ofGLUtils show_ofGetGLPrimitiveMode
 ofGetGLRenderer gl/ofGLUtils show_ofGetGLRenderer
-ofGetGlFormat gl/ofGLUtils show_ofGetGlFormat
-ofGetGlInternalFormat gl/ofGLUtils show_ofGetGlInternalFormat
-ofGetGlInternalFormatName gl/ofGLUtils show_ofGetGlInternalFormatName
-ofGetGlType gl/ofGLUtils show_ofGetGlType
-ofGetGlTypeFromInternal gl/ofGLUtils show_ofGetGlTypeFromInternal
+ofGetGLType gl/ofGLUtils show_ofGetGLType
+ofGetGLTypeFromInternal gl/ofGLUtils show_ofGetGLTypeFromInternal
 ofGetImageTypeFromGLType gl/ofGLUtils show_ofGetImageTypeFromGLType
 ofGetNumChannelsFromGLFormat gl/ofGLUtils show_ofGetNumChannelsFromGLFormat
 ofGetOFPolyMode gl/ofGLUtils show_ofGetOFPolyMode
@@ -359,11 +386,21 @@ ofEnableLighting gl/ofLight show_ofEnableLighting
 ofEnableSeparateSpecularLight gl/ofLight show_ofEnableSeparateSpecularLight
 ofGetGlobalAmbientColor gl/ofLight show_ofGetGlobalAmbientColor
 ofGetLightingEnabled gl/ofLight show_ofGetLightingEnabled
-a gl/ofLight show_a
+ofLightsData gl/ofLight show_ofLightsData
 ofSetGlobalAmbientColor gl/ofLight show_ofSetGlobalAmbientColor
 ofSetSmoothLighting gl/ofLight show_ofSetSmoothLighting
+ofLight gl/ofLight__Data
 ofMaterial gl/ofMaterial
+ofMaterialSettings gl/ofMaterialSettings
+ofMaterial gl/ofMaterial__Data
+ofMaterial gl/ofMaterial__Shaders
 ofShader gl/ofShader
+ofShaderSettings gl/ofShaderSettings
+ofShader gl/ofShader__Shader
+ofShader gl/ofShader__Source
+ofShader gl/ofShader__TransformFeedbackBaseBinding
+ofShader gl/ofShader__TransformFeedbackRangeBinding
+ofShader gl/ofShader__TransformFeedbackSettings
 ofTexture gl/ofTexture
 ofTextureData gl/ofTextureData
 ofDisableArbTex gl/ofTexture show_ofDisableArbTex
@@ -377,6 +414,23 @@ ofGetUsingNormalizedTexCoords gl/ofTexture show_ofGetUsingNormalizedTexCoords
 ofIsTextureEdgeHackEnabled gl/ofTexture show_ofIsTextureEdgeHackEnabled
 ofVbo gl/ofVbo
 ofVboMesh gl/ofVboMesh
+ofVbo gl/ofVbo__IndexAttribute
+ofVbo gl/ofVbo__VertexAttribute
+glm glm/glm__mat2
+glm glm/glm__mat2x3
+glm glm/glm__mat2x4
+glm glm/glm__mat3
+glm glm/glm__mat3x2
+glm glm/glm__mat3x4
+glm glm/glm__mat4
+glm glm/glm__mat4x2
+glm glm/glm__mat4x3
+glm glm/glm__quat
+glm glm/glm__vec1
+glm glm/glm__vec2
+glm glm/glm__vec3
+glm glm/glm__vec4
+ofAlphabet graphics/ofAlphabet
 ofBitmapFont graphics/ofBitmapFont
 ofCairoRenderer graphics/ofCairoRenderer
 ofBackground graphics/ofGraphics show_ofBackground
@@ -445,10 +499,14 @@ ofPopView graphics/ofGraphics show_ofPopView
 ofPushMatrix graphics/ofGraphics show_ofPushMatrix
 ofPushStyle graphics/ofGraphics show_ofPushStyle
 ofPushView graphics/ofGraphics show_ofPushView
-ofRotate graphics/ofGraphics show_ofRotate
-ofRotateX graphics/ofGraphics show_ofRotateX
-ofRotateY graphics/ofGraphics show_ofRotateY
-ofRotateZ graphics/ofGraphics show_ofRotateZ
+ofRotateDeg graphics/ofGraphics show_ofRotateDeg
+ofRotateRad graphics/ofGraphics show_ofRotateRad
+ofRotateXDeg graphics/ofGraphics show_ofRotateXDeg
+ofRotateXRad graphics/ofGraphics show_ofRotateXRad
+ofRotateYDeg graphics/ofGraphics show_ofRotateYDeg
+ofRotateYRad graphics/ofGraphics show_ofRotateYRad
+ofRotateZDeg graphics/ofGraphics show_ofRotateZDeg
+ofRotateZRad graphics/ofGraphics show_ofRotateZRad
 ofScale graphics/ofGraphics show_ofScale
 ofSetBackgroundAuto graphics/ofGraphics show_ofSetBackgroundAuto
 ofSetBackgroundColor graphics/ofGraphics show_ofSetBackgroundColor
@@ -469,22 +527,38 @@ ofSetupGraphicDefaults graphics/ofGraphics show_ofSetupGraphicDefaults
 ofSetupScreen graphics/ofGraphics show_ofSetupScreen
 ofSetupScreenOrtho graphics/ofGraphics show_ofSetupScreenOrtho
 ofSetupScreenPerspective graphics/ofGraphics show_ofSetupScreenPerspective
+ofToString graphics/ofGraphics show_ofToString
 ofTranslate graphics/ofGraphics show_ofTranslate
 ofVertex graphics/ofGraphics show_ofVertex
 ofVertices graphics/ofGraphics show_ofVertices
 ofViewport graphics/ofGraphics show_ofViewport
+ofImageLoadSettings graphics/ofImageLoadSettings
 ofImage_ graphics/ofImage
 ofCloseFreeImage graphics/ofImage show_ofCloseFreeImage
+ofImageFormatExtension graphics/ofImage show_ofImageFormatExtension
 ofLoadImage graphics/ofImage show_ofLoadImage
 ofSaveImage graphics/ofImage show_ofSaveImage
 ofPath graphics/ofPath
+ofPath graphics/ofPath__Command
 ofPixels_ graphics/ofPixels
-ofPolyline graphics/ofPolyline
+ofPixels graphics/ofPixels__ConstLine
+ofPixels graphics/ofPixels__ConstLines
+ofPixels graphics/ofPixels__ConstPixel
+ofPixels graphics/ofPixels__ConstPixels
+ofPixels graphics/ofPixels__Line
+ofPixels graphics/ofPixels__Lines
+ofPixels graphics/ofPixels__Pixel
+ofPixels graphics/ofPixels__Pixels
+ofPolyline_ graphics/ofPolyline
+ofInsidePoly graphics/ofPolyline show_ofInsidePoly
 ofRendererCollection graphics/ofRendererCollection
 ofTessellator graphics/ofTessellator
 ofTrueTypeFont graphics/ofTrueTypeFont
+ofTrueTypeFontSettings graphics/ofTrueTypeFontSettings
 ofTrueTypeShutdown graphics/ofTrueTypeFont show_ofTrueTypeShutdown
-ofTTFCharacter graphics/ofTTFCharacter
+ofTrueTypeFont graphics/ofTrueTypeFont__glyph
+ofUnicode graphics/ofUnicode
+ofUnicode graphics/ofUnicode__range
 ofMath math/ofMath
 ofAngleDifferenceDegrees math/ofMath show_ofAngleDifferenceDegrees
 ofAngleDifferenceRadians math/ofMath show_ofAngleDifferenceRadians
@@ -497,11 +571,11 @@ ofDegToRad math/ofMath show_ofDegToRad
 ofDist math/ofMath show_ofDist
 ofDistSquared math/ofMath show_ofDistSquared
 ofInRange math/ofMath show_ofInRange
-ofInsidePoly math/ofMath show_ofInsidePoly
 ofInterpolateCatmullRom math/ofMath show_ofInterpolateCatmullRom
 ofInterpolateCosine math/ofMath show_ofInterpolateCosine
 ofInterpolateCubic math/ofMath show_ofInterpolateCubic
 ofInterpolateHermite math/ofMath show_ofInterpolateHermite
+ofIsFloatEqual math/ofMath show_ofIsFloatEqual
 ofLerp math/ofMath show_ofLerp
 ofLerpDegrees math/ofMath show_ofLerpDegrees
 ofLerpRadians math/ofMath show_ofLerpRadians
@@ -522,18 +596,12 @@ ofWrapDegrees math/ofMath show_ofWrapDegrees
 ofWrapRadians math/ofMath show_ofWrapRadians
 ofMatrix3x3 math/ofMatrix3x3
 ofMatrix4x4 math/ofMatrix4x4
-_slang_library_noise1 math/ofNoise show__slang_library_noise1
-_slang_library_noise2 math/ofNoise show__slang_library_noise2
-_slang_library_noise3 math/ofNoise show__slang_library_noise3
-_slang_library_noise4 math/ofNoise show__slang_library_noise4
-grad1 math/ofNoise show_grad1
-grad2 math/ofNoise show_grad2
-grad3 math/ofNoise show_grad3
-grad4 math/ofNoise show_grad4
 ofQuaternion math/ofQuaternion
 ofVec2f math/ofVec2f
 ofVec3f math/ofVec3f
 ofVec4f math/ofVec4f
+toGlm math/ofVectorMath show_toGlm
+toOf math/ofVectorMath show_toOf
 ofFmodSoundPlayer sound/ofFmodSoundPlayer
 ofFmodSetBuffersize sound/ofFmodSoundPlayer show_ofFmodSetBuffersize
 ofFmodSoundGetSpectrum sound/ofFmodSoundPlayer show_ofFmodSoundGetSpectrum
@@ -553,6 +621,7 @@ ofSoundShutdown sound/ofSoundPlayer show_ofSoundShutdown
 ofSoundStopAll sound/ofSoundPlayer show_ofSoundStopAll
 ofSoundUpdate sound/ofSoundPlayer show_ofSoundUpdate
 ofSoundStream sound/ofSoundStream
+ofSoundStreamSettings sound/ofSoundStreamSettings
 ofSoundStreamClose sound/ofSoundStream show_ofSoundStreamClose
 ofSoundStreamListDevices sound/ofSoundStream show_ofSoundStreamListDevices
 ofSoundStreamSetup sound/ofSoundStream show_ofSoundStreamSetup
@@ -587,13 +656,18 @@ ofBaseVideoPlayer types/ofBaseVideoPlayer
 ofColor_ types/ofColor
 ofParameter types/ofParameter
 ofParameterGroup types/ofParameterGroup
+ofParameterGroup types/ofParameterGroup__Value
+ofParameter types/ofParameter__Value
 ofPoint types/ofPoint
 ofReadOnlyParameter types/ofReadOnlyParameter
 ofRectangle types/ofRectangle
-ofSerialDeviceInfo types/ofSerialDeviceInfo
 ofStyle types/ofStyle
 ExtensionComparator utils/ExtensionComparator
 ofBuffer utils/ofBuffer
+ofBuffer utils/ofBuffer__Line
+ofBuffer utils/ofBuffer__Lines
+ofBuffer utils/ofBuffer__RLine
+ofBuffer utils/ofBuffer__RLines
 ofConsoleLoggerChannel utils/ofConsoleLoggerChannel
 ofDirectory utils/ofDirectory
 ofFile utils/ofFile
@@ -613,6 +687,7 @@ ofLogVerbose utils/ofLogVerbose
 ofLogWarning utils/ofLogWarning
 ofGetLogLevel utils/ofLog show_ofGetLogLevel
 ofGetLogLevelName utils/ofLog show_ofGetLogLevelName
+ofGetLoggerChannel utils/ofLog show_ofGetLoggerChannel
 ofLogToConsole utils/ofLog show_ofLogToConsole
 ofLogToFile utils/ofLog show_ofLogToFile
 ofSetLogLevel utils/ofLog show_ofSetLogLevel
@@ -624,6 +699,7 @@ ofSystemSaveDialog utils/ofSystemUtils show_ofSystemSaveDialog
 ofSystemTextBoxDialog utils/ofSystemUtils show_ofSystemTextBoxDialog
 ofThread utils/ofThread
 ofThreadChannel utils/ofThreadChannel
+ofTime utils/ofTime
 ofTimer utils/ofTimer
 ofURLFileLoader utils/ofURLFileLoader
 ofLoadURL utils/ofURLFileLoader show_ofLoadURL
@@ -637,7 +713,6 @@ ofStopURLLoader utils/ofURLFileLoader show_ofStopURLLoader
 ofURLResponseEvent utils/ofURLFileLoader show_ofURLResponseEvent
 ofUnregisterURLNotification utils/ofURLFileLoader show_ofUnregisterURLNotification
 ofUTF8Iterator utils/ofUTF8Iterator
-ofAppendUTF8 utils/ofUtils show_ofAppendUTF8
 ofBinaryToChar utils/ofUtils show_ofBinaryToChar
 ofBinaryToFloat utils/ofUtils show_ofBinaryToFloat
 ofBinaryToInt utils/ofUtils show_ofBinaryToInt
@@ -647,16 +722,18 @@ ofDisableDataPath utils/ofUtils show_ofDisableDataPath
 ofEnableDataPath utils/ofUtils show_ofEnableDataPath
 ofFind utils/ofUtils show_ofFind
 ofFromString utils/ofUtils show_ofFromString
+ofGetCurrentTime utils/ofUtils show_ofGetCurrentTime
 ofGetDay utils/ofUtils show_ofGetDay
 ofGetElapsedTimeMicros utils/ofUtils show_ofGetElapsedTimeMicros
 ofGetElapsedTimeMillis utils/ofUtils show_ofGetElapsedTimeMillis
 ofGetElapsedTimef utils/ofUtils show_ofGetElapsedTimef
+ofGetEnv utils/ofUtils show_ofGetEnv
 ofGetHours utils/ofUtils show_ofGetHours
 ofGetMinutes utils/ofUtils show_ofGetMinutes
 ofGetMonth utils/ofUtils show_ofGetMonth
 ofGetSeconds utils/ofUtils show_ofGetSeconds
-ofGetSystemTime utils/ofUtils show_ofGetSystemTime
 ofGetSystemTimeMicros utils/ofUtils show_ofGetSystemTimeMicros
+ofGetSystemTimeMillis utils/ofUtils show_ofGetSystemTimeMillis
 ofGetTargetPlatform utils/ofUtils show_ofGetTargetPlatform
 ofGetTimestampString utils/ofUtils show_ofGetTimestampString
 ofGetUnixTime utils/ofUtils show_ofGetUnixTime
@@ -688,6 +765,7 @@ ofSplitString utils/ofUtils show_ofSplitString
 ofStringReplace utils/ofUtils show_ofStringReplace
 ofStringTimesInString utils/ofUtils show_ofStringTimesInString
 ofSystem utils/ofUtils show_ofSystem
+ofTo utils/ofUtils show_ofTo
 ofToBinary utils/ofUtils show_ofToBinary
 ofToBool utils/ofUtils show_ofToBool
 ofToChar utils/ofUtils show_ofToChar
@@ -698,13 +776,23 @@ ofToHex utils/ofUtils show_ofToHex
 ofToInt utils/ofUtils show_ofToInt
 ofToInt64 utils/ofUtils show_ofToInt64
 ofToLower utils/ofUtils show_ofToLower
-ofToString utils/ofUtils show_ofToString
 ofToUpper utils/ofUtils show_ofToUpper
 ofTrim utils/ofUtils show_ofTrim
 ofTrimBack utils/ofUtils show_ofTrimBack
 ofTrimFront utils/ofUtils show_ofTrimFront
+ofUTF8Append utils/ofUtils show_ofUTF8Append
+ofUTF8Erase utils/ofUtils show_ofUTF8Erase
+ofUTF8Insert utils/ofUtils show_ofUTF8Insert
+ofUTF8Length utils/ofUtils show_ofUTF8Length
+ofUTF8Substring utils/ofUtils show_ofUTF8Substring
+ofUTF8ToString utils/ofUtils show_ofUTF8ToString
 ofVAArgsToString utils/ofUtils show_ofVAArgsToString
 ofXml utils/ofXml
+ofXmlIterator utils/ofXmlIterator
+ofXmlSearchIterator utils/ofXmlSearchIterator
+ofXml utils/ofXml__Attribute
+ofXml utils/ofXml__Range
+ofXml utils/ofXml__Search
 ofAVFoundationPlayer video/ofAVFoundationPlayer
 ofDirectShowGrabber video/ofDirectShowGrabber
 ofDirectShowPlayer video/ofDirectShowPlayer
@@ -713,6 +801,7 @@ ofGstCamData video/ofGstCamData
 ofGstDevice video/ofGstDevice
 ofGstFramerate video/ofGstFramerate
 ofGstUtils video/ofGstUtils
+ofGstUtils video/ofGstUtils__ofGstMainLoopThread
 ofGstVideoFormat video/ofGstVideoFormat
 ofGstVideoGrabber video/ofGstVideoGrabber
 ofGstVideoPlayer video/ofGstVideoPlayer

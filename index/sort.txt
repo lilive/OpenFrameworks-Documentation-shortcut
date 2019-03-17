@@ -1,1 +1,2 @@
 ofDirectory utils/ofDirectory.html#show_sort
+ofXml utils/ofXml__Search.html#show_sort

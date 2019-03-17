@@ -1,2 +1,2 @@
-ofMesh 3d/ofMesh.html#show_clearColors
+ofMesh_ 3d/ofMesh.html#show_clearColors
 ofVbo gl/ofVbo.html#show_clearColors

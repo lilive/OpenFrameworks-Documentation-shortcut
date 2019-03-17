@@ -7,6 +7,8 @@ ofxiOSVideoPlayer ofxiOS/ofxiOSVideoPlayer.html#show_getPixels
 ofxKinect ofxKinect/ofxKinect.html#show_getPixels
 ofxCvImage ofxOpenCv/ofxCvImage.html#show_getPixels
 ofImage_ graphics/ofImage.html#show_getPixels
+ofPixels graphics/ofPixels__ConstLine.html#show_getPixels
+ofPixels graphics/ofPixels__Line.html#show_getPixels
 ofBaseHasPixels_ types/ofBaseHasPixels.html#show_getPixels
 ofAVFoundationPlayer video/ofAVFoundationPlayer.html#show_getPixels
 ofDirectShowGrabber video/ofDirectShowGrabber.html#show_getPixels

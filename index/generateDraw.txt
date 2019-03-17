@@ -1,5 +1,7 @@
 ofxBaseGui ofxGui/ofxBaseGui.html#show_generateDraw
+ofxColorPicker_ ofxGui/ofxColorPicker.html#show_generateDraw
 ofxGuiGroup ofxGui/ofxGuiGroup.html#show_generateDraw
+ofxInputField ofxGui/ofxInputField.html#show_generateDraw
 ofxLabel ofxGui/ofxLabel.html#show_generateDraw
 ofxPanel ofxGui/ofxPanel.html#show_generateDraw
 ofxSlider ofxGui/ofxSlider.html#show_generateDraw

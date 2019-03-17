@@ -1,1 +1,1 @@
-ofPolyline graphics/ofPolyline.html#show_getCentroid2D
+ofPolyline_ graphics/ofPolyline.html#show_getCentroid2D

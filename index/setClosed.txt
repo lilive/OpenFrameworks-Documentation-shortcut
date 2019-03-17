@@ -1,1 +1,1 @@
-ofPolyline graphics/ofPolyline.html#show_setClosed
+ofPolyline_ graphics/ofPolyline.html#show_setClosed

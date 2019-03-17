@@ -5,4 +5,3 @@ ofAppEGLWindow application/ofAppEGLWindow.html#show_events
 ofAppGLFWWindow application/ofAppGLFWWindow.html#show_events
 ofAppGlutWindow application/ofAppGlutWindow.html#show_events
 ofAppNoWindow application/ofAppNoWindow.html#show_events
-ofMainLoop application/ofMainLoop.html#show_events

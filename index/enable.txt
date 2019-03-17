@@ -1,3 +1,4 @@
 ofBaseEvent events/ofBaseEvent.html#show_enable
 ofCoreEvents events/ofCoreEvents.html#show_enable
 ofLight gl/ofLight.html#show_enable
+ofVbo gl/ofVbo__VertexAttribute.html#show_enable

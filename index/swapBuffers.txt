@@ -1,0 +1,4 @@
+ofAppBaseWindow application/ofAppBaseWindow.html#show_swapBuffers
+ofAppEGLWindow application/ofAppEGLWindow.html#show_swapBuffers
+ofAppGLFWWindow application/ofAppGLFWWindow.html#show_swapBuffers
+ofAppGlutWindow application/ofAppGlutWindow.html#show_swapBuffers

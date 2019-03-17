@@ -5,6 +5,8 @@ ofxEmscriptenVideoPlayer ofxEmscripten/ofxEmscriptenVideoPlayer.html#show_getPix
 ofxiOSVideoGrabber ofxiOS/ofxiOSVideoGrabber.html#show_getPixelFormat
 ofxiOSVideoPlayer ofxiOS/ofxiOSVideoPlayer.html#show_getPixelFormat
 ofPixels_ graphics/ofPixels.html#show_getPixelFormat
+ofPixels graphics/ofPixels__ConstPixel.html#show_getPixelFormat
+ofPixels graphics/ofPixels__Pixel.html#show_getPixelFormat
 ofBaseVideo types/ofBaseVideo.html#show_getPixelFormat
 ofAVFoundationPlayer video/ofAVFoundationPlayer.html#show_getPixelFormat
 ofDirectShowGrabber video/ofDirectShowGrabber.html#show_getPixelFormat

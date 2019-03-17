@@ -1,4 +1,6 @@
+ofNode 3d/ofNode.html#show_removeListener
 ofxButton ofxGui/ofxButton.html#show_removeListener
+ofxInputField ofxGui/ofxInputField.html#show_removeListener
 ofxLabel ofxGui/ofxLabel.html#show_removeListener
 ofxSlider ofxGui/ofxSlider.html#show_removeListener
 ofxToggle ofxGui/ofxToggle.html#show_removeListener

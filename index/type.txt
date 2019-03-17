@@ -1,1 +1,2 @@
 ofAbstractParameter types/ofAbstractParameter.html#show_type
+ofXml utils/ofXml__Search.html#show_type

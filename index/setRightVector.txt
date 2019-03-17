@@ -1,1 +1,1 @@
-ofPolyline graphics/ofPolyline.html#show_setRightVector
+ofPolyline_ graphics/ofPolyline.html#show_setRightVector

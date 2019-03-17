@@ -1,3 +1,12 @@
+ofNode 3d/ofNode.html#show_rotateRad
+ofGLProgrammableRenderer gl/ofGLProgrammableRenderer.html#show_rotateRad
+ofGLRenderer gl/ofGLRenderer.html#show_rotateRad
+ofCairoRenderer graphics/ofCairoRenderer.html#show_rotateRad
+ofPath graphics/ofPath.html#show_rotateRad
+ofPolyline_ graphics/ofPolyline.html#show_rotateRad
+ofRendererCollection graphics/ofRendererCollection.html#show_rotateRad
 ofMatrix4x4 math/ofMatrix4x4.html#show_rotateRad
 ofVec2f math/ofVec2f.html#show_rotateRad
 ofVec3f math/ofVec3f.html#show_rotateRad
+ofBaseRenderer types/ofBaseRenderer.html#show_rotateRad
+ofMatrixStack utils/ofMatrixStack.html#show_rotateRad

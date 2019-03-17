@@ -1,7 +1,9 @@
 ofEasyCam 3d/ofEasyCam.html#show_mousePressed
 ofxBaseGui ofxGui/ofxBaseGui.html#show_mousePressed
 ofxButton ofxGui/ofxButton.html#show_mousePressed
+ofxColorPicker_ ofxGui/ofxColorPicker.html#show_mousePressed
 ofxGuiGroup ofxGui/ofxGuiGroup.html#show_mousePressed
+ofxInputField ofxGui/ofxInputField.html#show_mousePressed
 ofxLabel ofxGui/ofxLabel.html#show_mousePressed
 ofxSlider ofxGui/ofxSlider.html#show_mousePressed
 ofxToggle ofxGui/ofxToggle.html#show_mousePressed

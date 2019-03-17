@@ -1,0 +1,6 @@
+ofNode 3d/ofNode.html#show_rotateDeg
+ofGLRenderer gl/ofGLRenderer.html#show_rotateDeg
+ofPath graphics/ofPath.html#show_rotateDeg
+ofPolyline_ graphics/ofPolyline.html#show_rotateDeg
+ofRendererCollection graphics/ofRendererCollection.html#show_rotateDeg
+ofBaseRenderer types/ofBaseRenderer.html#show_rotateDeg

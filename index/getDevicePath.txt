@@ -1,1 +1,1 @@
-ofSerialDeviceInfo types/ofSerialDeviceInfo.html#show_getDevicePath
+ofSerialDeviceInfo communication/ofSerialDeviceInfo.html#show_getDevicePath

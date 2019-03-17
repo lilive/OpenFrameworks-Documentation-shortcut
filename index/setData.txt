@@ -1,2 +1,3 @@
 ofBufferObject gl/ofBufferObject.html#show_setData
-ofMaterial gl/ofMaterial.html#show_setData
+ofVbo gl/ofVbo__IndexAttribute.html#show_setData
+ofVbo gl/ofVbo__VertexAttribute.html#show_setData

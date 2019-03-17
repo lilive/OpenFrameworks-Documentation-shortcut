@@ -1,13 +1,6 @@
 ofNode 3d/ofNode.html#show_rotate
 ofxCvImage ofxOpenCv/ofxCvImage.html#show_rotate
 ofNoopRenderer application/ofNoopRenderer.html#show_rotate
-ofGLProgrammableRenderer gl/ofGLProgrammableRenderer.html#show_rotate
-ofGLRenderer gl/ofGLRenderer.html#show_rotate
-ofCairoRenderer graphics/ofCairoRenderer.html#show_rotate
-ofPath graphics/ofPath.html#show_rotate
-ofRendererCollection graphics/ofRendererCollection.html#show_rotate
 ofMatrix4x4 math/ofMatrix4x4.html#show_rotate
 ofVec2f math/ofVec2f.html#show_rotate
 ofVec3f math/ofVec3f.html#show_rotate
-ofBaseRenderer types/ofBaseRenderer.html#show_rotate
-ofMatrixStack utils/ofMatrixStack.html#show_rotate

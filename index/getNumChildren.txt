@@ -1,1 +1,1 @@
-ofXml utils/ofXml.html#show_getNumChildren
+ofxXmlPoco ofxPoco/ofxXmlPoco.html#show_getNumChildren

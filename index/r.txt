@@ -1,2 +1,0 @@
-ofxAssimpModelLoader ofxAssimpModelLoader/ofxAssimpModelLoader.html#show_r
-BackgroundTrackMgr ofxiOS/BackgroundTrackMgr.html#show_r

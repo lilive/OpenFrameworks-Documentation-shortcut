@@ -1,0 +1,3 @@
+ofGLRenderer gl/ofGLRenderer.html#show_rotateYDeg
+ofRendererCollection graphics/ofRendererCollection.html#show_rotateYDeg
+ofBaseRenderer types/ofBaseRenderer.html#show_rotateYDeg

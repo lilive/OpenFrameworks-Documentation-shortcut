@@ -1,1 +1,1 @@
-ofPolyline graphics/ofPolyline.html#show_getNormalAtIndex
+ofPolyline_ graphics/ofPolyline.html#show_getNormalAtIndex

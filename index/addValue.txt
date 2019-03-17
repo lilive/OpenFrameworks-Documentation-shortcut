@@ -1,2 +1,2 @@
+ofxXmlPoco ofxPoco/ofxXmlPoco.html#show_addValue
 ofxXmlSettings ofxXmlSettings/ofxXmlSettings.html#show_addValue
-ofXml utils/ofXml.html#show_addValue

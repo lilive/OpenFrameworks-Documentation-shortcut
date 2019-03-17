@@ -7,6 +7,7 @@ ofxEmscriptenSoundPlayer ofxEmscripten/ofxEmscriptenSoundPlayer.html#show_setPos
 ofxEmscriptenVideoPlayer ofxEmscripten/ofxEmscriptenVideoPlayer.html#show_setPosition
 ofxBaseGui ofxGui/ofxBaseGui.html#show_setPosition
 ofxGuiGroup ofxGui/ofxGuiGroup.html#show_setPosition
+ofxSlider ofxGui/ofxSlider.html#show_setPosition
 BackgroundTrackMgr ofxiOS/BackgroundTrackMgr.html#show_setPosition
 ofxiOSKeyboard ofxiOS/ofxiOSKeyboard.html#show_setPosition
 ofxiOSSoundPlayer ofxiOS/ofxiOSSoundPlayer.html#show_setPosition

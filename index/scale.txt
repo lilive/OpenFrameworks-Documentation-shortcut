@@ -4,6 +4,7 @@ ofGLProgrammableRenderer gl/ofGLProgrammableRenderer.html#show_scale
 ofGLRenderer gl/ofGLRenderer.html#show_scale
 ofCairoRenderer graphics/ofCairoRenderer.html#show_scale
 ofPath graphics/ofPath.html#show_scale
+ofPolyline_ graphics/ofPolyline.html#show_scale
 ofRendererCollection graphics/ofRendererCollection.html#show_scale
 ofMatrix4x4 math/ofMatrix4x4.html#show_scale
 ofVec2f math/ofVec2f.html#show_scale

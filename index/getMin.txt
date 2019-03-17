@@ -1,3 +1,4 @@
+ofxInputField ofxGui/ofxInputField.html#show_getMin
 ofxSlider ofxGui/ofxSlider.html#show_getMin
 ofParameter types/ofParameter.html#show_getMin
 ofReadOnlyParameter types/ofReadOnlyParameter.html#show_getMin

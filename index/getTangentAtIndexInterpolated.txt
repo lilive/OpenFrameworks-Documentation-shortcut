@@ -1,1 +1,1 @@
-ofPolyline graphics/ofPolyline.html#show_getTangentAtIndexInterpolated
+ofPolyline_ graphics/ofPolyline.html#show_getTangentAtIndexInterpolated

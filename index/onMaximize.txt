@@ -1,0 +1,2 @@
+ofxColorSlider_ ofxGui/ofxColorSlider.html#show_onMaximize
+ofxGuiGroup ofxGui/ofxGuiGroup.html#show_onMaximize

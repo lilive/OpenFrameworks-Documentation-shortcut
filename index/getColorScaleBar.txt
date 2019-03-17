@@ -1,0 +1,1 @@
+ofxColorPicker_ ofxGui/ofxColorPicker.html#show_getColorScaleBar

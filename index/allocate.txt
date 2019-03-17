@@ -2,6 +2,8 @@ ofxCvImage ofxOpenCv/ofxCvImage.html#show_allocate
 ofBufferObject gl/ofBufferObject.html#show_allocate
 ofFbo gl/ofFbo.html#show_allocate
 ofTexture gl/ofTexture.html#show_allocate
+ofVbo gl/ofVbo__IndexAttribute.html#show_allocate
+ofVbo gl/ofVbo__VertexAttribute.html#show_allocate
 ofImage_ graphics/ofImage.html#show_allocate
 ofPixels_ graphics/ofPixels.html#show_allocate
 ofSoundBuffer sound/ofSoundBuffer.html#show_allocate

@@ -1,2 +1,2 @@
-ofMesh 3d/ofMesh.html#show_clearNormals
+ofMesh_ 3d/ofMesh.html#show_clearNormals
 ofVbo gl/ofVbo.html#show_clearNormals

@@ -1,1 +1,0 @@
-ofThread utils/ofThread.html#show_getCurrentPocoThread

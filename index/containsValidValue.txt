@@ -1,0 +1,1 @@
+ofxInputField ofxGui/ofxInputField.html#show_containsValidValue

@@ -1,5 +1,7 @@
-ofMesh 3d/ofMesh.html#show_getColor
-ofMeshFace 3d/ofMeshFace.html#show_getColor
+ofMeshFace_ 3d/ofMeshFace.html#show_getColor
+ofMesh_ 3d/ofMesh.html#show_getColor
 ofImage_ graphics/ofImage.html#show_getColor
 ofPixels_ graphics/ofPixels.html#show_getColor
+ofPixels graphics/ofPixels__ConstPixel.html#show_getColor
+ofPixels graphics/ofPixels__Pixel.html#show_getColor
 ofParameterGroup types/ofParameterGroup.html#show_getColor

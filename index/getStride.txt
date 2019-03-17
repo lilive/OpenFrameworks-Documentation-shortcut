@@ -1,0 +1,2 @@
+ofPixels graphics/ofPixels__ConstLine.html#show_getStride
+ofPixels graphics/ofPixels__Line.html#show_getStride

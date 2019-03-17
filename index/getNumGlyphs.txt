@@ -1,0 +1,1 @@
+ofUnicode graphics/ofUnicode__range.html#show_getNumGlyphs

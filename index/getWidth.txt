@@ -20,6 +20,7 @@ ofAppEGLWindow application/ofAppEGLWindow.html#show_getWidth
 ofAppGLFWWindow application/ofAppGLFWWindow.html#show_getWidth
 ofAppGlutWindow application/ofAppGlutWindow.html#show_getWidth
 ofAppNoWindow application/ofAppNoWindow.html#show_getWidth
+ofWindowSettings application/ofWindowSettings.html#show_getWidth
 ofFbo gl/ofFbo.html#show_getWidth
 ofTexture gl/ofTexture.html#show_getWidth
 ofImage_ graphics/ofImage.html#show_getWidth

@@ -7,8 +7,10 @@ ofxAppEmscriptenWindow ofxEmscripten/ofxAppEmscriptenWindow.html#show_setup
 ofxEmscriptenSoundStream ofxEmscripten/ofxEmscriptenSoundStream.html#show_setup
 ofxEmscriptenVideoGrabber ofxEmscripten/ofxEmscriptenVideoGrabber.html#show_setup
 ofxButton ofxGui/ofxButton.html#show_setup
+ofxColorPicker_ ofxGui/ofxColorPicker.html#show_setup
 ofxColorSlider_ ofxGui/ofxColorSlider.html#show_setup
 ofxGuiGroup ofxGui/ofxGuiGroup.html#show_setup
+ofxInputField ofxGui/ofxInputField.html#show_setup
 ofxLabel ofxGui/ofxLabel.html#show_setup
 ofxPanel ofxGui/ofxPanel.html#show_setup
 ofxSlider ofxGui/ofxSlider.html#show_setup
@@ -34,6 +36,8 @@ ofSerial communication/ofSerial.html#show_setup
 ofGLProgrammableRenderer gl/ofGLProgrammableRenderer.html#show_setup
 ofGLRenderer gl/ofGLRenderer.html#show_setup
 ofLight gl/ofLight.html#show_setup
+ofMaterial gl/ofMaterial.html#show_setup
+ofShader gl/ofShader.html#show_setup
 ofCairoRenderer graphics/ofCairoRenderer.html#show_setup
 ofPASoundStream sound/ofPASoundStream.html#show_setup
 ofRtAudioSoundStream sound/ofRtAudioSoundStream.html#show_setup

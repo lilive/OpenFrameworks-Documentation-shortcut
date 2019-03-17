@@ -1,0 +1,4 @@
+ofxEmscriptenSoundStream ofxEmscripten/ofxEmscriptenSoundStream.html#show_getInDevice
+ofRtAudioSoundStream sound/ofRtAudioSoundStream.html#show_getInDevice
+ofSoundStreamSettings sound/ofSoundStreamSettings.html#show_getInDevice
+ofBaseSoundStream types/ofBaseSoundStream.html#show_getInDevice

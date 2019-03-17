@@ -1,2 +1,2 @@
-ofPolyline graphics/ofPolyline.html#show_inside
+ofPolyline_ graphics/ofPolyline.html#show_inside
 ofRectangle types/ofRectangle.html#show_inside

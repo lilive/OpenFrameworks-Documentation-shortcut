@@ -1,1 +1,1 @@
-ofPolyline graphics/ofPolyline.html#show_getIndexAtPercent
+ofPolyline_ graphics/ofPolyline.html#show_getIndexAtPercent
