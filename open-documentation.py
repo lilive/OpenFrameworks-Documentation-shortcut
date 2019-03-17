@@ -49,12 +49,12 @@ scriptDirPath = os.path.dirname(os.path.realpath(__file__))
 indexPath = os.path.join( scriptDirPath, 'index' )
 
 # Get the searched keyword
-if len( sys.argv ) < 2 :
-    print 'Error: This script must be call with an item name to search in the documentation as parameter.'
-    sys.exit(1)
-keyword = sys.argv[1]
-
-# Open the index file
+if len( sys.argv ) < 2 :
+    print 'Error: This script must be call with an item name to search in the documentation as parameter.'
+    sys.exit(1)
+keyword = sys.argv[1]
+
+# Open the index file
 classesAndGlobalFunctionsIndexPath = os.path.join( indexPath, 'classesAndGlobalFunctions.txt' )
 if not os.path.isfile( classesAndGlobalFunctionsIndexPath ):
     print 'Error: No index found.'
@@ -140,19 +140,19 @@ if os.path.isfile( indexPath ):
         window.iconbitmap( icoPath + '.xbm' )
     
     # The scrollbar to scroll the list
-    scrollBar = Tkinter.Scrollbar( window )
-    scrollBar.pack( side=Tkinter.RIGHT, fill=Tkinter.Y )
+    scrollBar = Tkinter.Scrollbar( window )
+    scrollBar.pack( side=Tkinter.RIGHT, fill=Tkinter.Y )
     
     # The list of the classes
     height = max( 5, len(entries) )
     height = min( 30, height )
-    font = tkFont.Font(family='Helvetica', size=10)
-    listBox = Tkinter.Listbox(window, font=font, width=40, height=height, exportselection=0 )
-    listBox.pack( side=Tkinter.RIGHT, fill=Tkinter.Y )
+    font = tkFont.Font(family='Helvetica', size=10)
+    listBox = Tkinter.Listbox(window, font=font, width=40, height=height, exportselection=0 )
+    listBox.pack( side=Tkinter.RIGHT, fill=Tkinter.Y )
     for entry in entries:
         listBox.insert( Tkinter.END, entry[0] )
-    listBox.activate( 0 )
-    listBox.selection_set( 0 )
+    listBox.activate( 0 )
+    listBox.selection_set( 0 )
     listBox.focus_set()
     
     # Attach the scrollbar to the list
